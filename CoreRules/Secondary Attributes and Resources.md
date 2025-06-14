@@ -1,6 +1,11 @@
 ## Health System
 
+**Hit points** in this game represent the overall character toughness, coming from his strength of mind (Focus), body (Health) and protection ([[Armour]]). It is split into thresholds of temporary and serious wounds.
 
+**[[Temporary Wounds]]** represent fatigue, bruises, minor cuts, and the accumulated stress of combat. You're hurt and tired, but nothing that won't heal with rest and recuperation. These wounds reflect your body's ability to absorb punishment without lasting damage. 
+**[[Serious Wounds]]** are debilitating injuries - broken bones, deep cuts, internal trauma, or magical corruption that requires proper medical attention. Each serious wound impairs your abilities as pain and injury take their toll, representing genuine physical trauma that mere rest cannot heal.
+
+**[[Consequences]]**  Falling in combat to a lethal attack leads to a consequence from the [[Consequences]] table. (Outside MVP scope.)
 
 ## Health and Damage
 
@@ -10,6 +15,8 @@
 **Damage Threshold** = Base Resilience + Armor Bonus
 **Total Wounds** = 2 + Health 
 **Total HP** = Damage Threshold × Total Wounds 
+
+Combatants are not expected to fight without their main armor, but if they are remove AB*wounds from the wound pull, and lower each threshold by Armor bonus. 
 
 ### Damage Zones
 
