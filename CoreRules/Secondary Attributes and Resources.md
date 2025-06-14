@@ -95,4 +95,5 @@ Character with 2 Temporary Wounds and 1 Serious Wound:
 
 ## Movement System
 
+
 **Speed**: [To be filled]
