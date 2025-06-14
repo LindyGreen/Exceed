@@ -1,3 +1,5 @@
+Secondary Attributes consist of HP Systems, Magical Limits, Mana, and movement. 
+
 ## Health System
 
 **Hit points** in this game represent the overall character toughness, coming from his strength of mind (Focus), body (Health) and protection ([[Armour]]). It is split into thresholds of temporary and serious wounds.
