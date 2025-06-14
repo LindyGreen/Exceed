@@ -6,8 +6,6 @@
 **[[Serious Wounds]]** are debilitating injuries - broken bones, deep cuts, internal trauma, or magical corruption that requires proper medical attention. Each serious wound impairs your abilities as pain and injury take their toll, representing genuine physical trauma that mere rest cannot heal.
 
 **[[Consequences]]**  Falling in combat to a lethal attack leads to a consequence from the [[Consequences]] table. (Outside MVP scope.)
-lkasjdf;lkasjdfl;kajd;lkfjas;lkdfjakl;s
-adslfja;lkdjfkl;asdjfkl;ajdsfkl;asdjfl;kajdas;dkfa;lsdjf;lkasjdflk;ajsdlkfasdfasdf
 ## Health and Damage
 
 ### Calculating Your Health
