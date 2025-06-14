@@ -75,7 +75,7 @@ Character with 2 Temporary Wounds and 1 Serious Wound:
 - **Concentration pool** for sustained magical effects including:
   - Personal magical buffs and enchantments (Shield, Invisibility, Enhanced Strength)
   - Communal effects affecting self + allies (Group Fire Resistance, Party Water Walking)
-  - Summoned creatures and constructs
+  - Summoned creatures and constructsv
   - Active magical items requiring concentration (enchanted armor, magical weapons)
 
 **Magical Training Benefits:**
