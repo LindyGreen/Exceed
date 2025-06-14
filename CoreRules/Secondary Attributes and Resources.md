@@ -7,7 +7,7 @@
 
 **[[Consequences]]**  Falling in combat to a lethal attack leads to a consequence from the [[Consequences]] table. (Outside MVP scope.)
 lkasjdf;lkasjdfl;kajd;lkfjas;lkdfjakl;s
-adslfja;lkdjfkl;asdjfkl;ajdsfkl;asdjfl;kajdas;dkfa;lsdjf;lkasjdflk;ajsdlkf
+adslfja;lkdjfkl;asdjfkl;ajdsfkl;asdjfl;kajdas;dkfa;lsdjf;lkasjdflk;ajsdlkfasdfasdf
 ## Health and Damage
 
 ### Calculating Your Health
