@@ -8,16 +8,16 @@ Armour restricts the maximum Control value that can be applied. More expensive a
 ## Armour Table
 
 | **Armour Name** | **Control Cap** | **Power Req** | **Armour Bonus** | **Limit** |
-|---|---|---|---|---|
-| Scout | 3 | 0 | 2 | 1 |
-| Tactical | 2 | 1 | 3 | 1 |
-| Defensive | 1 | 1 | 5 | 2 |
-| Bulwark | 0 | 2 | 7 | 2 |
+| --------------- | --------------- | ------------- | ---------------- | --------- |
+| Scout           | 3               | 0             | 1                | 1         |
+| Tactical        | 2               | 1             | 2                | 1         |
+| Defensive       | 1               | 1             | 3                | 2         |
+| Bulwark         | 0               | 2             | 4                | 2         |
 
 ## Shields
 
 | **Shield Name** | **Control Cap** | **Power Req** | **Armour Bonus** | **Limit** |
-|---|---|---|---|---|
-| Shield | - | 0 | 2 | 1 |
-| Big Shield | - | 1 | 4 | 2 |
-| BigAss Shield | 0 | 2 | 6 | 5 |
+| --------------- | --------------- | ------------- | ---------------- | --------- |
+| Shield          | -               | 0             | 1                | 1         |
+| Big Shield      | -               | 1             | 2                | 2         |
+| BigAss Shield   | 0               | 2             | 4                | 5         |
