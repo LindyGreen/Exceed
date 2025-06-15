@@ -1,7 +1,12 @@
-# Weapons
+## Attacking
 
-Attack Modifier = Control + weapon skill.  
-Damage = Weapon Damage+Power+WeaponSkill 
+**Attack Modifier** = Control + Weapon skill.  
+
+**Second attack penalty**. Making second and further attacks with same hand provide -2 penalty to the attacks. 
+**Two-Handed Weapons**: Weapons wielded in both hands count as attacks from the same hand for penalty purposes. 
+**Agile Weapons:** are exempt of the second attack penalty.
+
+Damage = Weapon Damage+Power+Weapon Skill 
 ## Weapon Traits
 - **Thrown X**: Can throw the weapon up to X Squares without a range penalty.
 - **Quick drawn**: Take out the weapon as part of the attack
