@@ -18,7 +18,7 @@ Circumstance modifiers are applied to the DC, not the roll.
 - Checks targeting attributes: climbing, remembering, swimming, balancing, etc., use doubled attribute+1d10-1d10.
     
 
-Tasks of -5 or lower overall DC don't require checks under normal conditions.  
+Tasks of -2 or lower overall DC don't require checks under normal conditions.  
   
  
 
