@@ -43,23 +43,23 @@ The common list might vary based on region.
 
 ## Weapons Table
 
-| Weapon             | DMG | Power Req | Properties                                          |
-| ------------------ | --- | --------- | --------------------------------------------------- |
-| Dagger             | 2   | 0         | Quick Drawn, Thrown 2, Agile                        |
-| Arming Sword       | 3   | 0         | Agile,                                              |
-| Mace               | 4   | 1         |                                                     |
-| Javelin/shortspear | 3   | 0         | Thrown 4                                            |
-| Longspear          | 3   | 0         | Vrsatile, counts as both One Handed and Staff&Spear |
-| Longsword          | 4   | 1         | Heavy                                               |
-| Rapier             | 4   | 1         | Conduit                                             |
-| Danish Axe         | 6   | 2         | Heavy, Large                                        |
-| Maul               | 5   | 2         | Nonlethal, Large, Heavy                             |
-| Greatsword         | 5   | 2         | Reach, Agile                                        |
-| War Staff          | 4   | 1         | Nonlethal, Conduit                                  |
-| Quarterstaff       | 3   | 0         | Reach, Nonlethal, Double, Conduit                   |
-| Pike               | 3   | 2         | Long Reach, Large                                   |
-| SwordStaff         | 3   | 1         | Reach, Nonlethal, Large                             |
-| Spearsword         | 4   | 1         | Reach, Double                                       |
+| Weapon             | DMG | Power Req | Properties                                           |
+| ------------------ | --- | --------- | ---------------------------------------------------- |
+| Dagger             | 2   | 0         | Quick Drawn, Thrown 2, Agile                         |
+| Arming Sword       | 3   | 0         | Agile,                                               |
+| Mace               | 4   | 1         |                                                      |
+| Javelin/shortspear | 3   | 0         | Thrown 4                                             |
+| Longspear          | 3   | 0         | Versatile, counts as both One Handed and Staff&Spear |
+| Longsword          | 4   | 1         | Heavy, Versatile                                     |
+| Rapier             | 4   | 1         | Conduit                                              |
+| Danish Axe         | 7   | 3         | Heavy, Large, TwoHanded                              |
+| Maul               | 5   | 2         | Nonlethal, Large, Heavy                              |
+| Greatsword         | 5   | 2         | Reach, Agile                                         |
+| War Staff          | 4   | 1         | Nonlethal, Conduit                                   |
+| Quarterstaff       | 3   | 0         | Reach, Nonlethal, Double, Conduit                    |
+| Pike               | 3   | 2         | Long Reach, Large                                    |
+| SwordStaff         | 3   | 1         | Reach, Nonlethal, Large                              |
+| Spearsword         | 4   | 1         | Reach, Double                                        |
 
 ## Ranged Weapons(WIP)
 
