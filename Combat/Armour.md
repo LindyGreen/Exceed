@@ -7,6 +7,7 @@ Armour restricts the maximum Control value that can be applied. More expensive a
 
 ## Armour Table
 
+
 | **Armour Name** | **Control Cap** | **Power Req** | **Armour Bonus** | **Limit** |
 | --------------- | --------------- | ------------- | ---------------- | --------- |
 | Scout           | 3               | 0             | 1                | 1         |
