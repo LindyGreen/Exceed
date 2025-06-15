@@ -40,7 +40,7 @@ Health 2, Focus 1, Armor Bonus 3:
 - Damage Threshold: 8 (vs physical, HP per wound)
 - Total Wounds: 4
 - Total HP: 32
-- Superficial Wounds: 2 (no penalty)
+- Temporary Wounds: 2 (no penalty)
 - Serious Wounds: 2 (penalties -1, -2)
 
 
@@ -50,7 +50,7 @@ Health 2, Focus 1, Armor Bonus 3:
 
 **Mana Points (MP)**: 10 + Magical Limit
 - Used for **casting spells** and **one-time magical effects**
-- Recovery: Full restoration after rest [[Rest and Recovery]]
+- Recovery: Full restoration after rest - [[Rest and Recovery]]
 
 **Magical Limit**: 3 + Intelligence + Focus  
 - **All characters** have Magical Limit (not just spellcasters)

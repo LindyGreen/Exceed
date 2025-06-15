@@ -14,7 +14,7 @@ When fatigue level exceeds  temporary wound levels, character becomes [[Exhaused
 - **Poor conditions** (sleeping in wilderness, uncomfortable conditions): Requires more time, up to GM.
 
 **Effects:**
-- Each fatigue level removes 1 row of temporary wounds from maximum HP and de-buffs by -1 for all rolls for each level of fatigue.
+- Each fatigue level removes 1 row of temporary wounds from maximum HP and de-buffs by -1 for all rolls for each level of fatigue up to -3.
 - 1 temporary wound remains "locked" (unrecoverable) per fatigue level
 
 ###  Mana Recovery
