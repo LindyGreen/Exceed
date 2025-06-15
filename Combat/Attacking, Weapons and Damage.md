@@ -22,7 +22,7 @@ Damage = Weapon Damage+Power+Weapon Skill+Ability bonuses
 **Thrown X**: You can throw this weapon up to X squares without range penalties. 
 **Two-Handed**: This weapon requires both hands to wield effectively. 
 **Versatile**: When wielding this weapon two-handed with your off-hand empty, increase damage by +1.
-
+**Large** 
 ## Weapon Categories
 
 ### 1. One-Handed Weapons
