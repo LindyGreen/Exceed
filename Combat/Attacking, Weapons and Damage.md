@@ -10,7 +10,7 @@
 Damage = Weapon Damage+Power+Weapon Skill+Ability bonuses 
 ## Weapon Traits
 **Agile**: Weapons with this trait are exempt from the second attack penalty. 
-**Aim:** Using the Aim action reduce the range penalty
+**Aim X:** Using the Aim action reduce the range penalty by X.
 **Concealed**: Weapon provides a +2 bonus to Spy checks to hide it on your person, and is undetectable without inspection.
 **Conduit**: This weapon is or is embedded with magical conduit allowing channeling of spells. 
 **Double**: This weapon counts as different hands for attack penalty purposes, allowing two attacks without the second attack penalty. 
