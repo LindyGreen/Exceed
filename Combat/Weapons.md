@@ -1,14 +1,12 @@
 # Weapons
 
 Attack Modifier = Control + weapon skill.  
-Damage = Weapon Damage+PowerMod+
+Damage = Weapon Damage+Power+WeaponSkill 
 ## Weapon Traits
-
-- **Thrown X**: Essential for ranged combat options
+- **Thrown X**: Can throw the weapon up to X Squares without a range penalty.
 - **Quick drawn**: Take out the weapon as part of the attack
 - **Reach/Long reach**: can target 1-2/2-3 squares. If the weapon has both traits, it requires an action to switch the grip to change.
-- **Defensive X**: Increase DC by X
-- **[[Heavy]]** - [[PLACEHOLDER]]
+- **[[Heavy]]** - Weapon 
 - **[[Large]]** - [[PLACEHOLDER]]
 - **[[Nonlethal]]** - [[PLACEHOLDER]]
 - **[[Conductive]]** - [[PLACEHOLDER]]
