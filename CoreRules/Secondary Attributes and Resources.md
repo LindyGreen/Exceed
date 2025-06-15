@@ -50,7 +50,7 @@ Health 2, Focus 1, Armor Bonus 3:
 
 **Mana Points (MP)**: 10 + Magical Limit
 - Used for **casting spells** and **one-time magical effects**
-- Recovery: Full restoration after rest
+- Recovery: Full restoration after rest [[Rest and Recovery]]
 
 **Magical Limit**: 3 + Intelligence + Focus  
 - **All characters** have Magical Limit (not just spellcasters)
@@ -61,7 +61,7 @@ Health 2, Focus 1, Armor Bonus 3:
   - Active magical items requiring concentration (enchanted armor, magical weapons)
 
 **Magical Training Benefits:**
-- **Higher spell mastery levels** reduce Magical Limit costs for related effects
+- **Higher spell mastery levels** reduce Magical Limit costs for related effects(specified in effects)
 - **Magical items** cost more Limit for characters without appropriate magical training
 
 **Allocation:**
