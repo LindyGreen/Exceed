@@ -38,10 +38,7 @@
 - **PW**: Power
 - **CN**: Control  
 - **FC**: Focus
-- **HT**: Health/Constitution
+- **HT**: Health
 - **IQ**: Intelligence
-- **PL**: Power Limit
-- **ML**: Mental Limit
-- **SP**: Stamina Points
-- **FP**: Focus Points
+- **ML**: Magical Limit
 - **R**: Reaction
