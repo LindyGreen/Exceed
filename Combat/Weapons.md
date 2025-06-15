@@ -1,16 +1,13 @@
 # Weapons
 
 Attack Modifier = Control + weapon skill.  
-Attacking weak spots allows bypassing some or outright/ignoring DR.
-
+Damage = Weapon Damage+PowerMod+
 ## Weapon Traits
 
 - **Thrown X**: Essential for ranged combat options
 - **Quick drawn**: Take out the weapon as part of the attack
 - **Reach/Long reach**: can target 1-2/2-3 squares. If the weapon has both traits, it requires an action to switch the grip to change.
 - **Defensive X**: Increase DC by X
-- **Armour Piercing X:** Attacks ignore DR x
-- **Easy Handling X:** DC increase for targeting a weak spot lowered by X
 - **[[Heavy]]** - [[PLACEHOLDER]]
 - **[[Large]]** - [[PLACEHOLDER]]
 - **[[Nonlethal]]** - [[PLACEHOLDER]]
