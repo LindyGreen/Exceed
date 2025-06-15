@@ -22,12 +22,11 @@ Damage = Weapon Damage+Power+Weapon Skill+Ability bonuses
 **Thrown X**: You can throw this weapon up to X squares without range penalties. 
 **Two-Handed**: This weapon requires both hands to wield effectively. 
 **Versatile**: When wielding this weapon two-handed with your off-hand empty, increase damage by +1.
-**Large** 
+**Large**: you cannot attack inside your square and while engulfed with your weapon. 
 ## Weapon Categories
 
 ### 1. One-Handed Weapons
 Proficiency in all one-handed swords, maces, and axes.
-Using a 1.5 hander still counts.
 
 ### 2. Two-handed weapons
 Proficiency in most two-handed weapons: Danish Axes, Great swords and mauls.
@@ -52,7 +51,8 @@ The common list might vary based on region.
 | Longspear          | 3   | 0         | Versatile, counts as both One Handed and Staff&Spear |
 | Longsword          | 4   | 1         | Heavy, Versatile                                     |
 | Rapier             | 4   | 1         | Conduit                                              |
-| Danish Axe         | 7   | 3         | Heavy, Large, TwoHanded                              |
+| Danish Axe         | 7   | 3         | Heavy, Large, TwoHanded, Sweeping                    |
+| UberZweihander     | 7   | 3         | Twohanded, Reach, Large, Heavy                       |
 | Maul               | 5   | 2         | Nonlethal, Large, Heavy                              |
 | Greatsword         | 5   | 2         | Reach, Agile                                         |
 | War Staff          | 4   | 1         | Nonlethal, Conduit                                   |
