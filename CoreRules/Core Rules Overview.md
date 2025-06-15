@@ -2,7 +2,7 @@
 [[Attributes]]
 	[[Stat Distribution]]
 	[[Secondary Attributes and Resources]]
-	[[Rest and Recovery]]
+	[[Fatigue Rest and Recovery]]
 [[Proficiency]]
 Domains, Trades, Feats
 [[Combat Sequence]]

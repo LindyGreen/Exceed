@@ -30,7 +30,7 @@ Combatants are not expected to fight without their main armor, but if they are r
 - Require medical treatment
 - At Max Wounds, character is incapacitated(unless stated otherwise)
 
-**Fatigue:**
+**Fatigue:** ([[Fatigue Rest and Recovery]])
 Each time gaining a level of fatigue leads to lowering max HP by 1 row of temporary wounds.
 Character can become fatigued up to level of Temporary wounds, falling unconscious if pushed beyond that level.
 
