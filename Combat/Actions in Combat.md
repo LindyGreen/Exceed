@@ -6,10 +6,9 @@ At the beginning of the turn combatant gets their actions and reactions refreshe
 ## Basic Actions (* represents the number of actions)
 
 **Striking** - Striking normally takes * to attack, you can make a step forward as part of the strike.  
-Second and further strikes per turn take 1FP, unless you have the appropriate Advantages/Perks.
+DEPRICATED (Second and further strikes per turn take 1FP, unless you have the appropriate Advantages/Perks_.
 
 **Move** - Actor moves for a number of squares equal to their speed. (Stand and step are move actions)  
-**Rush** (1FP) - Move 1.5 distance  
 **Step** - Actor moves one square without provoking reactions.
 
 **Aggressive Attack** - actor makes an attack with +2 to hit and gets -2 to defence until the end of his next turn.

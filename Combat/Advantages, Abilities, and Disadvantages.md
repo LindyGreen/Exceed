@@ -2,7 +2,7 @@
 
 ## Format Guide
 - **Advantage**: Name, requirement, acquisition price, limit, effect
-- **Ability**: Name, requirement, FP/MP cost, acquisition price, effect  
+- **Ability**: Name, requirement,MP cost, acquisition price, effect  
 - **Disadvantage**: Name, points value, benefit
 
 ## Advantages
