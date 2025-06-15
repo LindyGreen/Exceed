@@ -35,23 +35,23 @@ The common list might vary based on region.
 
 ## Weapons Table
 
-| Weapon | DMG | Power Req | Limit | Properties |
-|---|---|---|---|---|
-| Dagger | 2 | 0 | 0 | Quick Drawn, Thrown 2, Defensive, Easy Handling 2 |
-| Arming Sword | 3 | 0 | 1 | Defensive |
-| Mace | 4 | 1 | 1 | |
-| Javelin/shortspear | 3 | 0 | 1 | Thrown 3 |
-| Longspear | 3 (4 two-handed) | 0 | 1 | TwoHanded option, counts as both One Handed and Staff&Spear |
-| Longsword | 5 | 1 | 1 | Defensive |
-| Rapier | 4 | 1 | 2 | Defensive, Easy Handling 1 |
-| Danish Axe | 6 | 2 | 2 | Heavy, Large |
-| Maul | 5 | 2 | 2 | Nonlethal, Large, Heavy |
-| Greatsword | 5 | 2 | 2 | Defensive, Reach |
-| War Staff | 3 | 0 | 1 | Defensive, Nonlethal, Conductive |
-| Quarterstaff | 3 | 0 | 1 | Defensive, Reach, Nonlethal, Large |
-| Pike | 3 | 2 | 2 | Long Reach, Large |
-| SwordStaff | 3 | 1 | 2 | Reach, Defensive, Nonlethal, Large |
-| Spearsword | 4 | 1 | 2 | Reach, Defensive |
+| Weapon             | DMG              | Power Req | Limit | Properties                                                  |
+| ------------------ | ---------------- | --------- | ----- | ----------------------------------------------------------- |
+| Dagger             | 2                | 0         | 0     | Quick Drawn, Thrown 2,                                      |
+| Arming Sword       | 3                | 0         | 1     |                                                             |
+| Mace               | 4                | 1         | 1     |                                                             |
+| Javelin/shortspear | 3                | 0         | 1     | Thrown 3                                                    |
+| Longspear          | 3 (4 two-handed) | 0         | 1     | TwoHanded option, counts as both One Handed and Staff&Spear |
+| Longsword          | 5                | 1         | 1     |                                                             |
+| Rapier             | 4                | 1         | 2     |                                                             |
+| Danish Axe         | 6                | 2         | 2     | Heavy, Large                                                |
+| Maul               | 5                | 2         | 2     | Nonlethal, Large, Heavy                                     |
+| Greatsword         | 5                | 2         | 2     | Reach                                                       |
+| War Staff          | 3                | 0         | 1     | Nonlethal, Conductive                                       |
+| Quarterstaff       | 3                | 0         | 1     | Reach, Nonlethal, Large                                     |
+| Pike               | 3                | 2         | 2     | Long Reach, Large                                           |
+| SwordStaff         | 3                | 1         | 2     | Reach, Nonlethal, Large                                     |
+| Spearsword         | 4                | 1         | 2     | Reach,                                                      |
 
 ## Ranged Weapons
 
