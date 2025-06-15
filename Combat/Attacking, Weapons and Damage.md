@@ -10,6 +10,7 @@
 Damage = Weapon Damage+Power+Weapon Skill+Ability bonuses 
 ## Weapon Traits
 **Agile**: Weapons with this trait are exempt from the second attack penalty. 
+**Aim:** Using the Aim action reduce the range penalty
 **Concealed**: Weapon provides a +2 bonus to Spy checks to hide it on your person, and is undetectable without inspection.
 **Conduit**: This weapon is or is embedded with magical conduit allowing channeling of spells. 
 **Double**: This weapon counts as different hands for attack penalty purposes, allowing two attacks without the second attack penalty. 
@@ -54,7 +55,7 @@ The common list might vary based on region.
 | Danish Axe         | 6   | 2         | Heavy, Large                                        |
 | Maul               | 5   | 2         | Nonlethal, Large, Heavy                             |
 | Greatsword         | 5   | 2         | Reach, Agile                                        |
-| War Staff          | 4   | 1         | Nonlethal, Conduit,                                 |
+| War Staff          | 4   | 1         | Nonlethal, Conduit                                  |
 | Quarterstaff       | 3   | 0         | Reach, Nonlethal, Double, Conduit                   |
 | Pike               | 3   | 2         | Long Reach, Large                                   |
 | SwordStaff         | 3   | 1         | Reach, Nonlethal, Large                             |
@@ -64,8 +65,8 @@ The common list might vary based on region.
 
 **Note**: Bow damage varies based on Power requirements. An unfit bow will have a minus to hit, a fit one will do extra damage equal to Power.
 
-| Weapon | DMG | Power Req | Limit | Properties |
-|---|---|---|---|---|
-| Shortbow | 4 | varies | 1 | Aim 8 |
-| Longbow | 5 | varies | 2 | Aim 15, No point blank |
+| Weapon   | DMG | Power Req | Properties             |
+| -------- | --- | --------- | ---------------------- |
+| Shortbow | 4   | varies    | Aim 8                  |
+| Longbow  | 5   | varies    | Aim 15, No point blank |
 
