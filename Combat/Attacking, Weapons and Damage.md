@@ -67,8 +67,8 @@ The common list might vary based on region.
 
 **Note**: Bow damage varies based on Power requirements. An unfit bow will have a minus to hit, a fit one will do extra damage equal to Power.
 
-| Weapon   | DMG | Power Req | Properties             |
-| -------- | --- | --------- | ---------------------- |
-| Shortbow | 4   | varies    | Aim 8                  |
-| Longbow  | 5   | varies    | Aim 15, No point blank |
+| Weapon   | DMG         | Power Req | Properties             |
+| -------- | ----------- | --------- | ---------------------- |
+| Shortbow | 4+Power Req | varies    | Aim 8                  |
+| Longbow  | 5+Power Req | varies    | Aim 15, No point blank |
 
