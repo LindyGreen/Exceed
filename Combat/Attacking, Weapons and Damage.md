@@ -23,7 +23,7 @@ Damage = Weapon Damage+Power+Weapon Skill+Ability bonuses
 **Two-Handed**: This weapon requires both hands to wield effectively. 
 **Versatile**: When wielding this weapon two-handed with your off-hand empty, increase damage by +1.
 **Large**: you cannot attack inside your square and while engulfed with your weapon. 
-**Sweeping** - Abilities that allow attacking multiple targets don't activate SAP.
+**Sweeping**: Each consecutive strike within multi-target abilities provides +1 damage
 **No Point Blank** - Can't attack adjacent enemies.
 ## Weapon Categories
 
