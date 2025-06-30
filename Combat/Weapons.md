@@ -11,7 +11,10 @@ Staves, spears, bo-staves, pikes. Sword-staves
 
 ### 4. Ranged Weapons
 Bows, Crossbows, slings, chakrams, etc.
-Each weapon which is not on the common list will require specialised training.
+
+
+
+Each weapon which is not on the common list will require specialized training.
 The common list might vary based on region.
 
 ### Weapon Traits
@@ -65,4 +68,3 @@ a fit or lower power req. bow one will do extra damage equal to it's Power requi
 | Shortbow | 4+Power Req | varies    | Aim 8                  |
 | Longbow  | 5+Power Req | varies    | Aim 15, No point blank |
 
-##Thrown and Ranged Weapons
