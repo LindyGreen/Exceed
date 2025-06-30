@@ -4,7 +4,7 @@ The game uses Domains for proficiency, which are the combination of trades used 
 
 +0 Novice (Unpaid Student)- you have basic knowledge or ability in a skill domain - you understand how to attempt a task in the domain and can perform basic tasks without penalty.
 
-+1 Low Apprentice (Junior 1)- You have a fair amount of practice experience and can tackle moderately challenging tasks and earn income from the craft.
++1 Trainee (Junior 1)- You have a fair amount of practice experience and can tackle moderately challenging tasks and earn income from the craft.
 
 +2 Apprentice (Junior 2)- Your skills in the domain are vast, allowing you to perform all non-specialized tasks of the domain.
 
