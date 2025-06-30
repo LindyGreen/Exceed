@@ -2,11 +2,11 @@
 
 Defence Modifier: Armour doesn't provide a Defence Modifier to Defence Class(DC), but provides ablative armour that gives extra stress and raises the threshold for levels of injuries. Shields provide both AC and armour benefits.
 
-**DC = [highest of Control/Shield/WeaponSkill] + Control + WeaponDefenseBonus**  
-Armour restricts the maximum Control value that can be applied. More expensive armour being less demanding, higher Defence armour usually requiring more Power/Limit to wear.
+**DC = [highest of Focus/Shield/WeaponSkill] + Control**  
+
+Armour restricts the maximum Control value that can be applied in DC. More expensive armour being less demanding, higher Defence armour usually requiring more Power/Limit to wear.
 
 ## Armour Table
-
 
 | **Armour Name** | **Control Cap** | **Power Req** | **Armour Bonus** | **Limit** |
 | --------------- | --------------- | ------------- | ---------------- | --------- |
