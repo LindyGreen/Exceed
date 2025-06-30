@@ -1,5 +1,6 @@
 [[Attributes]] - 
-IQ/FC/CN = 20 points per increase. PW/HT - 10 per increase.
+Intelligence[IQ], Focus[FC] and Control[CN]  = 20 points per increase. 
+Power[PW]/Health[HT] - 10 per increase.
 Attribute increases provide with an attribute feat up to that level.
 #AttributeFeat can be purchased for the half price of the increase
 
