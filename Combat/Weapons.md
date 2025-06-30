@@ -57,7 +57,7 @@ The common list might vary based on region.
 
 ## Ranged Weapons(WIP)
 
-**Note**: Bow damage varies based on Power requirements. An unfit bow will have a minus to hit, a fit one will do extra damage equal to it's Power requirnment. 
+**Note**: Bow damage varies based on Power requirements. An unfit bow (one in which you lack power) will have a minus to hit equal to , a fit one will do extra damage equal to it's Power requirnment. 
 
 | Weapon   | DMG         | Power Req | Properties             |
 | -------- | ----------- | --------- | ---------------------- |
