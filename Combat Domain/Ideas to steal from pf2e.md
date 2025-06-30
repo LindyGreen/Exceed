@@ -14,8 +14,8 @@
 **Reflecting Riposte**: Counter spells with weapon techniques - unique defensive option
 
 **Boundless Reprisals**: Multiple reactions per turn - changes action economy meaningfully- **Leading Dance**: Force enemies to move with you
-- **Switcheroo**: Swap places with enemy
+- **Switcheroo**: Swap places with enemy to get them to take a ranged hit
 - - **Guardian's Deflection**: Protect allies with weapon
 - - **The Bigger They Are**: Find weak spots on large foes
 - Tumble behind
-- 
+
