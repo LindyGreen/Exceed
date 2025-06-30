@@ -18,4 +18,6 @@ At the beginning of your turn, you get 2 actions and 1 reaction. High attributes
 (To be developed, but as of now, in the test phase)
 
 ### Turn Order
-Game Master writes down the result of the initiative and 
+Game Master writes down the result of the initiative and turn goes to the next in line.
+#TagTeam tactics, as well as order delaying is outside of MVP scope.
+
