@@ -19,7 +19,7 @@ The common list might vary based on region.
 
 ### Weapon Traits
 **Agile**: Weapons with this trait are exempt from the second attack penalty. 
-**Aim X:** Using the Aim action extends your effective range by X squares, negating range penalties for that attack. You can use multiple Aim actions in a turn to extend range further, with each Aim action adding X squares to your effective range..
+**Aim Increment X**: Using the Aim action extends your effective range to X squares, negating range penalties for that attack. You can use multiple Aim actions to extend range further, with each Aim action adding X squares to your effective range up to 3 times. This trait also defines the size of range increments for penalty calculation.
 **Concealed**: Weapon provides a +2 bonus to Spy checks to hide it on your person, and is undetectable without inspection.
 **Conduit**: This weapon is or is embedded with magical conduit allowing channeling of spells. 
 **Double**: This weapon counts as different hands for attack penalty purposes, allowing two attacks without the second attack penalty. 
