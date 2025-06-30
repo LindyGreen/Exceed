@@ -15,7 +15,9 @@ At the beginning of the turn combatant gets their actions and reactions refreshe
 #### Damage Calculation
 Damage = Weapon Damage+Power+Weapon Skill+Bonuses 
 
-#Ranged_
+### #Ranged_Attack
+Weapons that have "Thrown X" or 
+
 ### #Move
 You can move using a move action.
 ## Basic Actions (* represents the number of actions)
