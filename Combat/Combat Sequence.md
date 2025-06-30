@@ -10,7 +10,7 @@
 
 ### Surprise rounds.
 
-- Ambushers roll initiative as one - the leader. This is to represent coordination during ambushes. All enemy combatants who get initiative 5 or lower than the leader of the ambush get stunned 1 (lose first action and cannot use reactions) as they try to figure out what to do.
+- Ambushing side roll initiative as one - the leader. This is to represent coordination during ambushes. All ambushed combatants who get initiative 5 or lower than the leader of the ambush get stunned 1 (lose first action and cannot use reactions) as they try to figure out what to do.
 
 ## [[Actions in Combat]]
 
@@ -18,4 +18,4 @@ At the beginning of your turn, you get 2 actions and 1 reaction. High attributes
 (To be developed, but as of now, in the test phase)
 
 ### Turn Order
-Players 
+Game Master writes down the result of the initiative and 
