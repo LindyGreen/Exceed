@@ -29,3 +29,5 @@ At the beginning of your turn, you get 2 actions and 1 reaction. High attributes
 Damage = Weapon Damage+Power+Weapon Skill+Bonuses 
 
 
+### #Move
+You can move using a move action.
