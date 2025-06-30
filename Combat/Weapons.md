@@ -28,8 +28,7 @@ The common list might vary based on region.
 **Nonlethal**: This weapon deals nonlethal damage, making all wounds they take temporary.
 **Quick Drawn**: You can draw this weapon as part of making an attack with it. 
 **Reach**: This weapon can target enemies 1-2 squares away. 
-**Range** X- This weapon can attack creatures up to X squares away without range penalties.
-**Thrown X**: You can throw this weapon up to X squares without range penalties. 
+**Range** X- This weapon can attack creatures up to X squares away without range penalties. For melee weapons it means that the weapon is thrown.
 **Two-Handed**: This weapon requires both hands to wield effectively. 
 **Versatile**: When wielding this weapon two-handed with your off-hand empty, increase damage by +1.
 **Large**: you cannot attack inside your square and while engulfed or grabbed. 
@@ -42,10 +41,10 @@ The common list might vary based on region.
 
 | Weapon             | DMG | Power Req | Properties                                           |
 | ------------------ | --- | --------- | ---------------------------------------------------- |
-| Dagger             | 2   | 0         | Quick Drawn, Thrown 2, Agile                         |
+| Dagger             | 2   | 0         | Quick Drawn, Range 3, Agile                          |
 | Arming Sword       | 3   | 0         | Agile,                                               |
 | Mace               | 4   | 1         |                                                      |
-| Javelin/shortspear | 3   | 0         | Thrown 4                                             |
+| Javelin/shortspear | 3   | 0         | Range 4                                              |
 | Longspear          | 3   | 0         | Versatile, counts as both One Handed and Staff&Spear |
 | Longsword          | 4   | 1         | Heavy, Versatile                                     |
 | Rapier             | 4   | 1         | Conduit                                              |
