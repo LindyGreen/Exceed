@@ -1,85 +1,27 @@
-# Actions In Combat
+## Basic Actions (2 actions per turn)
 
-After the initiative is rolled, players and NPCs act according to it.
-At the beginning of the turn combatant gets their actions and reactions refreshed.
-
-
-##  #Attack
-
-**Attack  Modifier** = #Control + #Weapon_skill+ Bonuses.  
-
-#### Attacking Multiple Times Per Turn
-**Consequent attack penalty**. Making second and further attacks with same hand provide -2 penalty to the attacks. 
-**Two-Handed Weapons**: Weapons wielded in both hands count as attacks from the same hand for penalty purposes. 
-
-#### Damage Calculation
-Damage = Weapon Damage+Power+Weapon Skill+Bonuses 
-
-### #Ranged_Attack
-#Stike at target.  
-
-### #Move
-Actor moves for a number of squares equal to their speed. (Stand and step are move actions)  
-## Basic Actions (* represents the number of actions)
-
-**Striking** - Striking normally takes * to attack, you can make a step forward as part of the strike.  
-
-
-**Step** - Actor moves one square without provoking reactions.
-
-**Aggressive Attack** - actor makes an attack with +2 to hit and gets -2 to defence until the end of his next turn.
-
-**Armour-up** (1SP) - regain temp-HP up to armour DR. (Armour-UP requires a reballance considering HT was added)
-
-**All in Defence** (1SP) - Actor enters a defensive stance, increasing DR by 2 until the start of the next turn, and "Armours-up".
-
-**Interact with Environment** - General interaction with objects/environment
-
-**Push the body and mind** - (Once per combat) convert your MP/SP for up to Focus/HT mod.
-
-**Jump** - run for up to your movement and leap.  
-**Draw Weapon** - You draw your weapon.
-
-**Aim** - reduce distance penalty up to "aim N" number.
+**Attack**: Make a melee or ranged attack against a target
+**Move**: Move up to your Speed in squares
+**Aim**: Extend effective range for ranged weapons (see Ranged Combat)
+**Step**: Move 1 square without provoking reactions
+**Aggressive Attack**: Attack in melee with +2 to hit, -2 to DC until next turn
+**Interact**: Use objects, open doors, etc.
+**Draw/Sheathe Weapon**: Equip or put away equipment
 
 ## Free Actions
 
-**Drop item** - You can drop items as a free action.  
-**Speak** - speaking is a free action up to 10 words, unless you are casting a verbal spell at the same turn, which limits you to three words. (e.g. RUN YOU FOOLS after "You Shall Not Pass" spell)
+**Drop Item**: Release held objects
+**Speak**: Up to 10 words (3 if casting verbal spell)
+**Surrender** (no trigger required, can be played outside your turn) - you raise your hands to the mercy of the enemy instead of a defense, if the enemy proceeds, you get -4 to the DC against incapacitating (non-damaging) attacks.
 
-## Reactions
+## Reactions (1 per turn)
 
-**Jump to the side** (You are getting attacked by a ranged or AOE attack.) - You try to avoid an area of effect or ranged effect and get +2 to DC as you jump to the nearby square, and get **prone.**  
-**Surrender** - you raise your hands to the mercy of the enemy instead of a defence, if the enemy proceeds, you get -4 to the DC against incapacitating (non-damaging) attacks.
+**Jump Aside**: When targeted by ranged/area attack, gain +2 DC and move 1 square, become prone
 
 ## Conditions
 
-**Stunned** - Character loses 1 action at the beginning of the next turn and cannot use reactions.
+**Stunned**: Lose 1 action next turn, cannot use reactions
+**Flanked**: -1 DC per flanking enemy beyond the first
+**Prone**: [To be defined]
 
-**Flanked** - Reduces DC (defence class) by the number of creatures flanking aside from the attacker. (thus easier DR bypassing)
 
-**[[Prone]]** - [[PLACEHOLDER]]
-
-## Combat Stances and Feats
-
-Combat Prowess comes from Attributes and Weapon Skill. At the beginning of combat, you select a fighting style stance, up to your Limit from both Attribute Feats and Weapon Feats. Feats that don't have an attached Limit can be used regardless.
-
-### One-Handed Weapon Feats
-**Level 1**: [[I have two weapons!]] - [[PLACEHOLDER]], [[Piranha Strike]] - [[PLACEHOLDER]], [[Feint]] - [[PLACEHOLDER]], [[Weakening Strike]] - [[PLACEHOLDER]]
-**Level 2**: [[Counter Strike stance]] - [[PLACEHOLDER]], [[Double Trouble]] - [[PLACEHOLDER]], [[Grabbing strike]] - [[PLACEHOLDER]], [[Pommel strike]] - [[PLACEHOLDER]]
-**Level 3**: [[Blinding Strike]] - [[PLACEHOLDER]], [[Guardian Stance]] - [[PLACEHOLDER]], [[Wide Stance]] - [[PLACEHOLDER]], [[Disarming Strike]] - [[PLACEHOLDER]]
-
-### Two-Handed Weapon Feats
-**Level 1**: [[Power Attack]] - [[PLACEHOLDER]], [[Charge]] - [[PLACEHOLDER]]
-**Level 2**: [[Swipe]] - [[PLACEHOLDER]], [[Trip]] - [[PLACEHOLDER]], [[Shoving Attack]] - [[PLACEHOLDER]]
-**Level 3**: [[Whirlwind]] - [[PLACEHOLDER]], [[Danger Zone]] - [[PLACEHOLDER]]
-
-### Polearm Feats
-**Level 1**: [[Feint]] - [[PLACEHOLDER]], [[Pin]] - [[PLACEHOLDER]], [[Charge]] - [[PLACEHOLDER]]
-**Level 2**: [[Topple]] - [[PLACEHOLDER]], [[Last Goodbye]] - [[PLACEHOLDER]], [[Swipe]] - [[PLACEHOLDER]]
-**Level 3**: [[Hoplite]] - [[PLACEHOLDER]], [[Wide Stance]] - [[PLACEHOLDER]], [[Lacerate]] - [[PLACEHOLDER]]
-
-### Ranged Weapon Feats
-**Level 1**: [[Turrel stance]] - [[PLACEHOLDER]]
-**Level 2**: [[Escapist]] - [[PLACEHOLDER]], [[Hamstring Shot]] - [[PLACEHOLDER]]
-**Level 3**: [[Gaping shot]] - [[PLACEHOLDER]]
