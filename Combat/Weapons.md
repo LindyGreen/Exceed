@@ -64,7 +64,7 @@ The common list might vary based on region.
 **Note**: Bow damage varies based on Power requirements. An unfit bow (one in which you lack power) will have a minus to hit equal to Power-Power.req, 
 a fit or lower power req. bow one will do extra damage equal to it's Power requirement. 
 
-Range Increment - For weapons without the Aim trait (such as thrown weapons), range increments are equal to the weapon's Range value. For weapons with Aim Xtrait Range Increment = X.
+Range Increment - For weapons without the Aim trait (such as thrown weapons), range increments are equal to the weapon's Range value. For weapons with Aim X trait Range Increment = X.
 
 | Weapon   | DMG         | Power Req | Properties             |
 | -------- | ----------- | --------- | ---------------------- |
