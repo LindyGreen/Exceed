@@ -5,7 +5,7 @@ This attribute influences a character's ability to concentrate, resist mental an
 ##### #Power (PW): {10}
 Measures physical strength, endurance, and raw physical force. It's critical for actions requiring brute strength, like lifting heavy objects, melee combat, and other feats of physical prowess.
 ##### #Control (CN): {20}
-Represents precision, agility, and balance. It's essential for tasks that require fine motor skills, coordination, and physical finesse, such as lockpicking, acrobatics, and ranged attacks.  
+Represents precision, agility, and balance. It's essential for tasks that require fine motor skills, coordination, and physical finesse, such as lock-picking, acrobatics, and ranged attacks.  
 ##### #Health(HT): {10}
 Represents toughness and physical resilience. It is derived from PW, can be increased separately 
 
