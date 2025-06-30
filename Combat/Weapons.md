@@ -9,9 +9,9 @@ Proficiency in most two-handed weapons: Danish Axes, Great swords and mauls.
 ### 3. Staves and Spears
 Staves, spears, bo-staves, pikes. Sword-staves
 
-### 4. Ranged Weapons
+### 4. Ranged Weapons  
 Bows, Crossbows, slings, chakrams, etc.
-
+[[Archery]] and Gunslinger feats.
 
 
 Each weapon which is not on the common list will require specialized training.
