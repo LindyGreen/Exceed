@@ -3,7 +3,7 @@ la# Combat System Overview
 The combat system has been organized into the following categories:
 
 - **[[Armour]]** - Armour types, DR values, and defensive mechanics
-- **[[Attacking, Weapons and Damage]]** - Weapon categories, damage calculations, and weapon traits
+- **[[Attacking and Damage]]** - Weapon categories, damage calculations, and weapon traits
 - **[[Actions in Combat]]** - Combat actions, reactions, conditions, and weapon feats
 - **[[Advantages, Abilities, and Disadvantages]]** - Character advantages, special abilities, and disadvantages
 

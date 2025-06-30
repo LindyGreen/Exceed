@@ -3,11 +3,13 @@ IQ/FC/CN = 20 points per increase. PW/HT - 10 per increase.
 Attribute increases provide with an attribute feat up to that level.
 #AttributeFeat can be purchased for the half price of the increase
 
-[[Secondary Attributes and Resources]] 
-#Base_Resilience - 3 points per increase. (Hard Skin, Toughness, etc all fit the category)
+[[Secondary Attributes and Resources]] increase
+ #Base_Resilience - 3 points per increase. (Hard Skin, Toughness, etc all fit the category, up to level 3)
 #Mana_Points    - 5
 #Magical_Limit - 10
 #Speed - TBD
+
+[[Domains Main]] and Combat
 #Domain - 4/8/12/16. Each increase includes a #Domain_Feat 
 #Domain_Feat 2/4/6/8
 #Trade - Up To GM, suggested cost 3 points.
