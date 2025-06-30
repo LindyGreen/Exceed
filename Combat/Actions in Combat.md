@@ -6,7 +6,7 @@ At the beginning of the turn combatant gets their actions and reactions refreshe
 
 ##  #Attack
 
-**Attack  Modifier** = #Control + #Weapon_skill.  
+**Attack  Modifier** = #Control + #Weapon_skill+ Bonuses.  
 
 #### Attacking Multiple Times Per Turn
 **Consequent attack penalty**. Making second and further attacks with same hand provide -2 penalty to the attacks. 
@@ -16,16 +16,15 @@ At the beginning of the turn combatant gets their actions and reactions refreshe
 Damage = Weapon Damage+Power+Weapon Skill+Bonuses 
 
 ### #Ranged_Attack
-Weapons that have "Thrown X" or 
+#Stike at target.  
 
 ### #Move
-You can move using a move action.
+Actor moves for a number of squares equal to their speed. (Stand and step are move actions)  
 ## Basic Actions (* represents the number of actions)
 
 **Striking** - Striking normally takes * to attack, you can make a step forward as part of the strike.  
-DEPRICATED (Second and further strikes per turn take 1FP, unless you have the appropriate Advantages/Perks_.
 
-**Move** - Actor moves for a number of squares equal to their speed. (Stand and step are move actions)  
+
 **Step** - Actor moves one square without provoking reactions.
 
 **Aggressive Attack** - actor makes an attack with +2 to hit and gets -2 to defence until the end of his next turn.

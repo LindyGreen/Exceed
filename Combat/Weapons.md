@@ -59,7 +59,7 @@ The common list might vary based on region.
 | SwordStaff         | 3   | 1         | Reach, Nonlethal, Large                              |
 | Spearsword         | 4   | 1         | Reach, Double                                        |
 
-## Ranged Weapons(WIP)
+##  #Ranged_Weapons(WIP)
 
 **Note**: Bow damage varies based on Power requirements. An unfit bow (one in which you lack power) will have a minus to hit equal to Power-Power.req, 
 a fit or lower power req. bow one will do extra damage equal to it's Power requirement. 
