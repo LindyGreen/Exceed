@@ -6,7 +6,6 @@ Universal feats are not attached to any one domain, and range from background an
 
 [[Archery]]
 
-
 ### Two-Handed Weapon Feats
 **Level 1**: [[Power Attack]] - [[PLACEHOLDER]], [[Charge]] - [[PLACEHOLDER]]
 **Level 2**: [[Swipe]] - [[PLACEHOLDER]], [[Trip]] - [[PLACEHOLDER]], [[Shoving Attack]] - [[PLACEHOLDER]]
@@ -17,8 +16,10 @@ Universal feats are not attached to any one domain, and range from background an
 **Level 2**: [[Topple]] - [[PLACEHOLDER]], [[Last Goodbye]] - [[PLACEHOLDER]], [[Swipe]] - [[PLACEHOLDER]]
 **Level 3**: [[Hoplite]] - [[PLACEHOLDER]], [[Wide Stance]] - [[PLACEHOLDER]], [[Lacerate]] - [[PLACEHOLDER]]
 
-### Ranged Weapon Feats
-**Level 1**: [[Turrel stance]] - [[PLACEHOLDER]]
-**Level 2**: [[Escapist]] - [[PLACEHOLDER]], [[Hamstring Shot]] - [[PLACEHOLDER]]
-**Level 3**: [[Gaping shot]] - [[PLACEHOLDER]]
+
+# Universal feats
+## Background Features
+## Social Advantages
+## Combat Related
+### Shield Mastery 
 
