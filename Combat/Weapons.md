@@ -18,11 +18,11 @@ Each weapon which is not on the common list will require specialized training.
 The common list might vary based on region.
 
 ### Weapon Traits
-**Agile**: Weapons with this trait are exempt from the second attack penalty. 
+**Agile**: Weapons with this trait are exempt from the #RepeatedAttackPenalty 
 **Aim Increment X**: Using the Aim action extends your effective range to X squares, negating range penalties for that attack. You can use multiple Aim actions to extend range further, with each Aim action adding X squares to your effective range up to 3 times.
 **Concealed**: Weapon provides a +2 bonus to Spy checks to hide it on your person, and is undetectable without inspection.
 **Conduit**: This weapon is or is embedded with magical conduit allowing channeling of spells. 
-**Double**: This weapon counts as different hands for attack penalty purposes, allowing two attacks without the second attack penalty. 
+**Double**: This weapon counts as different hands for #RepeatedAttackPenalty purposes, allowing two attacks without the penalty. 
 **Heavy**: Weapons with this trait incur a -2 penalty on the second and subsequent attacks, regardless of which hand made the first attack. 
 **Long Reach**: This weapon can target enemies 2-3 squares away. If the weapon also has Reach, you must spend an action to switch grips to change between reach distances.
 **Nonlethal**: This weapon deals nonlethal damage, making all wounds they take temporary.
@@ -34,7 +34,7 @@ The common list might vary based on region.
 **Versatile**: When wielding this weapon two-handed with your off-hand empty, increase damage by +1.
 **Large**: you cannot attack inside your square and while engulfed or grabbed. 
 **Sweeping**: Each consecutive strike within multi-target abilities provides +1 damage
-**No Point Blank** - Can't attack adjacent enemies.
+
 
 
 
