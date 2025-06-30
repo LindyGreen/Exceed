@@ -28,7 +28,7 @@ The common list might vary based on region.
 **Nonlethal**: This weapon deals nonlethal damage, making all wounds they take temporary.
 **Quick Drawn**: You can draw this weapon as part of making an attack with it. 
 **Reach**: This weapon can target enemies 1-2 squares away. 
-**Range** X- This weapon can attack creatures up to X scuares 
+**Range** X- This weapon can attack creatures up to X squares away without range penalties.
 **Thrown X**: You can throw this weapon up to X squares without range penalties. 
 **Two-Handed**: This weapon requires both hands to wield effectively. 
 **Versatile**: When wielding this weapon two-handed with your off-hand empty, increase damage by +1.
@@ -67,5 +67,5 @@ a fit or lower power req. bow one will do extra damage equal to it's Power requi
 | Weapon   | DMG         | Power Req | Properties                       |
 | -------- | ----------- | --------- | -------------------------------- |
 | Shortbow | 4+Power Req | varies    | Aim 8, Range 4,                  |
-| Longbow  | 5+Power Req | varies    | Aim 15, No point blank, Range 4, |
+| Longbow  | 5+Power Req | varies    | Aim 15, No point blank, Range 3, |
 
