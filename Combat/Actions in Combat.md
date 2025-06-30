@@ -3,6 +3,21 @@
 After the initiative is rolled, players and NPCs act according to it.
 At the beginning of the turn combatant gets their actions and reactions refreshed.
 
+
+##  #Attack
+
+**Attack  Modifier** = #Control + #Weapon_skill.  
+
+#### Attacking Multiple Times Per Turn
+**Consequent attack penalty**. Making second and further attacks with same hand provide -2 penalty to the attacks. 
+**Two-Handed Weapons**: Weapons wielded in both hands count as attacks from the same hand for penalty purposes. 
+
+#### Damage Calculation
+Damage = Weapon Damage+Power+Weapon Skill+Bonuses 
+
+
+### #Move
+You can move using a move action.
 ## Basic Actions (* represents the number of actions)
 
 **Striking** - Striking normally takes * to attack, you can make a step forward as part of the strike.  
