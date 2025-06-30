@@ -4,7 +4,7 @@ Defence Modifier: Armour doesn't provide a Defence Modifier to Defence Class(DC)
 
 **DC = [highest of Focus/Shield/WeaponSkill] + Control**  
 
-Armour restricts the maximum Control value that can be applied in DC. More expensive armour being less demanding, higher Defence armour usually requiring more Power/Limit to wear.
+#Armour restricts the maximum #Control value that can be applied in #DC. More expensive armour being less demanding, higher #ArmourBonus usually requiring more Power/Limit to wear.
 
 ## Armour Table
 
