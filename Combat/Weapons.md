@@ -19,7 +19,7 @@ The common list might vary based on region.
 
 ### Weapon Traits
 **Agile**: Weapons with this trait are exempt from the second attack penalty. 
-**Aim X:** Using the Aim action reduce the range penalty by X.
+**Aim X:** Using the Aim action extends your effective range by X squares, negating range penalties for that attack. You can use multiple Aim actions in a turn to extend range further, with each Aim action adding X squares to your effective range..
 **Concealed**: Weapon provides a +2 bonus to Spy checks to hide it on your person, and is undetectable without inspection.
 **Conduit**: This weapon is or is embedded with magical conduit allowing channeling of spells. 
 **Double**: This weapon counts as different hands for attack penalty purposes, allowing two attacks without the second attack penalty. 
@@ -28,7 +28,8 @@ The common list might vary based on region.
 **Nonlethal**: This weapon deals nonlethal damage, making all wounds they take temporary.
 **Quick Drawn**: You can draw this weapon as part of making an attack with it. 
 **Reach**: This weapon can target enemies 1-2 squares away. 
-**Range** X- This weapon can attack creatures up to X squares away without range penalties. For melee weapons it means that the weapon is thrown.
+**Range X**: This weapon can attack targets up to X squares away without penalties. Beyond this range, attacks suffer -3 penalty per range increment. For weapons without the Aim trait (such as thrown weapons), range increments are equal to the weapon's Range value.
+
 **Two-Handed**: This weapon requires both hands to wield effectively. 
 **Versatile**: When wielding this weapon two-handed with your off-hand empty, increase damage by +1.
 **Large**: you cannot attack inside your square and while engulfed or grabbed. 
