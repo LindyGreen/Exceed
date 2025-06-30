@@ -1,4 +1,3 @@
-# Advantages, Abilities, and Disadvantages
 
 ## Format Guide
 - **Advantage**: Name, requirement, acquisition price, limit, effect
@@ -23,12 +22,13 @@
 
 ## Abilities
 
-| **Name** | **Req** | **Price** | **Cost** | **Action** | **Effect** |
-|---|---|---|---|---|---|
-| Shield Rush | PW 2, Multipurpose shield | 5 | 2 | 2 | Charge twice, and strike with your shield, adding PW to damage. |
-| ShieldWarden | PW1, Shield Arm | 5 | 1SP | R | Trigger: Ally takes damage. Use R to shield them, adding your DR to theirs. |
-| Counter Attack | Opportunist, Weapon skill 3 | 5 | 1 | R | You can punish enemies who miss you critically or by more than 5 by striking at them as a reaction with -2 to hit. |
-| Charge! | PW3 | 10 | 2SP | 2 | You charge forward, each enemy smaller than you on your way has to roll reflex or take 2PW damage. |
+| **Name**       | **Req**                     | **Price** | **Cost** | **Action** | **Effect**                                                                                                         |
+| -------------- | --------------------------- | --------- | -------- | ---------- | ------------------------------------------------------------------------------------------------------------------ |
+| Shield Rush    | PW 2, Multipurpose shield   | 5         | 2        | 2          | Charge twice, and strike with your shield, adding PW to damage.                                                    |
+| ShieldWarden   | PW1, Shield Arm             | 5         | 1SP      | R          | Trigger: Ally takes damage. Use R to shield them, adding your DR to theirs.                                        |
+| Counter Attack | Opportunist, Weapon skill 3 | 5         | 1        | R          | You can punish enemies who miss you critically or by more than 5 by striking at them as a reaction with -2 to hit. |
+| Charge!        | PW3                         | 10        | 2SP      | 2          | You charge forward, each enemy smaller than you on your way has to roll reflex or take 2PW damage.                 |
+| Precognition   | Int 3/ Focus 3              | 10        |          |            |                                                                                                                    |
 
 ## Disadvantages
 
