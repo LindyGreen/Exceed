@@ -19,7 +19,7 @@ The common list might vary based on region.
 
 ### Weapon Traits
 **Agile**: Weapons with this trait are exempt from the second attack penalty. 
-**Aim Increment X**: Using the Aim action extends your effective range to X squares, negating range penalties for that attack. You can use multiple Aim actions to extend range further, with each Aim action adding X squares to your effective range up to 3 times. This trait also defines the size of range increments for penalty calculation.
+**Aim Increment X**: Using the Aim action extends your effective range to X squares, negating range penalties for that attack. You can use multiple Aim actions to extend range further, with each Aim action adding X squares to your effective range up to 3 times.
 **Concealed**: Weapon provides a +2 bonus to Spy checks to hide it on your person, and is undetectable without inspection.
 **Conduit**: This weapon is or is embedded with magical conduit allowing channeling of spells. 
 **Double**: This weapon counts as different hands for attack penalty purposes, allowing two attacks without the second attack penalty. 
@@ -28,7 +28,7 @@ The common list might vary based on region.
 **Nonlethal**: This weapon deals nonlethal damage, making all wounds they take temporary.
 **Quick Drawn**: You can draw this weapon as part of making an attack with it. 
 **Reach**: This weapon can target enemies 1-2 squares away. 
-**Range X**: This weapon can attack targets up to X squares away without penalties. Beyond this range, attacks suffer -3 penalty per range increment. For weapons without the Aim trait (such as thrown weapons), range increments are equal to the weapon's Range value.
+**Range X**: This weapon can attack targets up to X squares away without penalties. Beyond this range, attacks suffer -3 penalty per range increment.
 
 **Two-Handed**: This weapon requires both hands to wield effectively. 
 **Versatile**: When wielding this weapon two-handed with your off-hand empty, increase damage by +1.
@@ -63,6 +63,8 @@ The common list might vary based on region.
 
 **Note**: Bow damage varies based on Power requirements. An unfit bow (one in which you lack power) will have a minus to hit equal to Power-Power.req, 
 a fit or lower power req. bow one will do extra damage equal to it's Power requirement. 
+
+Range Increment - For weapons without the Aim trait (such as thrown weapons), range increments are equal to the weapon's Range value. For weapons with Aim Xtrait Range Increment = X.
 
 | Weapon   | DMG         | Power Req | Properties             |
 | -------- | ----------- | --------- | ---------------------- |
