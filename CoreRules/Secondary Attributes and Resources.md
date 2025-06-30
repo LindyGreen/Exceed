@@ -48,7 +48,7 @@ Health 2, Focus 1, Armor Bonus 3:
 
 ## Magical Resources
 
-**Mana Points (MP)**: 10 + Magical Limit
+**[Mana Points (MP)]**: 10 + Magical Limit
 - Used for **casting spells** and **one-time magical effects**
 - Recovery: Full restoration after rest - [[Rest and Recovery]]
 
