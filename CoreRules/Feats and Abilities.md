@@ -28,11 +28,11 @@ You learn to effectively wield shields in combat. Shields add their bonus to you
 
 **Shield Mastery** [5] (Passive): You know how to keep your shield always raised. You gain +1 to DC. Enemies can't tumble through your space, Squares around you are considered difficult terrain.
 
-**Guardian Stance** [5] (Passive): (Req: Shield Mastery) If you haven't moved more than half your movement from last turn, you and adjacent allies gain +2 DC.
+**Guardian Stance** [10] (Passive): (Req: Shield Mastery) If you haven't moved more than half your movement from last turn, you and adjacent allies gain +2 DC.
 
 **Aegis** [5] (Reaction): (Req: Shield Wall) When an adjacent ally is targeted by an attack, you can intercept it using Shield Block Reaction.
 
-**Spell-Guard**[10] (Passive, Limit 1)- You learn to channel magical energy through your shield, creating a barrier against hostile spells. Add Shield's bonus to rolls against Line, Cone, Burst, Ray type of spells and magical effects (like dragon's breath).
+**Spell-Guard**[10] (Passive, Limit 1)- You learn to channel magical energy through your shield, creating a barrier against hostile spells. Add Shield's bonus to rolls against Line, Cone, Burst, Ray type of spells and magical effects (like dragon's breath). If you have Guardian Stance, the Bonus applies to your allies as well.
 
 **Shield Slam**[5] (Action, Attack): Attack with your shield using Power + Shield Bonus. On hit, deal shield bonus as damage and push enemy back 1 square. (Might be OP, as attacks from power, but damage is 1-5 late game,so should be fine)
 
