@@ -26,9 +26,9 @@ Universal feats are not attached to any one domain, and range from background an
 
 You learn to effectively wield shields in combat. Shields add their bonus to your Defense Class calculation: **DC = [highest of Focus/Shield Bonus/Weapon Skill] + Control**. You gain access to the [[Shield Block]] reaction, and access to other Shield Feats.
 
-**Shield Wall** [5] (Passive): Adjacent allies gain +1 DC while you're wielding a raised shield. Enemies can't tumble through your space.
+**Shield Mastery** [5] (Passive): You know how to keep your shield always raised. You gain +1 to DC. Enemies can't tumble through your space, Squares around you are considered difficult terrain.
 
-**Guardian Stance** [5] (Passive): (Req: Shield wall) If you haven't moved more than half your movement from last turn, you and adjacent allies gain +2 DC.
+**Guardian Stance** [5] (Passive): (Req: Shield Mastery) If you haven't moved more than half your movement from last turn, you and adjacent allies gain +2 DC.
 
 **Aegis** [5] (Reaction): (Req: Shield Wall) When an adjacent ally is targeted by an attack, you can intercept it using Shield Block Reaction.
 
