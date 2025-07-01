@@ -36,8 +36,6 @@ You learn to effectively wield shields in combat. Shields add their bonus to you
 
 **Shield Slam**[5] (Action, Attack): Attack with your shield using Power + Shield Bonus. On hit, deal shield bonus as damage and push enemy back 1 square. (Might be OP, as attacks from power, but damage is 1-5 late game,so should be fine)
 
-
-
 **Guardian's Rush**[5/10] (Attack, 2 actions) Req: (Shield Slam, Guardian stance) You run up to your movement and make a Shield Slam Attack. This movement doesn't stop you from benefiting from Guardian Stance. Advanced [10]: Make weapon attack instead of Shield Slam
 
 **Shield Throw** (Action): TBD - Required returning weapons enchantment.
