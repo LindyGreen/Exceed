@@ -35,7 +35,7 @@ You learn to effectively wield shields in combat. Shields add their bonus to you
 
 **Shield Slam** (Action, Attack): Attack with your shield using Power + Shield Bonus. On hit, deal shield bonus as damage and push enemy back 1 square. (Might be OP, as attacks from power, but damage is 1-5 late game,so should be fine)
 
-**Shielded Stance** (Stance): While not moving more than half your move per turn, you and adjacent shield-wielding allies gain +2 DC and immunity to being flanked.
+**Guardian Stance** (Passive): If you haven't moved While not moving more than half your move per turn, you and adjacent allies gain +2 DC.
 
 **Shield Throw** (Action): Throw your shield up to 6 squares. Uses Shield Bonus for attack and damage. Shield returns to your hand.
 
