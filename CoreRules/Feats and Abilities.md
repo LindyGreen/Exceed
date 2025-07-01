@@ -33,9 +33,9 @@ You learn to effectively wield shields in combat. Shields add their bonus to you
 
 **SpellGuard** (Passive, Limit 1)- Requirement: You are holding a magical shield. Add Shield's bonus to rolls against Line, Cone, Burst, Ray type of spells. 
 
-**Shield Slam** (Action, Attack): Attack with your shield using Power + Shield Bonus. On hit, deal shield bonus as damage and push enemy back 1 square. (Might be OP, as attacks from power)
+**Shield Slam** (Action, Attack): Attack with your shield using Power + Shield Bonus. On hit, deal shield bonus as damage and push enemy back 1 square. (Might be OP, as attacks from power, but damage is 1-5 late game,so should be fine)
 
-**Phalanx Formation** (Stance): While not moving more than 1 square per turn, you and adjacent shield-wielding allies gain +2 DC and immunity to being flanked.
+**Shielded Stance** (Stance): While not moving more than half your move per turn, you and adjacent shield-wielding allies gain +2 DC and immunity to being flanked.
 
 **Shield Throw** (Action): Throw your shield up to 6 squares. Uses Shield Bonus for attack and damage. Shield returns to your hand.
 
