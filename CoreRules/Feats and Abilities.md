@@ -38,8 +38,8 @@ You learn to effectively wield shields in combat. Shields add their bonus to you
 **Guardian Stance** (Passive): If you haven't moved more than half your movement from last turn, you and adjacent allies gain +2 DC.
 
 **Guardian's Rush**(Attack, 2 actions) Req: (Shield Slam, Guardian stance) You run up to your movement and make a Shield Slam Attack. This movement doesn't stop you from benefiting from Guardian Stance. **Advanced**: You can attack with your weapon instead.
-(GI)
+(GIve 2 points costs, like 5 and 10)
 
-**Shield Throw** (Action): Throw your shield up to 6 squares. Uses Shield Bonus for attack and damage. Shield returns to your hand.
+**Shield Throw** (Action): TBD - Required returning weapons enchantment.
 
 **Impenetrable Defense** (Reaction, 1/combat): When you critically succeed on Shield Block, all adjacent allies gain the damage negation as well.
