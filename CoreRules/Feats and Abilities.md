@@ -38,9 +38,8 @@ You learn to effectively wield shields in combat. Shields add their bonus to you
 
 
 
-**Guardian's Rush**[5/10] (Attack, 2 actions) Req: (Shield Slam, Guardian stance) You run up to your movement and make a Shield Slam Attack. This movement doesn't stop you from benefiting from Guardian Stance. **Advanced**: You can attack with your weapon instead.
-(GIve 2 points costs, like 5 and 10)
+**Guardian's Rush**[5/10] (Attack, 2 actions) Req: (Shield Slam, Guardian stance) You run up to your movement and make a Shield Slam Attack. This movement doesn't stop you from benefiting from Guardian Stance. Advanced [10]: Make weapon attack instead of Shield Slam
 
 **Shield Throw** (Action): TBD - Required returning weapons enchantment.
 
-**Impenetrable Defense** (Reaction, 1/scene): Increase Shield block success state by one. From Failure to Success, From Success to CriticalSuccess.
+**Impenetrable Defense** [10] (Reaction, 1/scene): Increase Shield block success state by one. From Failure to Success, From Success to CriticalSuccess.
