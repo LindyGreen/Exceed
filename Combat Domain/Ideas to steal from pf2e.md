@@ -1,5 +1,4 @@
 - **Reactive Strike**: Core defensive ability
-- **Shield Block**: Actual shield use mechanics
 - **Combat Grab**: Hit → grab is a cool combo
 - **Swipe**: Multi-target attacks feel different
 - **Spear Dance**: Movement + attack flow

@@ -24,19 +24,14 @@ Universal feats are not attached to any one domain, and range from background an
 ### Shield Mastery 
 #### **Shield Proficiency** (3 points)
 
-You learn to effectively wield shields in combat. Shields add their bonus to your Defense Class calculation: **DC = [highest of Focus/Shield Bonus/Weapon Skill] + Control**. You gain access to the Shield Block reaction.
+You learn to effectively wield shields in combat. Shields add their bonus to your Defense Class calculation: **DC = [highest of Focus/Shield Bonus/Weapon Skill] + Control**. You gain access to the [[Shield Block]] reaction.
 
-#### **Shield Block** (Reaction)
 
-**Trigger**: You are hit by an attack while wielding a shield **Effect**: Roll your shield bonus against the attacker's attack roll
 
-- **Critical Success** (beat by 5+): Negate all damage
-- **Success**: Reduce damage by your shield bonus
-- **Failure**: Take full damage as normal
 RANDOM IDEAS
-**Shield Wall** (Passive): Adjacent allies gain +1 DC while you're wielding a raised shield. Enemies can't move through spaces adjacent to you and an ally both wielding shields.
+**Shield Wall** (Passive): Adjacent allies gain +1 DC while you're wielding a raised shield. Enemies can't tumble through your space.
 
-**Aegis** (Reaction): When an adjacent ally is targeted by a ranged attack, you can intercept it. Make a Shield Block roll - success blocks the attack entirely.
+**Aegis** (Reaction): When an adjacent ally is targeted by an attack, you can intercept it using Shield Block Reaction.
 
 **Shield Slam** (Action): Attack with your shield using Power + Shield Bonus. On hit, deal shield bonus damage and push enemy back 1 square.
 
