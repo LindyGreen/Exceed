@@ -28,7 +28,7 @@ You learn to effectively wield shields in combat. Shields add their bonus to you
 
 **Shield Mastery** [5] (Passive): You know how to keep your shield always raised. You gain +1 to DC. Squares around you are considered difficult terrain for your enemies.
 
-**Guardian Stance** [15] (Passive): (Req: Shield Mastery) If you haven't moved more than half your movement from last turn, increase your shield mastery bonus to +2, Adjacent allies benefit from this bonus as well.
+**Guardian Stance** [15] (Passive): (Req: Shield Mastery) If you haven't moved more than half your movement from previous turn, you and adjacent allies gain +2 DC (replaces Shield Mastery's +1), Adjacent allies benefit from this bonus as well.
 
 **Aegis** [5] (Reaction): When an adjacent ally is targeted by an attack, you can intercept it using Shield Block Reaction.
 
