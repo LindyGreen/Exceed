@@ -29,9 +29,9 @@ You learn to effectively wield shields in combat. Shields add their bonus to you
 **Shield Wall** (Passive): Adjacent allies gain +1 DC while you're wielding a raised shield. Enemies can't tumble through your space.
 
 
-**Aegis** (Reaction): When an adjacent ally is targeted by an attack, you can intercept it using Shield Block Reaction.
+**Aegis** [5] (Reaction): When an adjacent ally is targeted by an attack, you can intercept it using Shield Block Reaction.
 
-**SpellGuard** (Passive, Limit 1)- Requirement: You are holding a magical shield. Add Shield's bonus to rolls against Line, Cone, Burst, Ray type of spells. 
+**Spell-Guard**[10] (Passive, Limit 1)- You learn to channel magical energy through your shield, creating a barrier against hostile spells. Add Shield's bonus to rolls against Line, Cone, Burst, Ray type of spells and magical effects (like dragon's breath).
 
 **Shield Slam** (Action, Attack): Attack with your shield using Power + Shield Bonus. On hit, deal shield bonus as damage and push enemy back 1 square. (Might be OP, as attacks from power, but damage is 1-5 late game,so should be fine)
 
