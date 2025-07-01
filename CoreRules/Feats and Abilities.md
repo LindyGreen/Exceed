@@ -24,14 +24,14 @@ Universal feats are not attached to any one domain, and range from background an
 ### Shield Mastery 
 #### **Shield Proficiency** (3 points)
 
-You learn to effectively wield shields in combat. Shields add their bonus to your Defense Class calculation: **DC = [highest of Focus/Shield Bonus/Weapon Skill] + Control**. You gain access to the [[Shield Block]] reaction.
+You learn to effectively wield shields in combat. Shields add their bonus to your Defense Class calculation: **DC = [highest of Focus/Shield Bonus/Weapon Skill] + Control**. You gain access to the [[Shield Block]] reaction, and access to other Shield Feats.
 
-
-
-RANDOM IDEAS
 **Shield Wall** (Passive): Adjacent allies gain +1 DC while you're wielding a raised shield. Enemies can't tumble through your space.
 
+
 **Aegis** (Reaction): When an adjacent ally is targeted by an attack, you can intercept it using Shield Block Reaction.
+
+**SpellGuard** - 
 
 **Shield Slam** (Action): Attack with your shield using Power + Shield Bonus. On hit, deal shield bonus damage and push enemy back 1 square.
 
@@ -40,5 +40,3 @@ RANDOM IDEAS
 **Shield Throw** (Action): Throw your shield up to 6 squares. Uses Shield Bonus for attack and damage. Shield returns to your hand.
 
 **Impenetrable Defense** (Reaction, 1/combat): When you critically succeed on Shield Block, all adjacent allies gain the damage negation as well.
-
-**These create the "invincible formation fighter"** fantasy while having clear limitations and action costs. Much more epic than basic shield blocking!
