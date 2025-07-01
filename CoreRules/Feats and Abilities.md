@@ -33,3 +33,17 @@ You learn to effectively wield shields in combat. Shields add their bonus to you
 - **Critical Success** (beat by 5+): Negate all damage
 - **Success**: Reduce damage by your shield bonus
 - **Failure**: Take full damage as normal
+RANDOM IDEAS
+**Shield Wall** (Passive): Adjacent allies gain +1 DC while you're wielding a raised shield. Enemies can't move through spaces adjacent to you and an ally both wielding shields.
+
+**Aegis** (Reaction): When an adjacent ally is targeted by a ranged attack, you can intercept it. Make a Shield Block roll - success blocks the attack entirely.
+
+**Shield Slam** (Action): Attack with your shield using Power + Shield Bonus. On hit, deal shield bonus damage and push enemy back 1 square.
+
+**Phalanx Formation** (Stance): While not moving more than 1 square per turn, you and adjacent shield-wielding allies gain +2 DC and immunity to being flanked.
+
+**Shield Throw** (Action): Throw your shield up to 6 squares. Uses Shield Bonus for attack and damage. Shield returns to your hand.
+
+**Impenetrable Defense** (Reaction, 1/combat): When you critically succeed on Shield Block, all adjacent allies gain the damage negation as well.
+
+**These create the "invincible formation fighter"** fantasy while having clear limitations and action costs. Much more epic than basic shield blocking!
