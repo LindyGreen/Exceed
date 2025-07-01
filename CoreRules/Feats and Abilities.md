@@ -31,7 +31,7 @@ You learn to effectively wield shields in combat. Shields add their bonus to you
 
 **Aegis** (Reaction): When an adjacent ally is targeted by an attack, you can intercept it using Shield Block Reaction.
 
-**SpellGuard** (Passive, Limit 1)- Y Add Shield's bonus to rolls against Line, Cone, Ray type of spells.
+**SpellGuard** (Passive, Limit 1)- Requirement: You are holding a magical shield. Add Shield's bonus to rolls against Line, Cone, Burst, Ray type of spells. 
 
 **Shield Slam** (Action): Attack with your shield using Power + Shield Bonus. On hit, deal shield bonus damage and push enemy back 1 square.
 
