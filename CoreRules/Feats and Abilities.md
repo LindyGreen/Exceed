@@ -42,4 +42,4 @@ You learn to effectively wield shields in combat. Shields add their bonus to you
 
 **Shield Throw** (Action): TBD - Required returning weapons enchantment.
 
-**Impenetrable Defense** (Reaction, 1/combat): When you critically succeed on Shield Block, all adjacent allies gain the damage negation as well.
+**Impenetrable Defense** (Reaction, 1/scene): Increase Shield block success state by one. From Failure to success, From Sucess to crit success.
