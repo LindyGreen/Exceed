@@ -56,7 +56,7 @@ The common list might vary based on region.
 | War Staff          | 4   | 1         | Nonlethal, Conduit                                   | Fragile 1              |
 | Quarterstaff       | 3   | 0         | Reach, Nonlethal, Double, Conduit                    | Prone(has a save)      |
 | Pike               | 3   | 2         | Long Reach, Large                                    | Impaling 2             |
-| SwordStaff         | 3   | 1         | Reach, Nonlethal, Large                              | Impaling 1             |
+| SwordStaff         | 4   | 1         | Reach, Nonlethal, Large                              | Impaling 1             |
 | Spearsword         | 4   | 1         | Reach, Double                                        | Fragile 1              |
 
 ##  #Ranged_Weapons(WIP)
