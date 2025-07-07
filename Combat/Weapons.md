@@ -44,7 +44,7 @@ The common list might vary based on region.
 | ------------------ | --- | --------- | ---------------------------------------------------- | ----------------- |
 | Dagger             | 2   | 0         | Quick Drawn, Range 3, Agile                          | Bleed2            |
 | Arming Sword       | 3   | 0         | Agile,                                               | Disoriented 1     |
-| Mace               | 4   | 1         |                                                      | Stunned           |
+| Mace               | 4   | 2         |                                                      | Stunned           |
 | Javelin/shortspear | 3   | 0         | Range 4                                              | Impaling 1        |
 | Longspear          | 3   | 0         | Versatile, counts as both One Handed and Staff&Spear |                   |
 | Longsword          | 4   | 1         | Heavy, Versatile                                     | Bleed 1/2         |
