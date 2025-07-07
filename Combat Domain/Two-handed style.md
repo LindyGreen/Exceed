@@ -11,7 +11,7 @@ Two Handed 2 Feats
 7. [Wounding Criticals] - If your critical leads to a wound apply wound 1 tier higher.
 
 Two handed 3 Feats 
-10. [[Whirlwind]](2 actions, flourish) - Select multiple enemies within your reach, make a strike against the highest DC. If you hit you deal (StrikeDamage-Number of enemies) damage to each of them. If you miss - you become 
+10. [[Whirlwind]](2 actions, flourish) - Select multiple enemies within your reach, make a strike against the highest DC. If you hit you deal (StrikeDamage-Number of enemies) damage to each of them. 
 
 11. Send them Flying (passive, requires bludgeoning weapon)- when you hit a creature, roll a contested power check. If you win, enemy is getting pushed the difference of your rolls in squares up to your Power.
 12. Danger Zone (Active 1 action)- You whirl your weapon around yourself until the start of your next turn, every time an enemy enters your reach, make a strike against that target without using a reaction.
