@@ -19,9 +19,13 @@ Stand-Up and move: You can stand up and move half your movement as an action
 **Jump Aside**: When targeted by ranged/area attack, gain +2 DC and move 1 square, become prone
 
 ## Conditions
-
 **Stunned**: Lose 1 action next turn, cannot use reactions
 **Flanked**: -1 DC per flanking enemy beyond the first if they are not on the same side. (centers of square don't enter your square) 
 **Prone**: [To be defined] -2DC flat.
-
+**Stacking conditions** - Conditions reduce by 1 after the end of your turn.
+Bleed X- At the end of your turn take X damage . 
+Dazzled X - Take -X to hit. 
+Disoriented X - Take -X to DC. 
+Fragile X - Take X extra damage from each attack.
+Impaled (Bow specialization) X - Spend an action to remove the arrow or get bleed X when you move next time. (this is almost ranged stunned, but weaker)
 
