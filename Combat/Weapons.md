@@ -40,24 +40,24 @@ The common list might vary based on region.
 
 ## Weapons Table
 
-| Weapon             | DMG | Power Req | Properties                                           | Critical          |
-| ------------------ | --- | --------- | ---------------------------------------------------- | ----------------- |
-| Dagger             | 2   | 0         | Quick Drawn, Range 3, Agile                          | Bleed2            |
-| Arming Sword       | 3   | 0         | Agile,                                               | Disoriented 1     |
-| Mace               | 4   | 2         |                                                      | Stunned           |
-| Javelin/shortspear | 3   | 0         | Range 4                                              | Impaling 1        |
-| Longspear          | 3   | 0         | Versatile, counts as both One Handed and Staff&Spear |                   |
-| Longsword          | 4   | 1         | Heavy, Versatile                                     | Bleed 1/2         |
-| Rapier             | 4   | 1         | Conduit                                              | Dazzled 2         |
-| Danish Axe         | 7   | 3         | Heavy, Large, TwoHanded, Sweeping                    |                   |
-| UberZweihander     | 7   | 3         | Twohanded, Reach, Large, Heavy                       |                   |
-| Maul               | 5   | 2         | Nonlethal, Large, Heavy                              | Knockback 1       |
-| Greatsword         | 5   | 2         | Reach, Agile                                         | Dazzled 1         |
-| War Staff          | 4   | 1         | Nonlethal, Conduit                                   | Fragile           |
-| Quarterstaff       | 3   | 0         | Reach, Nonlethal, Double, Conduit                    | Prone(has a save) |
-| Pike               | 3   | 2         | Long Reach, Large                                    |                   |
-| SwordStaff         | 3   | 1         | Reach, Nonlethal, Large                              |                   |
-| Spearsword         | 4   | 1         | Reach, Double                                        |                   |
+| Weapon             | DMG | Power Req | Properties                                           | Critical               |
+| ------------------ | --- | --------- | ---------------------------------------------------- | ---------------------- |
+| Dagger             | 2   | 0         | Quick Drawn, Range 3, Agile                          | Bleed2                 |
+| Arming Sword       | 3   | 0         | Agile,                                               | Disoriented 1          |
+| Mace               | 4   | 2         |                                                      | Stunned                |
+| Javelin/shortspear | 3   | 0         | Range 4, Quick Drawn                                 | Pinned 1,              |
+| Longspear          | 3   | 0         | Versatile, counts as both One Handed and Staff&Spear | Impaling 1/2 Versatile |
+| Longsword          | 4   | 1         | Heavy, Versatile                                     | Bleed 1/2 Versatile    |
+| Rapier             | 4   | 1         | Conduit                                              | Dazzled 2              |
+| Danish Axe         | 7   | 3         | Heavy, Large, TwoHanded, Sweeping                    |                        |
+| UberZweihander     | 7   | 4         | Twohanded, Reach, Large, Heavy                       |                        |
+| Maul               | 5   | 2         | Nonlethal, Large, Heavy                              | Knockback 1            |
+| Greatsword         | 5   | 2         | Reach, Agile                                         | Dazzled 1              |
+| War Staff          | 4   | 1         | Nonlethal, Conduit                                   | Fragile 1              |
+| Quarterstaff       | 3   | 0         | Reach, Nonlethal, Double, Conduit                    | Prone(has a save)      |
+| Pike               | 3   | 2         | Long Reach, Large                                    | Impaling 2             |
+| SwordStaff         | 3   | 1         | Reach, Nonlethal, Large                              | Impaling 1             |
+| Spearsword         | 4   | 1         | Reach, Double                                        | Fragile 1              |
 
 ##  #Ranged_Weapons(WIP)
 
@@ -66,8 +66,8 @@ a fit or lower power req. bow one will do extra damage equal to it's Power requi
 
 Range Increment - For weapons without the Aim trait (such as thrown weapons), range increments are equal to the weapon's Range value. For weapons with Aim X trait Range Increment = X.
 
-| Weapon   | DMG         | Power Req | Properties              |
-| -------- | ----------- | --------- | ----------------------- |
-| Shortbow | 4+Power Req | -1 to 5   | Aim 10, Range 5,        |
-| Longbow  | 5+Power Req | 0 to 5    | Aim 20, Large, Range 2, |
+| Weapon   | DMG         | Power Req | Properties              | Crit  |
+| -------- | ----------- | --------- | ----------------------- | ----- |
+| Shortbow | 4+Power Req | -1 to 5   | Aim 10, Range 5,        | Pin 1 |
+| Longbow  | 5+Power Req | 0 to 5    | Aim 20, Large, Range 2, | Pin 2 |
 

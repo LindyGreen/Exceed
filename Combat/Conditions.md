@@ -6,4 +6,4 @@
 **Dazzled** X - Take -X to hit. 
 **Disoriented** X - Take -X to DC. 
 **Fragile** X - Take X extra damage from each attack.
-Impaled (Bow specialization) X - Spend an action to remove the arrow or get bleed X when you move next time. (this is almost ranged stunned, but weaker)
+**Pinned** (Bow specialization) X - Spend an action to remove the arrow or get bleed X when you move next time. (this is almost ranged stunned, but weaker)
