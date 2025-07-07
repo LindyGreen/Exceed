@@ -6,11 +6,12 @@ Two-Handed 1 Feats
 
 Two Handed 2 Feats 
 
-5. Improved Criticals 
-6. 
+5. Improved Criticals (add Dazed 1/Bleed 1 to your critical effects.)
+6. Grevious wounds (passive) (also in 1h)- when enemy has to roll on consequences table make it worse (//TODO after consequences table is done)
+7. Danger Zone (Active 1 action)- You whirl your weapon around yourself until the start of your next turn, every time an enemy enters your reach, make a strike against that target without using a reaction.
 
 Two handed 3 Feats 
 10. [[Whirlwind]](2 actions, flourish) - Select multiple enemies within your reach, make a strike against the highest DC. If you hit you deal (StrikeDamage-Number of enemies) damage to each of them. 
 
 11. Send them Flying (passive, requires bludgeoning weapon)- when you hit a creature, roll a contested power check. If you win, enemy is getting pushed the difference of your rolls in squares up to your Power.
-12. Danger Zone (Active 1 action)- You whirl your weapon around yourself until the start of your next turn, every time an enemy enters your reach, make a strike against that target without using a reaction.
+12. Weapon's Weight (2 actions)- Jump up or run up to your speed propelled by your weapon in a straight line towards your enemy, and make a strike at the end of your movement. Your strike will deal extra damage equal to the squares you moved 
