@@ -47,7 +47,7 @@ The common list might vary based on region.
 | Mace               | 4   | 1         |                                                      | Stunned           |
 | Javelin/shortspear | 3   | 0         | Range 4                                              | Impaling 1        |
 | Longspear          | 3   | 0         | Versatile, counts as both One Handed and Staff&Spear |                   |
-| Longsword          | 4   | 1         | Heavy, Versatile                                     |                   |
+| Longsword          | 4   | 1         | Heavy, Versatile                                     | Bleed 1/2         |
 | Rapier             | 4   | 1         | Conduit                                              | Dazzled 2         |
 | Danish Axe         | 7   | 3         | Heavy, Large, TwoHanded, Sweeping                    |                   |
 | UberZweihander     | 7   | 3         | Twohanded, Reach, Large, Heavy                       |                   |
