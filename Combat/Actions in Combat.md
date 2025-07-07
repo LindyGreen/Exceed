@@ -7,7 +7,7 @@
 **Aggressive Attack**: Attack in melee with +2 to hit, -2 to DC until next turn
 **Interact**: Use objects, open doors, etc.
 **Draw/Sheathe Weapon**: Equip or put away equipment
-
+Stand-Up and move: You can stand up and move half your movement as an action 
 ## Free Actions
 
 **Drop Item**: Release held objects
@@ -22,6 +22,6 @@
 
 **Stunned**: Lose 1 action next turn, cannot use reactions
 **Flanked**: -1 DC per flanking enemy beyond the first if they are not on the same side. (centers of square don't enter your square) 
-**Prone**: [To be defined]
+**Prone**: [To be defined] -2DC flat.
 
 
