@@ -66,8 +66,8 @@ a fit or lower power req. bow one will do extra damage equal to it's Power requi
 
 Range Increment - For weapons without the Aim trait (such as thrown weapons), range increments are equal to the weapon's Range value. For weapons with Aim X trait Range Increment = X.
 
-| Weapon   | DMG         | Power Req | Properties             |
-| -------- | ----------- | --------- | ---------------------- |
-| Shortbow | 4+Power Req | -1 to 5   | Aim 10, Range 5,       |
-| Longbow  | 5+Power Req | 0 to 5    | Aim 20, Large Range 2, |
+| Weapon   | DMG         | Power Req | Properties              |
+| -------- | ----------- | --------- | ----------------------- |
+| Shortbow | 4+Power Req | -1 to 5   | Aim 10, Range 5,        |
+| Longbow  | 5+Power Req | 0 to 5    | Aim 20, Large, Range 2, |
 
