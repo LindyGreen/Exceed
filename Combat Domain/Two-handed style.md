@@ -6,9 +6,8 @@ Two-Handed 1 Feats
 
 Two Handed 2 Feats 
 
-5. Stunning Criticals (Passive)- On critical hits enemy gets stunned.
-6. Knocking Criticals (Passive) - you get it - it knocks them prone.
-7. [Wounding Criticals] - If your critical leads to a wound apply wound 1 tier higher.
+5. Improved Criticals 
+6. 
 
 Two handed 3 Feats 
 10. [[Whirlwind]](2 actions, flourish) - Select multiple enemies within your reach, make a strike against the highest DC. If you hit you deal (StrikeDamage-Number of enemies) damage to each of them. 
