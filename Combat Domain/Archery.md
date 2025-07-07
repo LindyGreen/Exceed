@@ -4,9 +4,10 @@ Archery 1 Feats
 3. Fast Archer (active)- you can aim as a free action while you move. (quick positioning one)
 . Archery 2 Feats 
 4. Tower - As long as you didn't move previous turn - get free aim for all attacks.
-5. Close quarters shooter - If you aim, you get +2 to hit against targets in your weapon's #Range.
+5. Don't Turn your back on me!- You count as a flanking partner within range of your weapon, as if your range was your reach. 
 6. Double Shot (Flourish, Finisher)- Two shots for 1 action, different targets, second at -2 to hit.
 Archery 3 Feats 
 7. Overpowered draw(Finisher). Each aim action adds damage equal to weapon's base damage on next strike.
-8. Spell shot - when casting a single target offensive spell, you can store it in the nocked arrow until the end of your next turn, using your bow strike to resolve both the spells.
-9. Parting gift(Flourish). - After shooting in melee, move up to your speed. 
+8. Close quarters shooter - If you aim, you get +2 to hit against targets in your weapon's #Range
+9. Spell shot - when casting a single target offensive spell, you can store it in the nocked arrow until the end of your next turn, using your bow strike to resolve both the spells.
+10. Parting gift(Flourish). - After shooting in melee, move up to your speed. 
