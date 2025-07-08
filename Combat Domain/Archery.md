@@ -1,5 +1,5 @@
 Archery 1 Feats 
-1. Zen Archer - You can shoot with focus.(longer ranged ones) 
+1. Zen Archer - You can shoot with focus.(longer ranged ones like longbow) 
 2. Defensive Archer - add can use your bow skill to your DC(archer who goes melee) 
 3. Fast Archer (active)- you can aim as a free action while you move. (quick positioning one)
 . Archery 2 Feats 
