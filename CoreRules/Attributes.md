@@ -1,4 +1,5 @@
-- **Intelligence (IQ)**:{20} This attribute governs memory, reasoning, problem-solving, and knowledge. It impacts skills related to understanding complex information, learning new skills, and applying logical or analytical thought.
+ #### **Intelligence (IQ)** :{20} 
+ This attribute governs memory, reasoning, problem-solving, and knowledge. It impacts skills related to understanding complex information, learning new skills, and applying logical or analytical thought.
  
 ##### #Focus (FC) : {20}
 This attribute influences a character's ability to concentrate, resist mental and emotional manipulation, and maintain composure under pressure. It would affect skills requiring prolonged attention, mental stamina, and resistance to fear, enchantment, or persuasion.**  
@@ -7,7 +8,7 @@ Measures physical strength, endurance, and raw physical force. It's critical for
 ##### #Control (CN): {20}
 Represents precision, agility, and balance. It's essential for tasks that require fine motor skills, coordination, and physical finesse, such as lock-picking, acrobatics, and ranged attacks.  
 ##### #Health(HT): {10}
-Represents toughness and physical resilience. It is derived from PW, can be increased separately 
+Represents toughness and physical resilience. Can't be more than 2 away from power. 
 
 [[Secondary Attributes and Resources]]
 
