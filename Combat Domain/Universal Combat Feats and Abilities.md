@@ -33,3 +33,7 @@ Move and make a Shield Attack. If you have Guardian Stance, this movement doesn'
 
 
 ## Reactions 
+**Footwork** [5] - When enemy misses you with a melee attack, make a step as a reaction.
+**Improved Footwork**[10], requires footwork. Footwork doesn't consume reactions.
+Parry - [5]- Reaction - (Before the enemy attack roll) Get +1 to DC. 
+Repose [10]- Reaction - requires Parry and Footwork - Trigger (Enemy Missed an attack you declared a parry on) Make a step and strike against that enemy.
