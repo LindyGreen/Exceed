@@ -29,4 +29,4 @@ Ability to sneak, hide, disguise, and open locks.
 - **Shadow Master** - Once per day, you can become nearly invisible in shadows and dim light for 10 minutes, moving unseen even while observed.
 - **Escape Artist** - You can slip out of restraints, squeeze through impossibly tight spaces, and always find a way out of confined areas. Gain +4 to escape attempts.
 - **Deep Cover** - You can maintain multiple active identities simultaneously and switch between them seamlessly. Each identity has its own contacts and reputation.
-- **Assassinate** - When making a Silent Takedown against a target with lower spy skill than yours, the target automatically falls unconscious or dies (your choice) without needing to roll.
+- **Assassinate** - When making a Silent Takedown against a target with lower spy skill than yours, the target automatically falls unconscious or dies (your choice) without needing to roll.//TODO
