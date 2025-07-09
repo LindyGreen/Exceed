@@ -1,6 +1,6 @@
 Two-Handed 1 Feats 
 1. Powerful Smack (active 1 actions, vigor type)- Deal double weapon damage for the next attack until the end of your next turn.
-2. [[Charge]] - 2 moves 1 attack, 2 extra damage.
+2. [[Charge]] -() 2 moves 1 attack, 2 extra damage.
 3. [[Cleave]] - (Reaction) if your attack kills a creature, make a second attack with -2 as a reaction against a creature on the same side within  reach.(TODO Specify that same side is basically not flanking.) 
 
 
