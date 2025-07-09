@@ -9,6 +9,7 @@ Staff acrobat - add your weapon's reach (1-3) to the number of squares you can j
 Throw and Rush - (req, Charge, 2actions) Throw your weapon up to 5 without penalty, rush towards it, if it hit make another attack, taking back the weapon. 
 Impaling charge - (req charge) - Your charge attacks gain impale 2 on a hit, this stacks with the crit effect.
 
-Tier 3: Sweep the dirt (2 actions, Tripping Strike)- Attempt to trip all the enemies in reach one by one until you fail. in an attempt to trip them. Each consequitive attempt applies -1 stacking penalty until the end of the action. Double Trouble (2 actions)- Attack with a double weapon, then with the other end of the weapon, rinse repeast. Each consequitive attempt applies -1 stacking penalty until the end of the action.
+Tier 3: 
+Sweep the dirt (2 actions, Tripping Strike)- Attempt to trip all the enemies in reach one by one until you fail. in an attempt to trip them. Each consequitive attempt applies -1 stacking penalty until the end of the action. Double Trouble (2 actions)- Attack with a double weapon, then with the other end of the weapon, rinse repeast. Each consequitive attempt applies -1 stacking penalty until the end of the action.
 
 Edit
