@@ -54,9 +54,9 @@ The common list might vary based on region.
 | Maul               | 5   | 2         | Nonlethal, Large, Heavy                              | Knockback 1            |
 | Greatsword         | 5   | 2         | Reach, Agile                                         | Dazzled 1              |
 | War Staff          | 4   | 1         | Nonlethal, Conduit                                   | Fragile 1              |
-| Quarterstaff       | 3   | 0         | Reach, Nonlethal, Double, Conduit                    | Prone(has a save)      |
+| Quarterstaff       | 3   | 0         | Reach, Nonlethal, Double(self), Conduit              | Prone(has a save)      |
 | Pike               | 3   | 2         | Long Reach, Large                                    | Impaling 2             |
-| SwordStaff         | 4   | 1         | Reach, Nonlethal, Double                             | Fragile 1/Impaling 1   |
+| SwordStaff         | 4   | 1         | Reach, Nonlethal, Double(3DMG)                       | Fragile 1/Impaling 1   |
 
 
 ##  #Ranged_Weapons(WIP)
