@@ -1,2 +1,2 @@
 [[Archery]]
-[[Two-handed style]]
+[[Two-handed]]
