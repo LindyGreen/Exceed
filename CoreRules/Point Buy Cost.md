@@ -11,7 +11,7 @@ Attribute increases provide with an attribute feat up to that level.
 #Speed - TBD
 
 [[Domains Main]] and Combat
-#Domain - 4/8/12/16. Each increase includes a #Domain_Feat 
+#Domain - 4(lvl0)/8/12/16. Each increase includes a #Domain_Feat 
 #Domain_Feat 2/4/6/8
 #Trade - Up To GM, suggested cost 3 points.
 #Additional_Language 1/2/3 for broken/conversational/fluent (a/b/c)
