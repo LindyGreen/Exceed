@@ -1,4 +1,5 @@
-Tier 1 Spear formation(passive) - As long as you move less than half your speed during this turn, until the start of your next you can strike approaching enemies as a reaction. (this is like danger zone, but passive and uses reaction.) 
+**Ti**er 1 
+Spear formation(passive) - As long as you move less than half your speed during this turn, until the start of your next you can strike approaching enemies as a reaction. (this is like danger zone, but passive and uses reaction.) 
 [[Charge]] - the same as in 2h 
 Fainting strike - (Flourish, Requires Influencer 1)
 Make influence check against enemy's Focus as a part of the strike, if you succeed your strike gets +1 to attack. 
