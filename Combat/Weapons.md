@@ -4,7 +4,7 @@
 Proficiency in all one-handed swords, maces, and axes.
 
 ### 2. Two-handed weapons
-Proficiency in most two-handed weapons: Danish Axes, Great swords and mauls.
+Proficiency in most two-handed weapons: Danish Axes, Great swords and mauls.[[Two-handed style]]
 
 ### 3. Staves and Spears
 Staves, spears, bo-staves, pikes. Sword-staves
