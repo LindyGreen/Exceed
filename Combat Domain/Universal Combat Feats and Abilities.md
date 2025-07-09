@@ -4,18 +4,6 @@ Universal feats are not attached to any one domain, and range from background an
 
 ## #Combat_Domains 
 
-[[Archery]]
-
-### Two-Handed Weapon Feats
-**Level 1**: [[Power Attack]] - [[PLACEHOLDER]], [[Charge]] - [[PLACEHOLDER]]
-**Level 2**: [[Swipe]] - [[PLACEHOLDER]], [[Trip]] - [[PLACEHOLDER]], [[Shoving Attack]] - [[PLACEHOLDER]]
-**Level 3**: [[Whirlwind]] - [[PLACEHOLDER]], [[Danger Zone]] - [[PLACEHOLDER]]
-
-### Polearm Feats
-**Level 1**: [[Feint]] - [[PLACEHOLDER]], [[Pin]] - [[PLACEHOLDER]], [[Charge]] - [[PLACEHOLDER]]
-**Level 2**: [[Topple]] - [[PLACEHOLDER]], [[Last Goodbye]] - [[PLACEHOLDER]], [[Swipe]] - [[PLACEHOLDER]]
-**Level 3**: [[Hoplite]] - [[PLACEHOLDER]], [[Wide Stance]] - [[PLACEHOLDER]], [[Lacerate]] - [[PLACEHOLDER]]
-
 
 # Universal feats
 ## Background Features
@@ -42,3 +30,6 @@ Move and make a Shield Attack. If you have Guardian Stance, this movement doesn'
 **Shield Throw** (Action): TBD - Required returning weapons enchantment.
 
 **Impenetrable Defense** [10] (Reaction, 1/scene): Increase Shield block success state by one. From Failure to Success, From Success to CriticalSuccess.
+
+
+## Reactions 
