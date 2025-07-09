@@ -4,7 +4,7 @@
 - **Spear Dance**: Movement + attack flow
 **Guiding Finish/Riposte**: Using your weapon as a lever to reposition enemies - that's tactically interesting forced movement
 
-**Whirlwind Strike**: Hit everyone around you - classic fantasy move that feels impactful
+**Whirlwind Strike**: 
 
 **Impossible Volley**: Fire at an entire area - archery equivalent of whirlwind
 
