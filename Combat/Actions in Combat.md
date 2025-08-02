@@ -1,7 +1,7 @@
 
 # Core REWRITE
-Reactions shouldn't be present in the game. Instead use passive gameplay effects with no player choice.
-e.g. autoactivation.
+Reactions shouldn't be present in the game. Instead use passive game-play effects with no player choice.
+e.g. auto-activation.
 
 
 
