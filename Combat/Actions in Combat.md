@@ -1,3 +1,10 @@
+
+# Core REWRITE
+Reactions shouldn't be present in the game. Instead use passive gameplay effects with no player choice.
+e.g. autoactivation.
+
+
+
 ## Basic Actions (2 actions per turn)
 
 **Attack**: Make a melee or ranged attack against a target
