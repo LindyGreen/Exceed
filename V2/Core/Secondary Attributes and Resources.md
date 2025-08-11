@@ -90,11 +90,11 @@ Health 2, Focus 1, Armor Bonus 3:
 - Recovery: Full restoration after rest - [[Rest and Recovery]]
 
 **Magical Limit**: 3 + Intelligence + Focus  
-- **All characters** have Magical Limit (not just spellcasters)
+- **All characters** have Magical Limit (not just spell-casters)
 - **Concentration pool** for sustained magical effects including:
   - Personal magical buffs and enchantments (Shield, Invisibility, Enhanced Strength)
   - Communal effects affecting self + allies (Group Fire Resistance, Party Water Walking)
-  - Summoned creatures and constructsv
+  - Summoned creatures and constructs
   - Active magical items requiring concentration (enchanted armor, magical weapons)
 
 **Magical Training Benefits:**
