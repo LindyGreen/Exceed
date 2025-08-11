@@ -35,14 +35,17 @@ Unless noted the limit for the component Passive level is 2.
 #### **Power [PW]** - 20 points
 
 - **Purchasable Components:**
-    Strenght [10]
+    Strength [10]
 	- Striking PW [7]
     - Carrying PW[7]
     - Speed [7]
-	Heath [10]
+	Toughness [10]
 	- Extra Wounds [5]
     - Extra Resilience [3]
 
+
+### Universal Skills
+Actions that don't require specialized training
 
 ## Health System
 
