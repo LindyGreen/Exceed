@@ -17,8 +17,8 @@
 
 ### Key Design Principles
 
-- **Skill Average = Skill Level + 1** (for skills 4+)
-- Linear scaling from avrg of 2 to 10,
+- **Skill Average / Skill DC = Skill Level + 1** (for skills 4+)
+- Linear scaling from avrg of 2 to 20,
 - Higher skills compress attribute advantages,
 - System supports skills beyond level 6 with continued dice progression 13-18 using d12 +N
 
@@ -36,3 +36,6 @@
 
 - Attacker: Skill 5 (1d4+1d6) + Control 2 = 2-12 range
 - Defender: Skill 4 (2d4) + Control 0 = 2-8 range
+Attacker considers successful if the result of Attack Roll - Defense Roll is equal to 0 or higher
+
+### Uncontested Checks 
