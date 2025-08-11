@@ -8,7 +8,7 @@ Measures physical strength, endurance, and raw physical force. It's critical for
 ##### #Control (CN): {20}
 Represents precision, agility, and balance. It's essential for tasks that require fine motor skills, coordination, and physical finesse, such as lock-picking, acrobatics, and ranged attacks.  
 ##### #Health(HT): {10}
-Represents toughness and physical resilience. Can't be more than 2 away from power. 
+Represents toughness and physical resilience. 
 
 [[Secondary Attributes and Resources]]
 

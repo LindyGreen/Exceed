@@ -11,13 +11,6 @@ Secondary Attributes consist of HP Systems, Magical Limits, Mana, and movement.
     - Charisma [5] - Social Skills
 
 #### **Focus [FC]** - 20 points
-
-- **Direct Effects:**
-    - +1 to Focus-based skill rolls
-    - +1 to Base Resilience calculation
-    - +1 to Magical Limit calculation
-    - +1 to Initiative rolls (standard encounters)
-    - +1 to resist exhaustion checks
 - **Purchasable Components:**
 	- Extra Limit [10]
 	- Enhanced Senses [7] +1 to perception related Focus checks 
@@ -25,32 +18,23 @@ Secondary Attributes consist of HP Systems, Magical Limits, Mana, and movement.
 
 #### **Control [CN]** - 20 points
 
-- **Direct Effects:**
-    - +1 to Control-based skill rolls (including shooting by default)
-    - +1 to ranged attacks
-    - +1 to fine manipulation
 - **Purchasable Components:**
     - Fine motor control [10] - skills
-    - Footwork [Weapon Skill] - Defense
+    - Enhanced Footwork [10] - Melee weapons and reflexes
+    - Stable Hands [10] - ranged weapons
+    - Speed [7]
 
 #### **Power [PW]** - 10 points
 
-- **Direct Effects:**
-    - +1 to Power-based skill rolls
-    - +1 to melee damage
-    - Carrying capacity
-    - Limits Health (can't differ by more than 2)
 - **Purchasable Components:**
-    - [To be defined based on playtesting]
+    - Striking PW [10]
+    - Carrying PW[10]
+    - Speed [7]
 
 #### **Health [HT]** - 10 points
-
-- **Direct Effects:**
-    - +1 to Base Resilience calculation
-    - +1 to Total Wounds calculation
-    - Must be within 2 of Power
 - **Purchasable Components:**
-    - Extra Wounds [5 pts] - +1 wound level only
+    - Extra Wounds [5]
+    - Extra Resilience [3]
 
 
 ## Health System
