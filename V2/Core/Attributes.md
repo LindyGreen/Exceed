@@ -11,7 +11,7 @@ Represents precision, agility, and balance. It's essential for tasks that requir
 [[Secondary Attributes and Resources]]
 
 ### #Stat_Distribution Example.(To be changed)
-The base stat for a character is 0, which means no modifier is added. For player characters, attribute values are fixed to a range of -3 to +3 at character creation.
+The base stat for a character is 0, which means no modifier is added. For player characters, attribute values are fixed to a range of -2 to +2 at character creation.
 
 Power  0 is deadlift human-sized weight. Power +2 is double human weight. Power +4 is quadruple.
 

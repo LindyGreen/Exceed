@@ -1,4 +1,4 @@
-# Core Resolution System
+
 
 ## 1. Skill Distribution and Logic
 
@@ -36,6 +36,9 @@
 
 - Attacker: Skill 5 (1d4+1d6) + Control 2 = 2-12 range
 - Defender: Skill 4 (2d4) + Control 0 = 2-8 range
-Attacker considers successful if the result of Attack Roll - Defense Roll is equal to 0 or higher
+Attacker considers successful if the result of Attack Roll is >= Defense Roll.
 
 ### Uncontested Checks 
+Uncontested checks follow a similar structure:
+Success>= SkillDice+AttributeModifier+Bonuses Vs DC. 
+
