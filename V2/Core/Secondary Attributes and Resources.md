@@ -32,16 +32,15 @@ Unless noted the limit for the component Passive level is 2.
     - Stable Hands [10] - ranged weapons
     - Speed [7]
 
-#### **Power [PW]** - 10 points
+#### **Power [PW]** - 20 points
 
 - **Purchasable Components:**
-    - Striking PW [10]
-    - Carrying PW[10]
+    Strenght [10]
+	- Striking PW [7]
+    - Carrying PW[7]
     - Speed [7]
-
-#### **Health [HT]** - 10 points
-- **Purchasable Components:**
-    - Extra Wounds [5]
+	Heath [10]
+	- Extra Wounds [5]
     - Extra Resilience [3]
 
 

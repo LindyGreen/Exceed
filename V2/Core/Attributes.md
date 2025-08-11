@@ -3,12 +3,10 @@
  
 ##### #Focus (FC) : {20}
 This attribute influences a character's ability to concentrate, resist mental and emotional manipulation, and maintain composure under pressure. It would affect skills requiring prolonged attention, mental stamina, and resistance to fear, enchantment, or persuasion.**  
-##### #Power (PW): {10}
-Measures physical strength, endurance, and raw physical force. It's critical for actions requiring brute strength, like lifting heavy objects, melee combat, and other feats of physical prowess.
+##### #Power (PW): {20}
+_Measures physical strength, endurance, and bodily resilience. Covers raw physical force, stamina, and the body's ability to withstand damage and stress._
 ##### #Control (CN): {20}
 Represents precision, agility, and balance. It's essential for tasks that require fine motor skills, coordination, and physical finesse, such as lock-picking, acrobatics, and ranged attacks.  
-##### #Health(HT): {10}
-Represents toughness and physical resilience. 
 
 [[Secondary Attributes and Resources]]
 
