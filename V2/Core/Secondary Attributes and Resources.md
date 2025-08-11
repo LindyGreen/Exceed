@@ -30,22 +30,26 @@ Unless noted the limit for the component Passive level is 2.
     - Fine motor control [10] - skills
     - Enhanced Footwork [10] - Melee weapons and reflexes
     - Stable Hands [10] - ranged weapons
-    - Speed [7]
+    - Speed [5]
 
 #### **Power [PW]** - 20 points
 
 - **Purchasable Components:**
     Strength [10]
-	- Striking PW [7]
-    - Carrying PW[7]
-    - Speed [7]
+	- Striking ST [7] -  add to the damage bonus
+    - Carrying ST[7] -  allows using heavier equipment
+    - Speed [5]
 	Toughness [10]
 	- Extra Wounds [5]
     - Extra Resilience [3]
 
 
 ### Universal Skills
-Actions that don't require specialized training
+Actions that don't require specialized training like jumping, running convincing, threatening use attributes. Skill level is counted from attributes and modifiers are added.
+Athletics - Spent points on Power/5 + ExtraStrenght1. with PW2 (40/5=8)and ST 1 it will be skill 9. 
+
+Acrobatics - Control + fine motor control/5
+FastTalk - 
 
 ## Health System
 
