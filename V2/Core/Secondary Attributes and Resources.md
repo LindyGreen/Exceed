@@ -1,6 +1,6 @@
 Secondary Attributes consist of HP Systems, Magical Limits, Mana, and movement speed. 
 You can purchase components of the Attribute. Those are added to your "Passives" list, affecting the appropriate rolls and stats. 
-Price is written per level and can be consolidated to the main attribute, or the attribute of choice. [[Consolidation]] for more information.
+Price is written per level and can be consolidated into the main attribute, or supporting one. [[Consolidation]] for more information.
 
 
 Unless noted the limit for the component Passive level is 2.
