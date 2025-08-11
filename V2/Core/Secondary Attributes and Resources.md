@@ -1,20 +1,28 @@
-Secondary Attributes consist of HP Systems, Magical Limits, Mana, and movement. 
+Secondary Attributes consist of HP Systems, Magical Limits, Mana, and movement speed. 
+You can purchase components of the Attribute. Those are added to your "Passives" list, affecting the appropriate rolls and stats. 
+Price is written per level and can be consolidated to the main attribute, or the attribute of choice. [[Consolidation]] for more information.
+
+
+Unless noted the limit for the component Passive level is 2.
+
 
 ## Attribute & Derived Attribute Tree
 
 #### **Intelligence [IQ]** - 20 points
 
-- ** Components:**
-    - Extra Mana [5] - +5 MP only
-    - Extra Magical Limit [10] - +1 Limit only (includes +5 MP)
+-  **Components:**
+    - Extra Mana [5] - +1 MP (unlimited)
+    - Extra Magical Limit [10] - +1 Limit (up to 5)
     - Sharp Minds [10] - +1 Skills on skill checks
-    - Charisma [5] - Social Skills
+    - Charisma [5] - Social Skills (up to 5 levels)
 
 #### **Focus [FC]** - 20 points
 - **Purchasable Components:**
 	- Extra Limit [10]
-	- Enhanced Senses [7] +1 to perception related Focus checks 
-    - Extra Resilience [3 pts] - +1 Base Resilience only
+	- Enhanced Perception [8] +1 to perception related Focus checks 
+	- Enhanced Vision [5] +1 to vision checks
+	- Enhanced Sense (select sense)[3] +1 to sense not including vision
+    - Extra Resilience [3] - +1 Base Resilience only
 
 #### **Control [CN]** - 20 points
 
