@@ -59,8 +59,7 @@ Intimidation - Higher of IQ/Power+Charisma+SharpMind
 
 Recalling - Higher of IQ/Focus (can purchase separate Advantages for recalling)
 
-Sneaking - Control+Fine Motor Control 
-
+Sneaking - Control+Fine Motor Control - this doesn't allow complex hiding from senses like "Spy" does.
 
 
 ## Health System
