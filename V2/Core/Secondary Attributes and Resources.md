@@ -45,11 +45,23 @@ Unless noted the limit for the component Passive level is 2.
 
 
 ### Universal Skills
-Actions that don't require specialized training like jumping, running convincing, threatening use attributes. Skill level is counted from attributes and modifiers are added.
-Athletics - Spent points on Power/5 + ExtraStrenght1. with PW2 (40/5=8)and ST 1 it will be skill 9. 
 
-Acrobatics - Control + fine motor control/5
-FastTalk - 
+Actions that don't require specialized training like jumping, running convincing, threatening use attributes. Skill level is counted from attributes.
+Example:
+
+Athletics - Spent points on (Power+ExtraStrenght)/5 = SkillLevel. with PW2 and St1 50points/5=10 Skill. You don't add the attribute modifier to the roll.
+
+Acrobatics - Control + fine motor control
+
+FastTalk/Diplomacy - IQ+Charisma+SharpMind
+
+Intimidation - Higher of IQ/Power+Charisma+SharpMind
+
+Recalling - Higher of IQ/Focus (can purchase separate Advantages for recalling)
+
+Sneaking - Control+Fine Motor Control 
+
+
 
 ## Health System
 
