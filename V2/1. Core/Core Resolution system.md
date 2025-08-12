@@ -67,9 +67,6 @@ For extreme successes/failures in opposed rolls:
 - **Critical Defender**: Defender’s total ≤ attacker’s smallest die roll.
     
 - **Critical Attacker**: Attacker’s total ≥ defender’s smallest die roll.
-    
-- Adjust effect severity accordingly.
-    
 
 ---
 
@@ -86,10 +83,3 @@ Used when the outcome is against an objective difficulty, not another character.
 3. Compare total against the **Difficulty Class (DC)**.
     
 4. If needed, the **margin of success** (total – DC) can be used for tiered effects.
-    
-
-**Notes:**
-
-- No critical results for uncontested checks by default.
-    
-- Can add degrees of success/failure if the system calls for it.
