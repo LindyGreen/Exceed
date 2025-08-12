@@ -30,6 +30,8 @@ Domain Skill Level ranges from 0 to 20, separated into 5 tiers. Tier names vary 
 
 1. Sufficient points to reach the new level
 2. **At least one Domain Feat from the current tier**
+
+Combat and magic domains might have extra advancement requirements, more in combat domains.
 ## Domain Feats and Abilities
 
 Each tier unlocks access to more powerful domain-specific abilities:
