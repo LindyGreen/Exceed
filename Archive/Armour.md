@@ -1,20 +1,17 @@
-# Armour
+## How Armour Works
 
-Defence Modifier: Armour doesn't provide a Defence Modifier to Defence Class(DC), but provides ablative armour that gives extra stress and raises the threshold for levels of injuries. Shields provide both AC and armour benefits.
+**HP per Wound** = Base Resilience + Armour Bonus **Total HP** = HP per Wound × Total Wounds
 
-**DC = [highest of Focus/Shield/WeaponSkill] + Control**  
-
-#Armour restricts the maximum #Control value that can be applied in #DC. More expensive armour being less demanding, higher #ArmourBonus usually requiring more Power/Limit to wear.
+**Dodge Penalty:** Armour imposes penalties to dodge rolls. **Requirements:** Power requirements as listed.
 
 ## Armour Table
 
-| **Armour Name** | **Control Cap** | **Power Req** | **Armour Bonus** | **Limit** |
-| --------------- | --------------- | ------------- | ---------------- | --------- |
-| Scout           | 3               | 0             | 1                | 1         |
-| Tactical        | 2               | 1             | 2                | 1         |
-| Defensive       | 1               | 1             | 3                | 2         |
-| Bulwark         | 0               | 2             | 4                | 2         |
-
+| **Armor Type** | **Dodge Penalty** | **Power Req** | **Armor Bonus** |
+| -------------- | ----------------- | ------------- | --------------- |
+| **Scout**      | 0                 | 0             | +1              |
+| **Tactical**   | -1                | 1             | +2              |
+| **Defensive**  | -2                | 1             | +3              |
+| **Bulwark**    | -3                | 2             | +4              |
 ## Shields
 
 | **Shield Name** | **Control Cap** | **Power Req** | **Armour Bonus** | **Limit** |
