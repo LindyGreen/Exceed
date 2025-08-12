@@ -57,6 +57,7 @@ The common list might vary based on region.
 | Quarterstaff       | 3   | 0         | Reach, Nonlethal, Double(self), Conduit              | Prone(has a save)      |
 | Pike               | 3   | 2         | Long Reach, Large                                    | Impaling 2             |
 | SwordStaff         | 4   | 1         | Reach, Nonlethal, Double(3DMG)                       | Fragile 1/Impaling 1   |
+|                    |     |           |                                                      |                        |
 
 
 ##  #Ranged_Weapons(WIP)
