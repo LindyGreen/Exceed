@@ -51,12 +51,10 @@ Used when two characters are directly opposed — combat, arm-wrestling, sneakin
 
 **Competitive Balance:**
 
-- Equal skill: Attacker wins ~54-67% of the time (attacker’s tie-break advantage included).
-    
-- +1 skill advantage: 50–63% win rate.
-    
-- +2 skill advantage: 65–81% win rate.
-    
+- Equal skill: Attacker wins ~51-62% of the time with equal skills (with 62 at skill 1 and 51 at skill 20)
+- +1 skill advantage: 57–63% win rate  
+- +2 skill advantage: 58–86% win rate. (92% on skills 1-4 level)
+
 
 ---
 
