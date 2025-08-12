@@ -35,7 +35,7 @@
 
 ## Universal Skills
 
-Universal skills (Athletics, Social, etc.) derive their level from total points spent on relevant attributes: Items and advantages can add static bonuses to this checks. See: [[Secondary Attributes and Components]]
+Universal skills (Athletics, Social, etc.) derive their level from total points spent on relevant attributes: Items and advantages can add static bonuses to this checks. See: [[Secondary Attributes and Components]] 
 
 ## Combat Domains
 
