@@ -38,7 +38,6 @@ Unless noted the limit for the component Passive level is 2.
     Strength [10]
 	- Striking ST [7] -  add to the damage bonus
     - Carrying ST[7] -  allows using heavier equipment
-    - Speed [5]
 	Toughness [10]
 	- Extra Wounds [5]
     - Extra Resilience [3]
