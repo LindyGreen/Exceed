@@ -17,14 +17,16 @@
 
 ### Key Design Principles
 
+
 - **Skill Average / Skill DC = Skill Level + 1** (for skills 4+)
 - Linear scaling from avrg of 2 to 20,
 - Higher skills compress attribute advantages,
 - System supports skills beyond level 6 with continued dice progression 13-18 using d12 +N
+- In contested checks the Attacker has the tie advantage.
 
 ### Competitive Balance Results
 
-**Equal Skill Contests:** ~37-44% attacker advantage (accounting for ties) **+1 Skill Advantage:** ~50-63% win rate **+2 Skill Advantage:** ~65-81% win rate
+**Equal Skill Contests:** ~37-44% attacker advantage (without ties) **+1 Skill Advantage:** ~50-63% win rate **+2 Skill Advantage:** ~65-81% win rate
 
 ## 2. Contested and Uncontested Checks
 
@@ -50,4 +52,4 @@ Critical attacker -> Result is >= DefenderSmallestDie.
 ### Uncontested Checks 
 Uncontested checks follow a similar structure:
 Success>= SkillDice+AttributeModifier+Bonuses Vs DC. 
-
+There are no critical result in uncontested checks, in case it is needed, the delta can be used as success tier/effect/nof successes/etc
