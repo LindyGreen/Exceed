@@ -4,9 +4,9 @@ Skill levels determine what dice you roll for checks. Higher skill = better dice
 
 | Skill Level | Dice Formula      | Max Roll | Average |
 | ----------- | ----------------- | -------- | ------- |
-| 1           | 1d4               | 4        | 2.5     |
-| 2           | 1d4 + 1           | 5        | 3.5     |
-| 3           | 1d4 + 2           | 6        | 4.5     |
+| 1           | 2d4-3             | 5        | 2       |
+| 2           | 2d4-2             | 6        | 3       |
+| 3           | 2d4-1             | 7        | 4       |
 | 4           | 2d4               | 8        | 5.0     |
 | 5           | 1d4 + 1d6         | 10       | 6.0     |
 | n (even)    | 2dN               | 2n       | n + 1   |
