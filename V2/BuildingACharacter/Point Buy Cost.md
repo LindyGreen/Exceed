@@ -19,12 +19,11 @@
 - **Levels 5-9:** 3 points per level (15 points total)
 - **Levels 10-14:** 5 points per level (25 points total)
 - **Levels 15-19:** 7 points per level (35 points total)
-
 **Total to maximize domain:** 80 points
 
 ### Ability Tier Access
 
-- **Tier 0:** Levels 0-3 (Basic techniques)
+- **Tier 0:** Levels 0-4 (Basic techniques)
 - **Tier 1:** Levels 4-8 (Professional techniques)
 - **Tier 2:** Levels 9-13 (Expert techniques)
 - **Tier 3:** Levels 14-18 (Master techniques)
