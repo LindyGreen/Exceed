@@ -9,7 +9,7 @@ Domain Skill Level ranges from 0 to 20, separated into 5 tiers. Tier names vary 
 - **0-4: Tier 1 - Apprentice**
 - **5-9: Tier 2 - Journeyman**
 - **10-14: Tier 3 - Master**
-- **15-19: Tier 4 - Grandmaster**
+- **15-19: Tier 4 - Grand-master**
 - **20: Tier 5 - Paragon**
 
 ## Domain Progression Costs
