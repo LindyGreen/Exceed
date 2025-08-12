@@ -16,3 +16,10 @@ When you spend points to raise a skill, you must also spend **training time** be
 - A skill increase from **15 → 16** costs 7 point and requires **7 days** of downtime. A full workweek can fulfill the point growth. A good library could cut that time to a time up to GM's discretion.
 - Raising StrikingPW [10] would require 10 days, but could be cut down by a presence of a healer, growth potions and good equipment. 
 
+
+## Domain Tier Advancement Requirements
+
+**Progressing within a tier** requires spending the appropriate points as listed above. Each tear advancement provides with a Domain Talent of the new tier.
+
+
+Combat and magic domains might have extra advancement requirements, more in combat and magic domains.

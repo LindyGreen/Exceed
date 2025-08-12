@@ -35,8 +35,7 @@
 
 ## Universal Skills
 
-Universal skills (Athletics, Social, etc.) derive their level from total points spent on relevant attributes: Items and advantages can add static bonuses to this checks. See: [[Secondary Attributes and Components]] 
-
+Universal skills (Athletics, Social, etc.) derive their level from total points spent on relevant attributes and are not purchasable separately.
 ## Combat Domains
 
 **Combat domains follow standard domain progression costs** (1/3/5/7 points per tier) and rules.
