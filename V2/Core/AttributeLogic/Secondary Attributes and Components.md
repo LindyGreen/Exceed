@@ -92,8 +92,8 @@ Combatants are not expected to fight without their main armor, but if they are r
 - Require medical treatment
 - At Max Wounds, character is incapacitated(unless stated otherwise)
 
-**Fatigue:** ([[V2/Core/Fatigue]])
-Each fatigue level reduces max HP by 1 row of temporary wounds. See [[V2/Core/Fatigue]] for details.
+**Fatigue:** ([[V2/Core/AttributeLogic/FatigueAndRest/Fatigue]])
+Each fatigue level reduces max HP by 1 row of temporary wounds. See [[V2/Core/AttributeLogic/FatigueAndRest/Fatigue]] for details.
 
 
 #### Example
@@ -112,7 +112,7 @@ Health 2, Focus 1, Armor Bonus 3:
 
 **[Mana Points (MP)]**: 10 + Magical Limit
 - Used for **casting spells** and **one-time magical effects**
-- Recovery: Full restoration after rest - [[V2/Core/Rest And Recovery]]
+- Recovery: Full restoration after rest - [[V2/Core/AttributeLogic/FatigueAndRest/Rest And Recovery]]
 
 **Magical Limit**: 3 + Intelligence + Focus  
 - **All characters** have Magical Limit (not just spell-casters)
