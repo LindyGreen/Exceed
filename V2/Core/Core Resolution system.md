@@ -39,7 +39,8 @@
 Attacker considers successful if the result of Attack Roll is >= Defense Roll.
 
 Critical Results:
-Attacker tak
+Attacker takes the smallest die of the defender, and vice versa. 
+If Difference is >
 
 ### Uncontested Checks 
 Uncontested checks follow a similar structure:
