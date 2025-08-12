@@ -17,9 +17,10 @@
 
 **Total Attribute Points:** ___  
 #### Secondary Attributes
-- Base Resilience (FC+PW+2)
+- Base Resilience (FC+PW.health+2)
 - Wound threshold (Armor+Base Resilience)
-- Wounds ()
+- Wounds (PW.health+2, minimum 1)
+- Movement Speed - 3+Control
 ---
 
 ### **Points Summary**
@@ -47,6 +48,12 @@
 | Apothecary   |        |       |         |         |         |         |
 | Spy          |        |       |         |         |         |         |
 | Influencer   |        |       |         |         |         |         |
+#### Talents and Specializations
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
+|     |     |     |     |     |     |     |
 
 ---
 
@@ -76,10 +83,10 @@
 
 ### **Combat Stats**
 - **AP:** ____ (Base 5 + Bonus)
-- **Initiative:** ____
-- **HP/Wounds:**                ()____
-- **Limit:** ____
-- **Mana:** ____
+- **Initiative:** __2__
+- **HP/Wounds:**        20/4        ()____
+- **Limit:**  __5__
+- **Mana:** __10__
 
 ---
 
