@@ -38,6 +38,9 @@
 - Defender: Skill 4 (2d4) + Control 0 = 2-8 range
 Attacker considers successful if the result of Attack Roll is >= Defense Roll.
 
+Critical Results:
+Attacker tak
+
 ### Uncontested Checks 
 Uncontested checks follow a similar structure:
 Success>= SkillDice+AttributeModifier+Bonuses Vs DC. 
