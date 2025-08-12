@@ -11,6 +11,7 @@ Domain Skill Level ranges from 0 to 20, separated into 5 tiers. Tier names vary 
 - **10-14: Tier 3 - Master**
 - **15-19: Tier 4 - Grand-master**
 - **20: Tier 5 - Paragon**
+From Skill Level 14 you have to select a specialization. Using Domain outside of specialization will be capped at Skill level 15.
 
 ## Domain Progression Costs
 
