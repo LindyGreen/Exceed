@@ -8,7 +8,7 @@ _Measures physical strength, endurance, and bodily resilience. Covers raw physic
 ##### #Control (CN): {20}
 Represents precision, agility, and balance. It's essential for tasks that require fine motor skills, coordination, and physical finesse, such as lock-picking, acrobatics, and ranged attacks.  
 
-[[Secondary Attributes and Resources]]
+[[Secondary Attributes and Components]]
 
 ### #Stat_Distribution Example.(To be changed)
 The base stat for a character is 0, which means no modifier is added. For player characters, attribute values are fixed to a range of -2 to +2 at character creation.

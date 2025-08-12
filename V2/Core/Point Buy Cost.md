@@ -7,7 +7,7 @@
 - Control [CN]
 - Power [PW] (consolidated with Health)
 
-**Attribute Components** can be purchased separately at costs listed in [[Secondary Attributes and Resources]].
+**Attribute Components** can be purchased separately at costs listed in [[Secondary Attributes and Components]].
 
 **Consolidation Rule:** Attribute components can be refunded when purchasing full attribute levels. See [[Consolidation]] for details.
 
@@ -36,7 +36,7 @@
 
 ## Universal Skills
 
-Universal skills (Athletics, Social, etc.) derive their level from total points spent on relevant attributes: Items and advantages can add static bonuses to this checks. See: [[Secondary Attributes and Resources]]
+Universal skills (Athletics, Social, etc.) derive their level from total points spent on relevant attributes: Items and advantages can add static bonuses to this checks. See: [[Secondary Attributes and Components]]
 
 ## Combat Domains
 
