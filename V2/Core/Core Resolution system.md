@@ -36,11 +36,13 @@
 
 - Attacker: Skill 5 (1d4+1d6) + Control 2 = 2-12 range
 - Defender: Skill 4 (2d4) + Control 0 = 2-8 range
-Attacker considers successful if the result of Attack Roll-Defense Roll is >= 0.
+Attacker considers successful if the Result of Attack Roll-Defense Roll is >= 0.
 
 Critical Results:
 Attacker takes the smallest die of the defender, and vice versa. 
-Critical Defender ->  
+Critical Defender ->  Result is <= AttackerSmallestDice 
+Defender -> Result 0s < 0.
+Attacker -> Result is 0 - DefenderSmallestDic
 
 ### Uncontested Checks 
 Uncontested checks follow a similar structure:
