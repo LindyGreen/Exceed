@@ -32,6 +32,7 @@ From Skill Level 14 you have to select a specialization. Using Domain outside of
 1. Sufficient points to reach the new level
 2. **At least one Domain Feat from the current tier**
 
+
 Combat and magic domains might have extra advancement requirements, more in combat domains.
 ## Domain Feats and Abilities
 
