@@ -1,9 +1,5 @@
 {
 	"nodes":[
-		{"id":"0391bb0483f2aa98","type":"text","text":"Mind","x":365,"y":-183,"width":250,"height":60},
-		{"id":"2e9fbbde435d14a5","type":"text","text":"Focus(FC)","x":615,"y":33,"width":250,"height":60},
-		{"id":"a00479777996ed3d","x":490,"y":180,"width":250,"height":60,"type":"text","text":"Perception"},
-		{"id":"30be5a74ac6ba8fa","x":740,"y":180,"width":250,"height":60,"type":"text","text":"Will"},
 		{"id":"0093a567e258a335","type":"text","text":"Agility","x":490,"y":703,"width":250,"height":60},
 		{"id":"517278908371be92","type":"text","text":"Control (CN)","x":615,"y":556,"width":250,"height":60},
 		{"id":"ed7e9bb640d0ea36","type":"text","text":"Dexterity","x":740,"y":703,"width":250,"height":60},
@@ -11,9 +7,15 @@
 		{"id":"1c5c176668931200","type":"text","text":"Power (PW)","x":115,"y":556,"width":250,"height":60},
 		{"id":"2f9d33dc5ce24979","type":"text","text":"Toughness","x":240,"y":703,"width":250,"height":60},
 		{"id":"ce101c5fcb8b6a4e","type":"text","text":"Body","x":365,"y":340,"width":250,"height":60},
-		{"id":"57879f282762c6d9","type":"text","text":"Charisma","x":-10,"y":180,"width":250,"height":60},
-		{"id":"2316ad47fbcd55c5","type":"text","text":"Intelligence (IQ)","x":115,"y":33,"width":250,"height":60},
-		{"id":"28e734248f2b656e","type":"text","text":"Wit","x":240,"y":180,"width":250,"height":60}
+		{"id":"0391bb0483f2aa98","type":"text","text":"Mind","x":1375,"y":340,"width":250,"height":60},
+		{"id":"2e9fbbde435d14a5","type":"text","text":"Focus(FC)","x":1625,"y":556,"width":250,"height":60},
+		{"id":"a00479777996ed3d","type":"text","text":"Perception","x":1500,"y":703,"width":250,"height":60},
+		{"id":"30be5a74ac6ba8fa","type":"text","text":"Will","x":1750,"y":703,"width":250,"height":60},
+		{"id":"57879f282762c6d9","type":"text","text":"Charisma","x":1000,"y":703,"width":250,"height":60},
+		{"id":"2316ad47fbcd55c5","type":"text","text":"Intelligence (IQ)","x":1125,"y":556,"width":250,"height":60},
+		{"id":"28e734248f2b656e","type":"text","text":"Wit","x":1250,"y":703,"width":250,"height":60},
+		{"id":"ab24de05dbc472c9","x":-10,"y":880,"width":250,"height":60,"type":"text","text":"Lifting, \n"},
+		{"id":"3d7604512ace4f32","x":240,"y":880,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"700935032f68f4f5","fromNode":"ce101c5fcb8b6a4e","fromSide":"left","toNode":"1c5c176668931200","toSide":"top"},
@@ -27,6 +29,8 @@
 		{"id":"738bce9470f02cc3","fromNode":"2316ad47fbcd55c5","fromSide":"bottom","toNode":"57879f282762c6d9","toSide":"top"},
 		{"id":"dad4609d6f7f1f08","fromNode":"2316ad47fbcd55c5","fromSide":"bottom","toNode":"28e734248f2b656e","toSide":"top"},
 		{"id":"d59fd9bfb07f4a51","fromNode":"2e9fbbde435d14a5","fromSide":"bottom","toNode":"a00479777996ed3d","toSide":"top"},
-		{"id":"4d23a2b3f86f4579","fromNode":"2e9fbbde435d14a5","fromSide":"bottom","toNode":"30be5a74ac6ba8fa","toSide":"top"}
+		{"id":"4d23a2b3f86f4579","fromNode":"2e9fbbde435d14a5","fromSide":"bottom","toNode":"30be5a74ac6ba8fa","toSide":"top"},
+		{"id":"0565cc11cd55b5cd","fromNode":"2f9d33dc5ce24979","fromSide":"bottom","toNode":"3d7604512ace4f32","toSide":"top"},
+		{"id":"26ee9c6280680517","fromNode":"7c67bfaf5ae96b1f","fromSide":"bottom","toNode":"ab24de05dbc472c9","toSide":"top"}
 	]
 }
