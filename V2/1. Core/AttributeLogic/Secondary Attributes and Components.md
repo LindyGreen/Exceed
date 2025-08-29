@@ -27,9 +27,9 @@ Unless noted the limit for the component Passive level is 2.
 #### **Control [CN]** - 20 points
 
 - **Purchasable Components:**
-    - Fine motor control [10] - skills
-    - Enhanced Footwork [10] - Melee weapons and dodging
-    - Stable Hands [10] - ranged weapons
+    - Fine motor control (Dexterity) [10] - skills
+    - Enhanced Footwork (Agility[10] - Melee weapons and dodging
+    - Stable Hands [10] - () ranged weapons
     - Speed [5]
 
 #### **Power [PW]** - 20 points
