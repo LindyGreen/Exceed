@@ -14,7 +14,7 @@
 		{"id":"57879f282762c6d9","type":"text","text":"Charisma","x":1000,"y":703,"width":250,"height":60},
 		{"id":"2316ad47fbcd55c5","type":"text","text":"Intelligence (IQ)","x":1125,"y":556,"width":250,"height":60},
 		{"id":"28e734248f2b656e","type":"text","text":"Wit","x":1250,"y":703,"width":250,"height":60},
-		{"id":"ab24de05dbc472c9","x":-10,"y":880,"width":250,"height":240,"type":"text","text":"Sprinting\nLifting\nWrestling\nSports - List of ST sports\nJumping\n"},
+		{"id":"ab24de05dbc472c9","x":-10,"y":880,"width":250,"height":240,"type":"text","text":"Sprinting\nLifting\nWrestling/Brawling\n\nSports - List of ST sports\nJumping\n"},
 		{"id":"3d7604512ace4f32","x":240,"y":880,"width":250,"height":240,"type":"text","text":"Hiking\nSwimming\nCarousing\nSinging\nRunning\nCarousing\nBody Control\nSex Appeal"},
 		{"id":"3cf942d0a72fbc56","x":490,"y":880,"width":250,"height":240,"type":"text","text":"Sprinting"}
 	],
