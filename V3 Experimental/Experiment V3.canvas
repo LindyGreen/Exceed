@@ -15,7 +15,7 @@
 		{"id":"2316ad47fbcd55c5","type":"text","text":"Intelligence (IQ)","x":1125,"y":556,"width":250,"height":60},
 		{"id":"28e734248f2b656e","type":"text","text":"Wit","x":1250,"y":703,"width":250,"height":60},
 		{"id":"ab24de05dbc472c9","x":-10,"y":880,"width":250,"height":200,"type":"text","text":"Lifting, \n"},
-		{"id":"3d7604512ace4f32","x":240,"y":880,"width":250,"height":240,"type":"text","text":"Hiking\nSwimming\nCarousing\nSinging\nRunning\nLifting\nCarousing\nBody Control\nSex A"}
+		{"id":"3d7604512ace4f32","x":240,"y":880,"width":250,"height":240,"type":"text","text":"Hiking\nSwimming\nCarousing\nSinging\nRunning\nLifting\nCarousing\nBody Control\nSex Appeal"}
 	],
 	"edges":[
 		{"id":"700935032f68f4f5","fromNode":"ce101c5fcb8b6a4e","fromSide":"left","toNode":"1c5c176668931200","toSide":"top"},
