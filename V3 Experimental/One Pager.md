@@ -4,7 +4,7 @@
 - **Contested**: Initiator roll - Responder roll ≥ 0 = success
 - **Uncontested**: Roll vs difficulty (Easy 10, Moderate 15, Hard 20)
 - **Critical**: On doubles. Success -> Critical Success, failure -> Critical Failure 
-
+Group checks - one person rolls, others assist. A
 ## Action points AP
 
 **Base AP:** 5  
@@ -16,5 +16,16 @@
 | **Attack – Light Weapon**        | 2 AP   |
 | **Attack – Standard Weapon**     | 3 AP   |
 | **Reload/Draw Weapon**           | 1 AP   |
-| **Use Ability/Feat**             | Varied |
+| **Use Ability/Feat/Spell**       | Varied |
 | **Sustain Effect** (if required) | 1 AP   |
+| **Aim**                          | 1 AP   |
+| **Aid**                          | 2 AP   |
+### Attributes
+in One pager version we have 4 main and 8 sub attributes.
+**ATTRIBUTES**
+
+- **Power**: Strength (melee damage), Toughness (HP multiplier)
+- **Control**: Agility (defense), Dexterity (accuracy)
+- **Intelligence**: Charisma (social), Wit (mana)
+- **Focus**: Perception (initiative), Will (Limit)
+
