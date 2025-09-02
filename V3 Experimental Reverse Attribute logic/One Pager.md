@@ -30,3 +30,6 @@ in One pager version we have 4 main and 8 sub attributes. GM may request one or 
 - **Intelligence**: Charisma (CH), Wit (WT)
 - **Focus**: Perception (PR), Will (WL)
 
+Basic Attribute-based actions
+Melee Attack - CN to hit
+Ranged attack - FC or CN 
