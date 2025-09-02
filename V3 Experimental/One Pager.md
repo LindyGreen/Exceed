@@ -5,6 +5,9 @@
 - **Uncontested**: Roll vs difficulty (Easy 10, Moderate 15, Hard 20)
 - **Critical**: On doubles. Success -> Critical Success, failure -> Critical Failure 
 
-Action Economy
+## Action points AP
+
+**Base AP:** 5  
+**Bonus AP:** `floor(max(CN, FC) ÷ 2)`
 
 
