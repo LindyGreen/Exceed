@@ -31,5 +31,6 @@ in One pager version we have 4 main and 8 sub attributes. GM may request one or 
 - **Focus**: Perception (PR), Will (WL)
 
 Basic Attribute-based actions
-Melee Attack - CN to hit
-Ranged attack - FC or CN 
+Melee Attack - CN 
+Ranged attack - FC
+Dodge -  CN 
