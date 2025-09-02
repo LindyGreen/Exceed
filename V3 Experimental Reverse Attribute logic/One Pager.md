@@ -1,3 +1,4 @@
+
 # Core resolution
 - **Base**: Roll 2d10 + Attribute + Bonuses
 - **Advantage/Disadvantage**: Roll 3d10, chose 2/ take the lowest 2
@@ -21,11 +22,11 @@ Group checks - one person rolls, others assist. A
 | **Aim**                          | 1 AP   |
 | **Aid**                          | 2 AP   |
 ### Attributes
-in One pager version we have 4 main and 8 sub attributes.
+in One pager version we have 4 main and 8 sub attributes. GM may request one or multiple options for the check. 
 **ATTRIBUTES**
 
-- **Power**: Strength (melee damage), Toughness (HP multiplier)
-- **Control**: Agility (defense), Dexterity (accuracy)
-- **Intelligence**: Charisma (social), Wit (mana)
-- **Focus**: Perception (initiative), Will (Limit)
+- **Power**: Strength (ST), Toughness (TH)
+- **Control**: Agility (AG), Dexterity (DX)
+- **Intelligence**: Charisma (CH), Wit (WT)
+- **Focus**: Perception (PR), Will (WL)
 
