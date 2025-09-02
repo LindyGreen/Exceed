@@ -1,9 +1,8 @@
-# Core resolution system
-### Base roll
-Roll 2d10+Attribute+Bonuses 
-Advantage/Disadvantage - roll 3d10 instead of 2d10, and select 2 highest/lowest.
-
-### Contested and uncontested checks
-Both sides roll, initiator's (attacker's) roll - responder's roll >=0, success, results<0 - failure.
+# Core resolution
+- **Base**: Roll 2d10 + Attribute + Bonuses
+- **Advantage/Disadvantage**: Roll 3d10, chose 2/ take the lowest 2
+- **Contested**: Initiator roll - Responder roll ≥ 0 = success
+- **Uncontested**: Roll vs difficulty (Easy 10, Moderate 15, Hard 20)
+- **Critical**: On doubles. Success -> Critical Success, failure -> Critical Failure 
 
 
