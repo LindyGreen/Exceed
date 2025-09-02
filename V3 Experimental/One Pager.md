@@ -10,4 +10,11 @@
 **Base AP:** 5  
 **Bonus AP:** `floor(max(CN, FC) ÷ 2)`
 
-
+| Action                           | Cost   |
+| -------------------------------- | ------ |
+| **Move** (up to Speed) or Step   | 1 AP   |
+| **Attack – Light Weapon**        | 2 AP   |
+| **Attack – Standard Weapon**     | 3 AP   |
+| **Reload/Draw Weapon**           | 1 AP   |
+| **Use Ability/Feat**             | Varied |
+| **Sustain Effect** (if required) | 1 AP   |
