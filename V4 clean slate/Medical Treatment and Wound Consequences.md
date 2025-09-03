@@ -1,0 +1,97 @@
+## When to Roll for Consequences
+
+**Stamina HP Depletion:** When your Stamina HP is depleted for the first time during combat, roll 2d10 on the Consequences Table.
+
+**Health HP Depletion:** When your Health HP is depleted, roll 1d100 - (Remaining Wounds × 10) on the Consequences Table, mark 1 wound (reducing max HP until fully healed), and fall unconscious.
+
+**Special Circumstances:**
+- **Non-lethal attacks:** Roll 2d10 instead of 1d100
+- **Critical hit:** Add +10 to the consequence roll
+
+## Treatment Definitions
+
+**Treatment DC:** 10 - Patient's Endurance + (Consequence Number ÷ 10)
+
+**First Aid:** Medical skill check against Treatment DC
+- **Trained:** 4 actions to perform
+- **Untrained:** 3 rounds, cannot be performed during combat
+- *Note: Exiting combat to perform first aid prevents dodging, blocking, and parrying*
+
+**Treat Wounds:** Medical skill check requiring training and appropriate tools
+- **Base time:** 1 minute
+- **Enhanced treatment:** +2 bonus (10 minutes) or +4 bonus (1 hour)
+
+**Surgery:** Requires Medical skill 3+ and appropriate surgical tools
+
+**Unmodified Rest:** Natural healing time that can be shortened by medical care and magic
+
+## Medical Treatment Categories
+
+### Medical Attention Required
+- **Treatment:** First aid, healing spell, or healing potion within 1 hour removes condition
+- **Recovery:** Requires 1d6 hours unmodified rest
+- **Failure consequence:** Roll Endurance (DC 10). On failure, escalate to next severity bracket or GM determines complication
+- **Re-injury penalty:** If wounded again before completing rest, this consequence reopens alongside new consequence
+
+### Medical Intervention Required  
+- **Immediate care:** First aid prevents complications and temporarily stops persistent effects
+- **Timing:** Each minute after injury increases First Aid DC by +1 (maximum +10)
+- **Full treatment:** Requires Treat Wounds check and 1d6 days unmodified rest
+- **Failure consequence:** Condition becomes permanent or escalates to Medical Emergency
+- **Re-injury penalty:** If wounded again before completing rest, gain 2 Medical Attention consequences OR lose 1 relevant attribute point (GM choice)
+
+### Medical Emergency
+- **Immediate care:** First aid or low-tier magic extends survival to 10 minutes but doesn't restore HP
+- **Stabilization:** Requires Treat Wounds or mid-tier healing magic within timeframe
+- **Timing penalty:** +1 DC per minute after injury
+- **Full treatment:** Surgery or high-tier magical healing plus 1d6 weeks unmodified rest.
+- **Re-injury penalty:** If wounded again before completing rest, lose 1 point from all Mental OR all Physical attributes (GM choice based on injury type)
+
+## Consequences Table (1d100)
+
+### Roll 1-30: Minor Consequences (No Medical Treatment Required)
+- **1-5:** Stunned 2 - Lose 2 actions next turn
+- **6-10:** Staggered - -1 to all rolls until end of next turn
+- **11-15:** Dazzled - Everything concealed until end of turn
+- **16-20:** Sprained ankle - Half speed for 1 hour or until healed
+- **21-25:** Broken nose - -2 penalty to social actions until healed  
+- **26-30:** Light concussion - -1 to mental actions until rested or healed
+
+### Roll 31-50: Moderate Consequences (Medical Attention Required)
+- **31-35:** Persistent Bleeding 1 - 1 damage per turn until treated
+- **36-40:** Bruised ribs - -1 to physical actions until rested or healed
+- **41-45:** Persistent Bleeding 2 - 2 damage per turn until treated
+- **46-50:** Cracked ribs - -2 to physical actions until healed
+
+### Roll 51-80: Serious Consequences (Medical Intervention Required)
+- **51-55:** Broken Arm - One arm non-functional until treated
+- **56-60:** Broken Leg - Movement reduced to 1 square per turn, -3 to dodge
+- **61-65:** Severe Bleeding - 3 damage per turn until treated
+- **66-70:** Moderate concussion - -2 to mental actions, requires proper treatment
+- **71-75:** Internal bruising - -2 to physical actions, risk of complications
+- **76-80:** Fractured ribs - -3 to physical actions, breathing difficulties
+
+### Roll 81-99: Critical Consequences (Medical Emergency)
+- **81-85:** Lost limb - You lose an arm or leg. Surgeon can attempt reattachment within an hour.
+- **86-90:** Head trauma - Doesn't regain conciousness, requires surgery or high-tier magic
+- **91-95:** Organ damage - Max wounds reduced by 1,
+- **96-99:** Damaged senses - Partial/complete loss of sight, hearing, or smell
+
+### Roll 100: Death
+Character dies and cannot be resuscitated by mundane means and most magical healing.
+
+## GM Notes
+
+**Adjusting Results:**
+- Players can reroll results using any available reroll abilities
+- Consider character's armor, magical protections, and circumstances when applying consequences
+
+**Treatment and Recovery:**
+- **Emergency Treatment:** Treatment difficulty increases by +1 DC for every 10 minutes after the first minute of injury
+- Some consequences are permanent and add to character story
+- Most can be removed with skilled healing and monetary investment
+
+**Remaining Wounds Modifier Examples:**
+- **2 Remaining Wounds:** Roll d100-20 (maximum result 80)
+- **5 Remaining Wounds:** Roll d100-50 (maximum result 50)
+- This prevents worst outcomes for tough characters while maintaining tension

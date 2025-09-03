@@ -1,0 +1,103 @@
+## Weapons
+### Weapon traits
+Light - Require 2 AP for basic strike.
+Finesse - Can use either agility or dexterity as the skill modifier.
+Heavy - Requires 4 AP per basic stike. Can use Might as attacking modifier (parry still uses Agility)
+**Aim Increment X**: Using the Aim action extends your effective range to X squares, negating range penalties for that attack. You can use multiple Aim actions to extend range further, with each Aim action adding X squares to your effective range up to 3 times.
+**Concealed**: Weapon provides a +2 bonus to checks to hide it on your person, and is undetectable without inspection.
+**Conduit**: This weapon is or is embedded with magical conduit allowing channeling of spells. Hand that holds this weapon is considered free for casting spells.
+**Double**: This weapon counts as 1 weapon, but had 2 damage entries with different damage types. 
+**Long Reach**: This weapon can target enemies 2-3 squares away. If the weapon also has Reach, you must spend an action to switch grips to change between reach distances.
+**Nonlethal**: This weapon deals nonlethal damage.
+**Quick Drawn**: You can draw this weapon as part of making an attack with it. 
+**Reach**: This weapon can target enemies 1-2 squares away. 
+**Range X**: This weapon can attack targets up to X squares away without penalties. Beyond this range, attacks suffer -3 penalty per range increment.
+**Two-Handed**: This weapon requires both hands to wield effectively. 
+**Versatile**: When wielding this weapon two-handed with your off-hand empty, increase damage by +1.
+**Large**: you cannot attack inside your square and while engulfed or grabbed. 
+**Sweeping**: Each consecutive strike within multi-target abilities provides +1 damage
+
+
+### Weapons list
+#### Melee weapons
+Reading the weapons entry - Name, Damage die as per combat rules (skill increasing n of damage dice, magic changing the weapon in other ways), Traits - a bit outdated, but should work. Power requirnment leads to -1 to hit per point of deficit. Critical - extra effect on crits.
+
+| Weapon             | DMG  | Power Req | Traits                                               | Critical               |
+| ------------------ | ---- | --------- | ---------------------------------------------------- | ---------------------- |
+| Dagger             | d4   | 0         | Quick Drawn, Range 3, Light                          | Bleed2                 |
+| Arming Sword       | d6   | 0         | Light,                                               | Disoriented 1          |
+| Mace               | d8   | 2         |                                                      | Stunned                |
+| Javelin/shortspear | d6   | 0         | Range 4, Quick Drawn                                 | Pinned 1,              |
+| Longspear          | d6   | 0         | Versatile, counts as both One Handed and Staff&Spear | Impaling 1/2 Versatile |
+| Longsword          | d8   | 1         | Heavy, Versatile                                     | Bleed 1/2 Versatile    |
+| Rapier             | d8   | 1         | Conduit                                              | Dazzled 2              |
+| Danish Axe         | d12  | 3         | Heavy, Large, TwoHanded, Sweeping                    |                        |
+| UberZweihander     | d12+1| 4         | Twohanded, Reach, Large, Heavy                       |                        |
+| Maul               | d10  | 2         | Nonlethal, Large, Heavy                              | Knockback 1            |
+| Greatsword         | d10  | 2         | Reach, Light                                         | Dazzled 1              |
+| War Staff          | d8   | 1         | Nonlethal, Conduit                                   | Fragile 1              |
+| Quarterstaff       | d6   | 0         | Reach, Nonlethal, Conduit                            | Prone(has a save)      |
+| Pike               | d6   | 2         | Long Reach, Large                                    | Impaling 2             |
+| SwordStaff         | d8   | 1         | Reach, Nonlethal, Double(3DMG bludgeoning)           |                        |
+Heavy and Two handed weapons will have heavier and lighter variants. But weapon building and special materials won't be a thing during the playtest stage 3. 
+#### Ranged weapons
+**Note**: Bow damage varies based on Power requirements. An unfit bow (one in which you lack power) will have a minus to hit equal to Power-Power.req, 
+a fit or lower power req. bow one will do extra damage equal to it's Power requirement. 
+
+Range Increment - For weapons without the Aim trait (such as thrown weapons), range increments are equal to the weapon's Range value. For weapons with Aim X trait Range Increment = X.
+
+| Weapon   | DMG         | Power Req | Traits                  | Crit  |
+| -------- | ----------- | --------- | ----------------------- | ----- |
+| Shortbow | 4+Power Req | -1 to 5   | Aim 10, Range 5,        | Pin 1 |
+| Longbow  | 5+Power Req | 0 to 5    | Aim 20, Large, Range 2, | Pin 2 |
+
+## Armor
+
+| **Armor Type** | **Armor Penalty** | **Power Req** | **Armor Bonus** |
+| -------------- | ----------------- | ------------- | --------------- |
+| **Scout**      | 0                 | 0             | +1              |
+| **Tactical**   | -1                | 1             | +2              |
+| **Defensive**  | -2                | 1             | +3              |
+| **Protective** | -3(-1)            | 2             | +4              |
+| **Bulwark**    | -4(-1)            | 3             | +5              |
+| **Titanic**    | -5(-2)            | 4             | +6              |
+| **Collossal**  | -6(-2)            | 5             | +7              |
+
+Reading the Entry
+- Armor Penalty X(Y)- X - The penalty character gets for not fulfilling the Power Req, Y - The Penalty character gets while fulfilling the penalty. It consists of; Penalty to Speed - Squares per action, and penalty to dodge. 
+## Shields
+
+| **Shield Name** |**ArmorPenalty** | **Power Req** | **Defense Bonus**| **Negation**|
+| --------------- | --------------- | ------------- | ---------------- | ------------|
+| Buckler         | -               | 0             | 1                | 2           |
+| Shield          | -               | 0             | 1                | 3           |
+| Kite Shield     | 1               | 1             | 2                | 4           |
+| Tower Shield    | 2               | 2             | 3                | 5           |
+| Fortress Shield | 3(-1)           | 3             | 4                | 6           |
+Reading the entry - Armor penalty doesn't stack with Armor's Armor penalty. Negation entry is for abilities that prevent the damage. Defense bonus applies to all mundane defences. Magical shields apply to spells as well. 
+- Different shield types use different stats for blocking.
+Buckler uses Agility, Shield and Kite Shield use Endurance and Tower and Fortres Shields use Might.
+
+## Magical Items
+--tbd irrelevent for the purpuse of playtest stage 3.
+
+
+### Accessories
+[Rings, amulets, etc. with magical effects]
+
+
+### Consumables
+[Potions, scrolls, single-use items]
+Tier 0-5 Spells can be put into forms of potions and scrolls. Scrolls require a Spellcraft perk or Arcane Theology skills to use, potions don't. That's why on the upcoming table of bottled and inked spells bottled are twice the price.
+These are irrelevent for the stage of playtest 3.
+
+## Mundane Equipment
+Irrelevant for the purpuses of the playtest stage 3.
+### Tools
+[Professional tools, survival gear]
+
+### Supplies
+[Rations, rope, basic adventuring gear]
+
+### Trade Goods
+[Valuable items for commerce]
