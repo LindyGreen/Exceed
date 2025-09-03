@@ -96,7 +96,7 @@
 ### Playtesting Notes
 [Record feedback and observations from testing]
 
-# Design Decisions & Logic
+# Design Decisions & Logic - this section will populate sections above in rulebook workdings when core design will be completed, and playtested. 
 
 ### Unique Selling Proposition (USP)
 
