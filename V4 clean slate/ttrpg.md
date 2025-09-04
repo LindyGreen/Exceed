@@ -22,28 +22,15 @@
 #### [[Skills]]
 ### Gameplay
 
-#### [[Conflict Resolution]]
-[How challenges, combat, or other conflicts are resolved]
+#### [[Combat Conflict Resolution]]
 
 ## Setting
 
-### World/Universe
-[The game world, its history, geography, cultures]
-
-### Important Locations
-[Key places in your setting]
-
-### NPCs & Factions
-[Important non-player characters and organizations]
-
+TBD to include or not.
 ## Game Master Section
 
 ### Running the Game
 [Guidance for GMs]
-
-### Adventure Hooks
-[Story seeds and plot ideas]
-
 ### Enemies/Challenges
 [Antagonists, obstacles, stat blocks]
 
