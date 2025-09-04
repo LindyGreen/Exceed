@@ -24,6 +24,8 @@
 - **Ambush Sites:** Favorable ambush locations can provide bonuses to the ambush initiative roll.
 
 ## Attacking and Defending
+
+
 ### Defensive Options
 There are 3 main defensive options in the game.
 
