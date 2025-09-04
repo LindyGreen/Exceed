@@ -12,7 +12,7 @@ Universal feats are not attached to any one domain, and range from background an
 ### Shield Feats
 #### **Shield Proficiency** [3]
 
-You learn to effectively wield shields in combat. Shields add their bonus to your Defense Class calculation: **DC = [highest of Focus/Shield Bonus/Weapon Skill] + Control**. You gain access to the [[Shield Block]] reaction, and access to other Shield Feats.
+You learn to effectively wield shields in combat. Shields add their bonus to your Defense Class calculation: **DC = [highest of Focus/Shield Bonus/Weapon Skill] + Control**. You gain access to the [[old_Shield Block]] reaction, and access to other Shield Feats.
 
 **Shield Mastery** [5] (Passive): You know how to keep your shield always raised. You gain +1 to DC. Squares around you are considered difficult terrain for your enemies.
 
