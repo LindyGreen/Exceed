@@ -31,7 +31,7 @@ There are 3 main defensive options in the game.
 
 Parry - MartialDomain + Agility/Dexterity (based on weapon type)
 Dodge - Agility+Perception 
-Block - ShieldDomain+Agility/Endurance (based on shield type)
+Block - ShieldDomain+Agility/Endurance/Might (based on shield type)
 Shields provide Defensive bonus that adds to all three abilities if raised.
 Magic can provide other defensive options, according to the spells used.
 ### Offensive Options
