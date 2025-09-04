@@ -59,7 +59,7 @@ Unblockable - can't be blocked without a perk or gear
 
 ### Rolling for Damage 
 When the attack hits roll for damage. 
-Damage = WeaponDice+Attribute+Bonuses
+Damage = WeaponDice+Might+Bonuses
 Weapon skill determines the number of damage dice.
   - Skill 1-2: 1 dice
   - Skill 3-4: 2 dice
