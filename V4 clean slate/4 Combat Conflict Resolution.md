@@ -71,6 +71,6 @@ Light weapons generally have 1d4-1d6 WeaponDice, Normal - d6-d8, Heavy D8-D12.
 
 ## Actions in Combat
 ### Basic Strike
-Each weapon takes 2-4 (maybe 1-3) action points to attack normaly, stepping 1 square forward as a part of the action. Light weapons - 2 action points, Normal (without a light or heavy trait) take 3 actions and heavy take 4 actions.
+Each weapon takes 2-4 AP to attack normally, stepping 1 square forward as a part of the action. Light weapons - 2 action points, Normal (without a light or heavy trait) take 3 actions and heavy take 4 actions.
 The action cost can be modified, combined or compressed with appropriate combat perks.
 
