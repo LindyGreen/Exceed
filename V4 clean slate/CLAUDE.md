@@ -4,25 +4,33 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This repository contains a collaborative TTRPG (Tabletop Role-Playing Game) project called "Exceed". All core gameplay content is maintained in a single markdown file for easy collaborative editing. 
-Systems such as magic, 
+This repository contains a TTRPG (Tabletop Role-Playing Game) project called "Exceed" maintained as an Obsidian vault. The game content is organized across multiple specialized markdown files for better maintainability and collaborative editing. 
+
 ## File Structure
 
-- `ttrpg.md` - The main game document containing all rules, setting, and content
+- `ttrpg.md` - The main game document containing core rules, setting, and general content
+- `MagicSystem.md` - Magic system rules and mechanics
+- `Equipment.md` - Equipment lists, weapons, armor, and gear
+- `WoundConsequencesTable.md` - Medical treatment and wound consequences system
 - `CLAUDE.md` - This guidance file
 
 ## Working with the TTRPG
 
-The game is designed to be developed collaboratively in the the .md files. When making changes:
+The game is designed to be developed collaboratively across the specialized markdown files in this Obsidian vault. When making changes:
 
-- Core game content should go in `ttrpg.md`
-- 
-- Use markdown headers to organize sections
+- Core game rules and setting go in `ttrpg.md` those are to be split into separate files when completed.
+- Magic-related content goes in `MagicSystem.md`
+- Equipment, weapons, and gear go in `Equipment.md`  
+- Medical and wound systems go in `WoundConsequencesTable.md`
+- Use markdown headers to organize sections within each file
 - Keep the structure clean and navigable
 - Update version numbers and dates when making significant changes
 
 ## Common Tasks
 
-- Edit game rules and content in `ttrpg.md`
+- Proofread user text  
+- Clean up repetitions and improve readability
+- Provide user non-biased, non-yes-man feedback
 - Maintain organized section structure using markdown headers
-- Track development progress in the Designer Notes section
+- Track development progress in the Designer Notes sections of relevant files
+- Track todo-s in todo.md file
