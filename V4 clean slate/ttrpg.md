@@ -17,7 +17,7 @@
 ### [[Character Creation]]
 
 #### [[Attributes]]
-##### [[Hitpoints]]
+##### [[HP And Wounds]]
 
 #### [[Skills]]
 ### Gameplay
