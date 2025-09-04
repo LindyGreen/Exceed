@@ -13,18 +13,12 @@
 ## Core Rules
 
 ### [[Basic Mechanics]]
-[Core dice mechanics, resolution system, basic gameplay loop]
 
 ### [[Character Creation]]
 
+#### [[Attributes]]
 
-
-#### Attributes
-[Core character stats/attributes]
-
-#### Skills/Abilities
-[Character skills, powers, or special abilities]
-
+#### [[Skills]]
 ### Gameplay
 
 #### Turn Structure
