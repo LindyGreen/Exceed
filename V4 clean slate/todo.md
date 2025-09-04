@@ -8,7 +8,7 @@
 - [x] **3.2 HP And Wounds** - Fix inconsistent armor calculation examples
 - [ ] 4. Equipment - write a trait system 
 - [ ] **5. Equipment** - Complete weapon traits descriptions and fix formatting
-- [ ] **6. Magic System** - Fix incomplete spell descriptions (Phantom Tools, Light Backpack)
+- [x] **6. Magic System** - Fix incomplete spell descriptions (Phantom Tools, Light Backpack)
 - [ ] 7. Spells - clean up action cost, create a better spell template, make a proper spell list with spells leading to spell pages,
 
 ## Content Organization Tasks
