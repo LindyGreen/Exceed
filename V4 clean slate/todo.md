@@ -39,9 +39,9 @@
 - [ ] Missing critical effect descriptions for some weapons
 
 ### 6. Magic System.md
-- [ ] Spell #16 Phantom Tools - incomplete description
-- [ ] Spell #23 Light Backpack - incomplete effect description
-- [ ] Some spell duration/limit entries unclear
+- [x] Spell #16 Phantom Tools - incomplete description
+- [x] Spell #23 Light Backpack - incomplete effect description
+- [x] Some spell duration/limit entries unclear
 
 ## Completed Tasks
 
