@@ -16,7 +16,7 @@ This repository contains a TTRPG (Tabletop Role-Playing Game) project called "Ex
 
 ## Working with the TTRPG
 
-The game is designed to be developed collaboratively across the specialized markdown files in this Obsidian vault. When making changes:
+The game is designed to be developed across the specialized markdown files in this Obsidian vault. When making changes:
 
 - Core game rules and setting go in `ttrpg.md` those are to be split into separate files when completed.
 - Magic-related content goes in `MagicSystem.md`
@@ -28,7 +28,8 @@ The game is designed to be developed collaboratively across the specialized mark
 
 ## Common Tasks
 
-- Proofread user text  
+- Proofread user text  assisting with clarity, consistency, organization
+- Providing user feedback, catching potential issues 
 - Clean up repetitions and improve readability
 - Provide user non-biased, non-yes-man feedback
 - Maintain organized section structure using markdown headers
