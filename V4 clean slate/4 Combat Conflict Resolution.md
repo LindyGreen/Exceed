@@ -56,11 +56,11 @@ Unblockable - can't be blocked without a perk or gear
 ### Rolling for Damage 
 When the attack hits roll for damage. 
 Damage = WeaponDice+Might+Bonuses
-Weapon skill determines the number of damage dice.
+Weapon Skill level determines the number of damage dice.
   - Skill 1-2: 1 dice
   - Skill 3-4: 2 dice
   - Skill 5+: 3 dice
-Magic weapons can have an attribute and limit requirnment. They will provide the basic bonus to attacks, but won't provide other benefits like an increased die size, extra damage type, magical effects etc.
+Magic weapons can have an attribute and limit requirement. They will provide the basic bonus to attacks, but won't provide other benefits like an increased die size, extra damage type, magical effects etc.
 Light weapons generally have 1d4-1d6 WeaponDice, Normal - d6-d8, Heavy D8-D12.
 
   
