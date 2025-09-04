@@ -4,8 +4,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This repository contains a collaborative TTRPG (Tabletop Role-Playing Game) project called "Exceed". All game content is maintained in a single markdown file for easy collaborative editing.
-
+This repository contains a collaborative TTRPG (Tabletop Role-Playing Game) project called "Exceed". All core gameplay content is maintained in a single markdown file for easy collaborative editing. 
+Systems such as magic, 
 ## File Structure
 
 - `ttrpg.md` - The main game document containing all rules, setting, and content
@@ -13,9 +13,10 @@ This repository contains a collaborative TTRPG (Tabletop Role-Playing Game) proj
 
 ## Working with the TTRPG
 
-The game is designed to be developed collaboratively in the single `ttrpg.md` file. When making changes:
+The game is designed to be developed collaboratively in the the .md files. When making changes:
 
-- All game content should go in `ttrpg.md`
+- Core game content should go in `ttrpg.md`
+- 
 - Use markdown headers to organize sections
 - Keep the structure clean and navigable
 - Update version numbers and dates when making significant changes
