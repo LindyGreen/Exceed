@@ -11,7 +11,7 @@
 
 ### Determining Initiative
 
-- **Standard Encounters:** Initiative = 2d10 + Perception attribute. This reflects awareness, reaction time, and mental preparedness when combat begins unexpectedly.
+- **Standard Encounters:** Initiative = 2d10 + Perception. This reflects awareness, reaction time, and mental preparedness when combat begins unexpectedly. 
 - **Ambushes or Prepared Battles:** When initiating an ambush, you can roll relevant skills.
 - **Ties:** Players go first in case of ties, for others - up to GM.
 - **Modifiers:** Spells, abilities, and circumstances can provide bonuses to initiative rolls.
