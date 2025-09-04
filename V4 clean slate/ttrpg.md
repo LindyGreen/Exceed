@@ -2,7 +2,7 @@
 
 ## Game Overview
 
-*A tabletop role-playing game*
+*A tabletop role-playing game* Top areas of the file will be populated after systems will be locked.
 
 ### Core Concept
 [Describe the central theme, setting, or unique mechanics of your game]
@@ -22,8 +22,8 @@
 **Step 2:** GM awards starting Character Points (CP) in two categories:
 
 **CP Categories:**
-- **Combat XP:** HP (Tough perk), combat skills, combat-related perks
-- **Social XP:** Social, knowledge, crafting, wilderness skills, and related perks
+- **Combat CP:** HP (Tough perk), combat skills, combat-related perks
+- **Social CP:** Social, knowledge, crafting, wilderness skills, and related perks
 
 **Step 3:** Spend CP on skills and perks. Each purchase shows (Attribute1) or (Attribute1/Attribute2) indicating which attributes benefit. CP spent creates attribute points that you allocate between the listed attributes. When attributes reach tier thresholds (10/30/60/100/150), you gain +1 to that attribute.
 
@@ -96,7 +96,7 @@
 ### Playtesting Notes
 [Record feedback and observations from testing]
 
-# Design Decisions & Logic - this section will populate sections above in rulebook workdings when core design will be completed, and playtested. 
+# Design Decisions & Logic
 
 ### Unique Selling Proposition (USP)
 
@@ -289,7 +289,7 @@ On health HP deplition roll on [Major conditions table] accoring to the table ru
 
 **Action Restrictions:**
 - Mental Actions can only be used for mental tasks: spells, social interactions, knowledge checks, perception, concentration
-- Physical Actions can only be used for physical tasks: movement, attacks, athletics, manual tasks
+<!-- - Physical Actions can only be used for physical tasks: movement, attacks, athletics, manual tasks -->
 - Base 5 actions can be used for either type
 
 **Design Benefits:**

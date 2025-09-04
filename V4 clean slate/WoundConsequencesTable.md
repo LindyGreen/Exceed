@@ -1,3 +1,5 @@
+# Medical Treatment and Wound Consequences
+
 ## When to Roll for Consequences
 
 **Stamina HP Depletion:** When your Stamina HP is depleted for the first time during combat, roll 2d10 on the Consequences Table.

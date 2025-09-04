@@ -1,3 +1,5 @@
+# Magic System
+
 ## Core Principles
 
 Magic in Exceed is separated into passive and active effets. 

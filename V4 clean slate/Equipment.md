@@ -1,3 +1,5 @@
+# Equipment
+
 ## Weapons
 ### Weapon traits
 Light - Require 2 AP for basic strike.
