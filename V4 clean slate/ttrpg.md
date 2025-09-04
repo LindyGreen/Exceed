@@ -118,7 +118,7 @@ This system eliminates bookkeeping nightmares while maintaining strategic depth 
 
 **Action Restrictions:**
 - Mental Actions can only be used for mental tasks: spells, social interactions, knowledge checks, perception, concentration
-<!-- - Physical Actions can only be used for physical tasks: movement, attacks, athletics, manual tasks -->
+- Physical Actions can only be used for physical tasks: movement, attacks, athletics, manual tasks
 - Base 5 actions can be used for either type
 
 **Design Benefits:**
