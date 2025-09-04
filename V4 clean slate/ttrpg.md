@@ -18,7 +18,7 @@
 
 #### [[Attributes]]
 ##### [[HP And Wounds]]
-
+#####[[WoundConsequencesTable]]
 #### [[Skills]]
 ### Gameplay
 
