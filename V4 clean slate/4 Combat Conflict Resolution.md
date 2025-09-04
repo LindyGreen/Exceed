@@ -36,14 +36,16 @@
 ## Attacking and Defending
 ### Defensive Options
 There are 3 main defensive options in the game.
-Parry - WeaponsSkill + Agility/Dexterity (based on weapon type)
+Parry - MartialDomain + Agility/Dexterity (based on weapon type)
 Dodge - Agility+Perception 
-Block - ShieldSkill+Agility/Endurance (based on shield type)
+Block - ShieldDomain+Agility/Endurance (based on shield type)
 Shields provide Defensive bonus that adds to all three abilities if raised.
 Magic can provide other defensive options, according to the spells used.
 ### Offensive Options
-All melee weapons use Agility as the main stat for offensive maneuvers.
+All melee weapons can use Agility as the main stat for offensive maneuvers.
+
 Heavy - Allowing using might (generally heavy, blunt weapons)
+
 Finesse - Allowing using Dexterity (generally piercing/slashing weapons).
 
 Ranged weapons use Dexterity or Perception based on weapon type.
