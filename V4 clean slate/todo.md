@@ -2,9 +2,9 @@
 
 ## Current High Priority Issues
 
-- [ ] **1. General.md** - Complete core concept section (line 8-9 incomplete)
-- [ ] **1. General.md** - Fill in Target Audience section (placeholder text)
-- [ ] **2.1 Combat** - Clarify action point costs for basic strikes (2-4 or 1-3?)
+- [x] **1. General.md** - Complete core concept section (line 8-9 incomplete)
+- [x] **1. General.md** - Fill in Target Audience section (placeholder text)
+- [x] **2.1 Combat** - Clarify action point costs for basic strikes (2-4 or 1-3?)
 - [ ] **3.2 HP And Wounds** - Fix inconsistent armor calculation examples
 - [ ] **5. Equipment** - Complete weapon traits descriptions and fix formatting
 - [ ] **6. Magic System** - Fix incomplete spell descriptions (Phantom Tools, Light Backpack)

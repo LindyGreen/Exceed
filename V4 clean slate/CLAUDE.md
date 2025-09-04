@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This repository contains a TTRPG (Tabletop Role-Playing Game) project called "Exceed" maintained as an Obsidian vault. The game content is organized across multiple specialized markdown files for better maintainability and collaborative editing. 
+This repository contains a TTRPG (Tabletop Role-Playing Game) project called "Exceed" maintained as an Obsidian vault. The game content is organized across multiple specialized markdown files for better maintainability and editing. 
 
 ## File Structure
 
