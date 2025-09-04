@@ -1,30 +1,20 @@
 ## Combat Resolution
 ## Action Economy
 
-**Base Actions:** 5 actions per turn for all characters
+**Base Action Points:** 5 AP per turn for all characters
 
 **Specialization Bonuses:**
-- **Mental Actions:** Every 5 total points in Mental attributes (Perception + Will + Charisma + Wit) grants +1 Mental Action
-- **Physical Actions:** Every 5 total points in Physical attributes (Might + Endurance + Agility + Dexterity) grants +1 Physical Action
-
-**Action Restrictions:**
-- Mental Actions can only be used for mental tasks: spells, social interactions, knowledge checks, perception, concentration
-- Physical Actions can only be used for physical tasks: movement, attacks, athletics, manual tasks
-- Base 5 actions can be used for either type
-
-**Design Benefits:**
-- Specialists get more actions in their domain of expertise
-- Generalists maintain flexibility with unrestricted base actions
-- Prevents "agility dominance" by spreading bonuses across multiple attributes
-- Creates meaningful choice between specialization and versatility
-
+- **Mental AP:** Every 5 total points in Mental attributes (Perception + Will + Charisma + Wit) grants +1 Mental AP
+- **Physical AP:** Every 5 total points in Physical attributes (Might + Endurance + Agility + Dexterity) grants +1 Physical AP
+- Mental AP can only be used for mental actions: spells, social interactions, knowledge checks, perception, concentration
+- Physical AP can only be used for physical actions: movement, attacks, athletics, manual tasks
 
 ### Determining Initiative
 
 - **Standard Encounters:** Initiative = 2d10 + Perception attribute. This reflects awareness, reaction time, and mental preparedness when combat begins unexpectedly.
-- **Ambushes or Prepared Battles:** When initiating an ambush, relevant skills can provide modifiers to the initiative roll.
-- **Ties:** Players go first in case of ties.
-- **Modifiers:** Spells, abilities, and circumstances provide bonuses to initiative rolls.
+- **Ambushes or Prepared Battles:** When initiating an ambush, you can roll relevant skills.
+- **Ties:** Players go first in case of ties, for others - up to GM.
+- **Modifiers:** Spells, abilities, and circumstances can provide bonuses to initiative rolls.
 - **Delaying:** Done before the beginning of your turn to a predetermined point, only once per round. All beginning/end of turn effects are delayed with your action.
 
 ### Surprise Rounds
@@ -36,6 +26,7 @@
 ## Attacking and Defending
 ### Defensive Options
 There are 3 main defensive options in the game.
+
 Parry - MartialDomain + Agility/Dexterity (based on weapon type)
 Dodge - Agility+Perception 
 Block - ShieldDomain+Agility/Endurance (based on shield type)
@@ -57,6 +48,7 @@ Offensive abilities can be normal - allowing all 3 defenses  have traits of:
 AOE - can't parry without a perk or gear
 Ranged - can't parry without a perk or gear
 Unblockable - can't be blocked without a perk or gear
+
 
 
 ### Rolling for Damage 
