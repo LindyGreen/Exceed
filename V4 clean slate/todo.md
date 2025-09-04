@@ -5,9 +5,11 @@
 - [x] **1. General.md** - Complete core concept section (line 8-9 incomplete)
 - [x] **1. General.md** - Fill in Target Audience section (placeholder text)
 - [x] **2.1 Combat** - Clarify action point costs for basic strikes (2-4 or 1-3?)
-- [ ] **3.2 HP And Wounds** - Fix inconsistent armor calculation examples
+- [x] **3.2 HP And Wounds** - Fix inconsistent armor calculation examples
+- [ ] 4. Equipment - write a trait system 
 - [ ] **5. Equipment** - Complete weapon traits descriptions and fix formatting
 - [ ] **6. Magic System** - Fix incomplete spell descriptions (Phantom Tools, Light Backpack)
+- [ ] 7. Spells - clean up action cost, create a better spell template, make a proper spell list with spells leading to spell pages,
 
 ## Content Organization Tasks
 
@@ -19,17 +21,17 @@
 ## Specific Issues Found
 
 ### 1. General.md
-- [ ] Line 8-9: "Systems such as magic," - incomplete sentence
-- [ ] Core Concept section needs completion
-- [ ] Target Audience section has placeholder text
+- [x] Line 8-9: "Systems such as magic," - incomplete sentence
+- [x] Core Concept section needs completion
+- [x] Target Audience section has placeholder text
 
 ### 2.1 Combat Conflict Resolution.md
-- [ ] Line 74: Conflicting action costs "2-4 (maybe 1-3)" needs resolution
+- [x] Line 74: Conflicting action costs "2-4 (maybe 1-3)" needs resolution
 - [ ] Weapon damage scaling with skill levels needs clarification
 
 ### 3.2 HP And Wounds.md
-- [ ] Armor bonus calculation inconsistencies in examples
-- [ ] CP cost progression examples don't match formula
+- [x] Armor bonus calculation inconsistencies in examples
+- [x] CP cost progression examples don't match formula
 
 ### 5. Equipment.md
 - [ ] Incomplete weapon trait descriptions
@@ -49,7 +51,7 @@
 
 ## Future Considerations
 
-- [ ] Playtesting feedback integration
+- [ ] Adjust after playtest stage 4
 - [ ] Balance review for action economy
 - [ ] Magic system complexity assessment
 - [ ] Equipment cost/availability guidelines
