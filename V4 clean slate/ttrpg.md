@@ -36,7 +36,7 @@ TBD to include or not.
 
 ## Equipment & Resources
 
-### Gear
+### [[Equipment]]
 [Weapons, armor, tools, etc.]
 
 ### Magic/Technology
