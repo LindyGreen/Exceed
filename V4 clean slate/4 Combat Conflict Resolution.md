@@ -32,7 +32,7 @@ There are 3 main defensive options in the game.
 Parry - MartialDomain + Agility/Dexterity (based on weapon type)
 Dodge - Agility+Perception 
 Block - ShieldDomain+Agility/Endurance/Might (based on shield type)
-Shields provide Defensive bonus that adds to all three abilities if raised.
+Shields provide Defensive bonus that adds to all three abilities.
 Magic can provide other defensive options, according to the spells used.
 ### Offensive Options
 All melee weapons can use Agility as the main stat for offensive maneuvers.
@@ -47,7 +47,7 @@ Certain perks allow to change the Attached attribute.
 
 ### Offensive Abilities
 Offensive abilities can be normal - allowing all 3 defenses  have traits of:
-AOE - can't parry without a perk or gear
+AOE - can't parry or block without a perk or gear
 Ranged - can't parry without a perk or gear
 Unblockable - can't be blocked without a perk or gear
 
