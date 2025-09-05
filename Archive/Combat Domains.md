@@ -1,2 +1,2 @@
-[[2.1 Archery]]
+[[2.6 Archery]]
 [[2.4 Two-handed]]

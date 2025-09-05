@@ -11,7 +11,7 @@ Staves, spears, bo-staves, pikes. Sword-staves
 
 ### 4. Ranged Weapons  
 Bows, Crossbows, slings, chakrams, etc.
-[[2.1 Archery]] and Gunslinger feats.
+[[2.6 Archery]] and Gunslinger feats.
 
 
 Each weapon which is not on the common list will require specialized training.
