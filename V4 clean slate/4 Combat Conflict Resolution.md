@@ -1,7 +1,8 @@
 ## Combat Resolution
 ## Action Economy
 
-**Base Action Points:** 5 AP per turn for all characters
+**Base Action Points:** 5 AP per turn for all characters and one Reaction[R].  Actions and reactions are regained at the start of creatures turn.
+
 
 **Specialization Bonuses:**
 - **Mental AP:** Every 5 total points in Mental attributes (Perception + Will + Charisma + Wit) grants +1 Mental AP
