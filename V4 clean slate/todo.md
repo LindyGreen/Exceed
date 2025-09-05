@@ -18,7 +18,16 @@
 - [ ] Ensure consistent terminology across all files
 - [ ] Verify mathematical formulas are consistent
 
+## Fill-up Perks for martial abilities
+- [x] 1H
+- [x] SH
+- [ ] 
+- [ ] 
+- [ ] [ ] Ensure consistent terminology across all files
+- [ ] Verify mathematical formulas are consistent
+
 ## Specific Issues Found
+
 
 ### 1. General.md
 - [x] Line 8-9: "Systems such as magic," - incomplete sentence
