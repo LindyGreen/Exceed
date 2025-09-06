@@ -1,7 +1,7 @@
 ## Combat Resolution
 ## Action Economy
 
-**Base Action Points:** 5 AP per turn for all characters and one Reaction[R].  Actions and reactions are regained at the start of creatures turn.
+**Base Action Points:** 5 AP per turn for all characters and one Reaction[R]. Using a reaction   Actions and reactions are regained at the start of creatures turn.
 
 
 **Specialization Bonuses:**
