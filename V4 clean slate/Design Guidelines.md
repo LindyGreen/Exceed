@@ -73,6 +73,9 @@ Spell Costs by Tier:
 | Backpack               | 1-3 kg         |
 
 ## Encumbrance Simulation
+**Average human (MG0/EN0, 0 CP invested):**
+- Capacity: 25 kg, No penalty threshold: 12.5 kg
+
 
 **Early Character (MG1/EN1, 20 CP invested):**
 - Capacity: 49 kg, No penalty threshold: 24.5 kg
