@@ -1,7 +1,7 @@
 # Crime in-Law
 
 **Requirements:** Street Wisdom 2, Known in criminal upper echelons  
-**Attribute:** Will  
+**Attribute:** #WL #CH 
 **Cost:** 10 CP  
 
 ## Description

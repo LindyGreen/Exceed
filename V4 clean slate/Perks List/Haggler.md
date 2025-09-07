@@ -1,7 +1,7 @@
 # Haggler
 
-**Requirements:** -  
-**Attribute:** WT/CH
+**Requirements:** #FastTalk 2
+**Attribute:** WT/CH #WT #CH
 **Cost:** 3 CP  
 
 ## Description
