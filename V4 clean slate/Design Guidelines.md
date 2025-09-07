@@ -76,7 +76,6 @@ Spell Costs by Tier:
 **Average human (MG0/EN0, 0 CP invested):**
 - Capacity: 25 kg, No penalty threshold: 12.5 kg
 
-
 **Early Character (MG1/EN1, 20 CP invested):**
 - Capacity: 49 kg, No penalty threshold: 24.5 kg
 
@@ -87,6 +86,7 @@ Spell Costs by Tier:
 - Kite shield: 5 kg + Defensive armor: 8 kg + Average weapon: 2 kg + Secondary weapon: 2 kg + Basic equipment: 5 kg = **22 kg total**
 
 **Results:**
+- Starting character 12kg = no encumbrance penalty
 - Early character: 22 kg = no encumbrance penalty
 - Early-mid character: 22 kg + 12 kg additional gear = 34 kg = light encumbrance
 
