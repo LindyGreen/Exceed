@@ -42,6 +42,9 @@ This repository contains "Exceed," a skill-based fantasy TTRPG maintained as an 
 - **Proficiency**: Attribute + Skill/Domain + Bonuses/Penalties
 - **Criticals**: Doubles on kept dice (winning side only in opposed checks)
 - **Action Points**: 5 base + Mental/Physical specialization bonuses
+- **Dual HP System**: Stamina HP (armor+endurance absorption) and Health HP (core vitality)
+- **Four Defenses**: Parry (Domain+Attribute), Block (Domain+Attribute), Dodge (Agility+Perception), Endure (Endurance+Will)
+- **Endure Saves**: Endurance + Will for mental/physical resistance rolls
 
 ### Unique Systems
 - **Limit System**: Hard cap on persistent magical effects (core USP)
