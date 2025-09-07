@@ -30,7 +30,7 @@ Spell Costs by Tier:
 | Light weapon | 0.5 kg |
 | Average weapon | 2-3 kg |
 | Large weapon | 3-5 kg |    
-2h weapons being heavier then 1h, pikes 
+2h weapons being heavier then 1h on average. 
 ## Armor Weights
 | Armor Type | Weight |     |
 | ---------- | ------ | --- |
