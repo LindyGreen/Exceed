@@ -1,5 +1,5 @@
 **Stunned**: Lose 1 action next turn, cannot use reactions
-**Flanked**: -1 DC per flanking enemy beyond the first if they are not on the same side. (centers of square don't enter your square) 
+**Flanked**: -1 DC per flanking enemy beyond the first if they are not on the same side. (centers of space don't enter your space) 
 **Prone**: [To be defined] -2DC flat.
 **Stacking conditions** - Conditions reduce by 1 after the end of your turn.
 **Bleed** X- At the end of your turn take X damage . 
