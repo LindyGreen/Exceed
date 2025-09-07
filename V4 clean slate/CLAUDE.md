@@ -33,7 +33,7 @@ This repository contains "Exceed," a skill-based fantasy TTRPG maintained as an 
 - **Clarity**: Help improve readability and organization
 - **Consistency**: Catch inconsistencies in terminology and mechanics
 - **Issue Detection**: Identify potential problems or unclear sections
-- **Idea Generation**: Those don't have to be very detailed, user uses them in ideation process, .
+- **Idea Generation**: Those don't have to be very detailed, user uses them during brainstorming.
 
 ## Key Game Concepts
 
