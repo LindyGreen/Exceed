@@ -1,4 +1,4 @@
-**Requirements:** GM, **Tags**: #Instant 
+**Requirements:** #GM, **Tags**: #Instant 
 **Attribute:** #WL  **Cost:** 5 CP  
 ## Description
 Everyone wants to bend reality to their will. Unlike most you can, because **you** are a *mage*. 
