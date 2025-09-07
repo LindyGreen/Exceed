@@ -1,7 +1,7 @@
 # What I Want is None of Your Concern
 
-**Requirements:** -  
-**Attribute:** Will  
+**Requirements:** -  Gossip
+**Attribute:** Charisma
 **Cost:** 10 CP  
 
 ## Description
