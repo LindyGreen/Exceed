@@ -79,3 +79,4 @@ Spell Costs by Tier:
 - Early-mid character: 22 kg + 12 kg additional gear = 34 kg = light encumbrance
 
 Adding daily food/water (1 kg) pushes characters toward light encumbrance during travel.
+
