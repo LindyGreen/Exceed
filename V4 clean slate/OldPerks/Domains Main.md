@@ -1,44 +1,44 @@
 First is the name of the skill, its description, and deep specializations.
 
-1. **[[Archive/Domains/Arcanist]]** (INT)
+1. **[[V4 clean slate/OldPerks/Arcanist]]** (INT)
 
 Knowledge of magical theories, spell components, ritual protocols, and understanding of artifacts. Practical Example - learn a spell, conduct a ritual, unlock a magical lock.
 
-2. **[[Archive/Domains/Loremaster]]** (INT)
+2. **[[V4 clean slate/OldPerks/Loremaster]]** (INT)
 
 Familiarity with world history, which means the history of wars and intrigues as well as legends and civilizations. Practical example - analyze and predict social reaction to an event.
 
-3. **[[Archive/Domains/Theologian]]** (Focus)
+3. **[[V4 clean slate/OldPerks/Theologian]]** (Focus)
 
 Understanding of pantheons, gods, churches, and their structures, as well as sacred traditions and rites. Practical example - giving proper last rites.
 
-4. **[[Archive/Domains/Scientist]]** (INT)
+4. **[[V4 clean slate/OldPerks/Scientist]]** (INT)
 
 Study of biology, alchemy or chemistry, physics, and natural laws. Practical - engineering a pulley system, growing a tree, and making a Bronze Age furnace.
 
-5. **[[Archive/Domains/Underworlder]]** (INT)
+5. **[[V4 clean slate/OldPerks/Underworlder]]** (INT)
 
 Knowledge of things "on the ground". Things are not openly told to everyone. E,g, how and where to find a black market or a fence. How to give a bribe. Etc.
 
-6. **[[Archive/Domains/Explorer]]** (Focus)
+6. **[[V4 clean slate/OldPerks/Explorer]]** (Focus)
 
 Tracking, foraging, hunting, navigating terrain and sea, identifying common animals, beasts, and plants as well as finding safe spots to rest.
 
-7. **[[Archive/Domains/Craftsman]]** (Control)
+7. **[[V4 clean slate/OldPerks/Craftsman]]** (Control)
 
 The ability to maintain, repair, tinker, knit, sew, oil, and craft as well as identify mechanisms.
 
-8. **[[Archive/Domains/Apothecary]]** (Focus)
+8. **[[V4 clean slate/OldPerks/Apothecary]]** (Focus)
 
 Proficiency in first aid, direct potion, poison, and balms application and preparation. Decrease identification and prevention.
 
 Surgery checks might require Ctrl.
 
-9. **[[Archive/Domains/Spy]]** (Control)
+9. **[[V4 clean slate/OldPerks/Spy]]** (Control)
 
 Ability to sneak, hide, disguise, and open locks.
 
-10. **[[Archive/Domains/Influencer]]** (INT)
+10. **[[V4 clean slate/OldPerks/Influencer]]** (INT)
 
 Ability to sway, convince, spread rumors, and act.
 

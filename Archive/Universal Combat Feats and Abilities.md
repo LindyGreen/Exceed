@@ -1,4 +1,4 @@
-Feats are categorized into Domain and non-domain one. Each time getting an increase in a Domain (see [[Domains Main]]) or Combat domain (see #Combat_Domains  you get a feat of up to that level. They can be purchased separately as well as in [[old_Point Cost]].
+Feats are categorized into Domain and non-domain one. Each time getting an increase in a Domain (see [[Archive/Domains/Domains Main]]) or Combat domain (see #Combat_Domains  you get a feat of up to that level. They can be purchased separately as well as in [[old_Point Cost]].
 
 Universal feats are not attached to any one domain, and range from background and status to combat related feats, not attached to a specific weapon style.
 
