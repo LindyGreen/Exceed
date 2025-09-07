@@ -64,10 +64,13 @@ Spell Costs by Tier:
 | Fortress | 15 kg |
 
 ## Other Equipment  
-| Item | Weight |
-|---|---|
+| Item                   | Weight         |
+| ---------------------- | -------------- |
 | Food and water per day | 1 kg (minimum) |
-| Basic equipment/gear | ~5 kg |
+| Basic equipment/gear   | ~5 kg          |
+| Clothes                | 1 kg           |
+| Clothes (warm)         | 2 kg           |
+| Backpack               | 1-3 kg         |
 
 ## Encumbrance Simulation
 
