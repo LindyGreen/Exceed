@@ -30,7 +30,7 @@ Spell Costs by Tier:
 | Light weapon | 0.5 kg |
 | Average weapon | 2-3 kg |
 | Large weapon | 3-5 kg |    
-2h weapons being heavier then 1h on average. 
+2h weapons being heavier then 1h on average. Some weapons remain nimble despite that, so an average weapon ca
 ## Armor Weights
 | Armor Type | Weight |     |
 | ---------- | ------ | --- |
