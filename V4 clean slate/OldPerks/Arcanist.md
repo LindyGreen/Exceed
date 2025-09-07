@@ -9,7 +9,7 @@ Knowledge of magical theories, spell components, ritual protocols, and understan
 
 - Spell identification - (active, MP1) You can identify spells cast as a free action, when it is being cast. Instead of an action after its cast. On success, you gain +1 to defenses if the spell is hostile.
     
-- Arcane sight (passive, **Limit1**)- perceive magic emanations within close range narratively or 5 squares in combat. (range doubles each skill level)
+- Arcane sight (passive, **Limit1**)- perceive magic emanations within close range narratively or 5 meters in combat. (range doubles each skill level)
     
 - Arcane veil (passive, **Limit2**) - you know the techniques to hide yourself and magical emanations coming from your items and spells from scrying. If done by someone with a lower modifier, the check automatically fails. Same or higher level ones make a check against your Arcane+2 skill DC (2+IQ+Arcane).
     
