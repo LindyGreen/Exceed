@@ -1,6 +1,6 @@
 # A Deal Impossible to Refuse
 
-**Requirements:** -  
+**Requirements:** MG2, Intimidation
 **Attribute:** Might  
 **Cost:** 10 CP  
 

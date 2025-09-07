@@ -4,3 +4,6 @@ views:
     filters:
       and:
         - file.inFolder("V4 clean slate/Perks List")
+    order:
+      - file.name
+      - file.tags
