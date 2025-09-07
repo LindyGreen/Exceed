@@ -13,11 +13,20 @@ This repository contains "Exceed," a skill-based fantasy TTRPG maintained as an 
 - `3. Character Creation and Point buy Costs.md` - Character creation rules
 - `3.1 Attributes.md` - Attribute system derived from skills
 - `3.2 HP And Wounds.md` - Health and wound consequences system
+- `3.4 Learning and Training.md` - Variant rules for CP spending and downtime training
 - `4 Combat Conflict Resolution.md` - Combat mechanics and action economy
 - `5. Skills.md` - Skill system and progression
+- `5.1 Skill And Universal Perks.md` - Non-combat skill perks and abilities
 - `6. Magic System.md` - Limit system and spell mechanics
 - `7. Equipment.md` - Weapons, armor, and gear
+- `7.1 Encumbrance.md` - Weight and carrying capacity rules
+- `8. Social Interactions.md` - Social mechanics and systems
+- `8.1 Rank and Status.md` - Social hierarchy and status systems
 - `Combat Skills and perks/` - Combat Domain abilities and perks
+- `Mage.md` - Mage perk for magical awakening
+- `Team Ritual.md` - Magical team formation mechanics
+- `Design Guidelines.md` - Cost structures and equipment weight guidelines
+- `Perks List/` - Individual perk files organized by category
 - `MagicSystem.md` - Legacy magic content (being phased out)
 - `Equipment.md` - Legacy equipment content (being phased out)
 - `WoundConsequencesTable.md` - Medical treatment tables
