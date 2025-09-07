@@ -27,13 +27,20 @@
 
 
 ### Defensive Options
-There are 3 main defensive options in the game.
+There are 4 main defensive options in the game.
 
 Parry - Martial Domain + Agility/Dexterity (based on weapon type)
 Block - Shield Domain+Agility/Endurance/Might (based on shield type)
-Dodge - Agility+Perception - Against attacks and 
+Dodge - Agility+Perception 
 Endure - Endurance+Will 
-Shields provide Defensive bonus to parry dodge and block. 
+#### Usage of defenses.
+Parry - against melee strikes and with perks ranged attacks and physical and energy spells.
+
+Block - Against Melee, Ranged, targeted physical and spells and with perks against AOE spells.
+
+
+
+Shields provide Defensive bonus to parry dodge and block, with perks against Endure rolls. 
 
 Magic can provide other defensive options, according to the spells used.
 
