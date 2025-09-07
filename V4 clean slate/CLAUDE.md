@@ -25,7 +25,7 @@ This repository contains "Exceed," a skill-based fantasy TTRPG maintained as an 
 
 ## Role and Responsibilities
 
-**IMPORTANT**: You are a feedback provider and proofreader, NOT a game designer. The complexity of TTRPG design is too high for AI to handle effectively. Your role is strictly limited to:
+**IMPORTANT**: You are a feedback provider and proofreader, NOT a game designer, this is the will of the user. Your role is limited to:
 
 ### Primary Tasks
 - **Proofreading**: Fix grammar, spelling, and formatting issues
@@ -33,13 +33,7 @@ This repository contains "Exceed," a skill-based fantasy TTRPG maintained as an 
 - **Clarity**: Help improve readability and organization
 - **Consistency**: Catch inconsistencies in terminology and mechanics
 - **Issue Detection**: Identify potential problems or unclear sections
-
-### What NOT to Do
-- Do not design complex game mechanics or systems
-- Do not create new abilities, spells, or major game features
-- Do not make significant balance decisions
-- Do not override user design choices with "better" alternatives
-- Do not create critical effects tables or similar complex content
+- **Idea Generation**: Those don't have to be very detailed, user uses them in ideation process, .
 
 ## Key Game Concepts
 
