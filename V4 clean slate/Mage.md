@@ -1,8 +1,8 @@
 **Requirements:** GM, **Tags**: #Instant 
 **Attribute:** #WL  **Cost:** 5 CP  
 ## Description
-Everyone wants to bend reality to their will. Unlike most you can, because you are a *mage*.  
-During an important event in your life, your talent awoken. You might have been a child lost in the darkness who summoned light or adapted own eyes to see in it, a pilgrim who's legs were tired that you just wanted your backpack to become weightless, or you saw your loved ones dying and willed their wounds to stop bleeding. 
+Everyone wants to bend reality to their will. Unlike most you can, because **you** are a *mage*.  
+During an important event in your life, your talent awoken. You might have been a child lost in the darkness who summoned light or adapted own eyes to see in it, a pilgrim who's legs were so tired that all you wanted was for your backpack to become weightless, or maybe you saw your loved ones dying and willed their wounds to stop bleeding. 
 
 
 ## Mechanics
