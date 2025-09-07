@@ -1,7 +1,7 @@
 # Licensed Healer
 
 **Requirements:** Medicine 1  
-**Attribute:** Charisma  
+**Attribute:** Wit/Charisma  
 **Cost:** 5 CP  
 
 ## Description
