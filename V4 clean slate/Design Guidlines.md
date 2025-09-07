@@ -23,3 +23,17 @@ Spell Costs by Tier:
  - Tier 4 Spells: Basic (10), Advanced(15) (5 basic or 3.3 advanced)50cp
  - Tier 5 Spells: Basic (15), Advanced(25) 
 
+# Weights
+3-5kg per large weapon, 2-3kg for average    
+ 0.5 for light, and 4 per tactical 6 for tactical  
+  8 for defensive 10 for protective 12 for    
+ bulwark 15 for titanic 20 for collossal. Buckler  
+  for 1, shield for 3, Kite for 5, Tower for 10,    
+ Fortress - 15. Small simulation - early mg1 en1    
+ for 50kg (49) 20cp physical or 64kg for    
+ early-mid (mg2 or en2)  its kite for 8kg, and    
+ defensive for 8 kg, and weapon for 2kg so 18 kg,  
+  20 with a secondary weapon. with 5kg of equip    
+ on top we get early to light encumber and 12kg    
+ to get early mid to light encumber. food and    
+ water per day is 1kg min lets assume.
