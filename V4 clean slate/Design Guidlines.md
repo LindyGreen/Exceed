@@ -15,7 +15,7 @@ This cost logic is applied to both Spellcraft and Martial Domains. Despite Marti
 
 Spell Cost by Level
 Cost to reach next levels. 10 to reach lvl1, 20 to reach lvl2, 30 to reach lvl 3, 40 to reach level 4 and 50 for level 5. 
-Perk Costs by Level:  
+Spell Costs by Level:  
  - Tier 0 Spells: Basic (1), Advanced (3)  (10 basic or 6.6 Advanced) 10cp
  - Tier 1 Spells: Basic (3), Advanced(5)   (6.6 basic or 4 Advanced) 20cp
  - Tier 2 Spells: Basic (5), Advanced(7) (6 basic or 4.3 Advanced) 30cp
