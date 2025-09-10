@@ -4,13 +4,12 @@ This document defines a standardized structure for all perks in the Exceed TTRPG
 
 ## Category Structure
 
-The template uses 4 main categories based on the classic 3 pillars + magic:
-- **Combat** - Universal combat, martial domains
-- **Exploration** - Wilderness navigation, stealth, criminal activities, lockpicking  
-- **Social** - Knowledge skills, status perks, social interactions, street wisdom
-- **Magic** - Arcane abilities, spell-related perks
+The template uses 3 main categories based on how players search for perks:
+- **Skill** - All non-combat skills (medicine, stealth, knowledge, social, wilderness, status, etc.)
+- **Martial** - Combat domains and fighting abilities
+- **Magic** - Spellcraft and supernatural perks
 
-This grouping aligns with actual gameplay pillars where knowledge and status perks naturally fit under social contexts.
+This grouping matches how players actually think about character building and perk selection.
 
 ## Template Schema
 
@@ -18,7 +17,7 @@ This grouping aligns with actual gameplay pillars where knowledge and status per
 {
   "id": "string (unique_identifier)",
   "name": "string (display_name)",
-  "category": "string (combat|exploration|social|magic)",
+  "category": "string (skill|martial|magic)",
   "subcategory": "string (optional - specific domain or skill type)",
   "tier": "integer (0-5, representing power level)",
   "cpCost": "integer (base cost in character points)",
@@ -75,12 +74,12 @@ This grouping aligns with actual gameplay pillars where knowledge and status per
 
 ## Example Perks
 
-### Combat Perk Example
+### Martial Perk Example
 ```json
 {
   "id": "riposte",
   "name": "Riposte",
-  "category": "combat",
+  "category": "martial",
   "subcategory": "universal",
   "tier": 2,
   "cpCost": 5,
@@ -124,12 +123,12 @@ This grouping aligns with actual gameplay pillars where knowledge and status per
 }
 ```
 
-### Knowledge Perk Example
+### Skill Perk Example
 ```json
 {
   "id": "first_aid",
   "name": "First Aid",
-  "category": "exploration",
+  "category": "skill",
   "subcategory": "medicine",
   "tier": 1,
   "cpCost": 5,
@@ -171,13 +170,13 @@ This grouping aligns with actual gameplay pillars where knowledge and status per
 }
 ```
 
-### Status Perk Example
+### Skill Perk Example (Status)
 ```json
 {
   "id": "licensed_healer",
   "name": "Licensed Healer",
-  "category": "social",
-  "subcategory": "professional",
+  "category": "skill",
+  "subcategory": "status",
   "tier": 1,
   "cpCost": 5,
   "variableCost": true,
@@ -258,13 +257,15 @@ This grouping aligns with actual gameplay pillars where knowledge and status per
 5. **Description** → Use as `shortDescription`, expand with context for `longDescription`
 
 ### Category Mapping
-- Universal Combat → `category: "combat", subcategory: "universal"`
-- One-Handed perks → `category: "combat", subcategory: "one_handed"`
-- Medicine perks → `category: "social", subcategory: "medicine"`
-- Street Wisdom → `category: "exploration", subcategory: "criminal"`
-- Wilderness perks → `category: "exploration", subcategory: "wilderness"`
-- Stealth perks → `category: "exploration", subcategory: "stealth"`
-- Status perks → `category: "social", subcategory: "status"`
+- Universal Combat → `category: "martial", subcategory: "universal"`
+- One-Handed perks → `category: "martial", subcategory: "one_handed"`
+- Medicine perks → `category: "skill", subcategory: "medicine"`
+- Street Wisdom → `category: "skill", subcategory: "criminal"`
+- Wilderness perks → `category: "skill", subcategory: "wilderness"`
+- Stealth perks → `category: "skill", subcategory: "stealth"`
+- Status perks → `category: "skill", subcategory: "status"`
+- Social perks → `category: "skill", subcategory: "social"`
+- Magic perks → `category: "magic", subcategory: varies`
 
 ### Special Considerations
 - **GM Requirements**: Add to `requirements.special` array
