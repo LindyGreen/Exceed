@@ -42,8 +42,8 @@ This document defines a standardized structure for all perks in the Exceed TTRPG
     "formula": "string (how attributes combine for checks)"
   },
   "gameplayType": ["array of gameplay archetypes this supports"],
-  "description": "string (complete mechanical description)",
-  "flavorText": "string (optional narrative description)",
+  "shortDescription": "string (brief summary for lists and tooltips)",
+  "longDescription": "string (complete mechanical and narrative description)",
   "tags": ["array of mechanical tags"],
   "restrictions": ["array of limitations or conflicts"],
   "linkedPerks": {
@@ -93,8 +93,8 @@ This document defines a standardized structure for all perks in the Exceed TTRPG
     "formula": "AG/DX + Martial Domain"
   },
   "gameplayType": ["duelist", "defender"],
-  "description": "When an enemy critically fails on his attack or you critically succeed defending against it, make a strike against the enemy as a reaction.",
-  "flavorText": "You know how to capitalize on enemy mistakes.",
+  "shortDescription": "Counter-attack when enemy fails or you succeed critically on defense",
+  "longDescription": "You know how to capitalize on enemy mistakes. When an enemy critically fails on his attack or you critically succeed defending against it, make a strike against the enemy as a reaction.",
   "tags": ["reactive", "counter-attack"],
   "restrictions": [],
   "linkedPerks": {
@@ -140,8 +140,8 @@ This document defines a standardized structure for all perks in the Exceed TTRPG
     "formula": "DX/WT + Medicine"
   },
   "gameplayType": ["healer", "support"],
-  "description": "Restore HP without supplies once per person per day",
-  "flavorText": "Basic medical training allows emergency treatment",
+  "shortDescription": "Restore HP without supplies once per person per day",
+  "longDescription": "Basic medical training allows emergency treatment. Restore HP without supplies once per person per day using improvised methods and knowledge of anatomy.",
   "tags": ["healing", "utility", "limited_use"],
   "restrictions": ["Once per person per day"],
   "linkedPerks": {
@@ -187,8 +187,8 @@ This document defines a standardized structure for all perks in the Exceed TTRPG
     "formula": "Used for professional interactions"
   },
   "gameplayType": ["social", "professional"],
-  "description": "Legal medical practice and noble preferential treatment",
-  "flavorText": "Official recognition as a medical practitioner",
+  "shortDescription": "Legal medical practice and noble preferential treatment",
+  "longDescription": "Official recognition as a medical practitioner grants legal authority to practice medicine and preferential treatment from nobility who value your professional services.",
   "tags": ["social", "legal_authority", "scalable"],
   "restrictions": ["Must maintain professional standards"],
   "linkedPerks": {
@@ -245,7 +245,7 @@ This document defines a standardized structure for all perks in the Exceed TTRPG
 2. **Requirements** → Parse into appropriate `requirements` subcategories
 3. **Attr** → `attributes.primary` array
 4. **CP Cost** → `cpCost` and `variableCost`/`costFormula` if applicable
-5. **Description** → Split into `description` (mechanics) and `flavorText` (narrative)
+5. **Description** → Use as `shortDescription`, expand with context for `longDescription`
 
 ### Category Mapping
 - Universal Combat → `category: "combat", subcategory: "universal"`
