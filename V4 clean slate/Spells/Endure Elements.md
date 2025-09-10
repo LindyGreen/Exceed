@@ -4,7 +4,7 @@
 **Type:** Basic/Advanced
 **AP Cost:** 3
 **Attributes:** EN/WL
-**Traits:** #Spell #Boon #Protection #Enhancement 
+**Traits:** #Spell #Boon #Protection #Enhancement (TBD)
 
 ## Short Description
 Resist environmental extremes
