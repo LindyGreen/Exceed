@@ -14,7 +14,7 @@ This repository contains "Exceed," a skill-based fantasy TTRPG maintained as an 
 - `3.1 Attributes.md` - Attribute system derived from skills
 - `3.2 HP And Wounds.md` - Health and wound consequences system
 - `3.4 Learning and Training.md` - Variant rules for CP spending and downtime training
-- `4 Combat Conflict Resolution.md` - Combat mechanics and action economy
+- `4. Combat Conflict Resolution.md` - Combat mechanics and action economy
 - `5. Skills.md` - Skill system and progression
 - `5.1 Skill And Universal Perks.md` - Non-combat skill perks and abilities
 - `6. Magic System.md` - Limit system and spell mechanics
