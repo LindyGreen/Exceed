@@ -4,14 +4,13 @@
 **Type:** Basic
 **AP Cost:** 2
 **Attributes:** WL/CH
-**Traits:** #Spell #Boon
+**Traits:** #Spell #Boon #Luck 
 
 ## Short Description
-Bless ally's next action
-
+Give advantage to an ally.
 ## Basic Version
 **Limit Cost:** -
-**Effect:** +1 to ally's next roll
+**Effect:** The ally's next roll is affected by #Luck
 
 ## Description
 [Flavor text to be written]
