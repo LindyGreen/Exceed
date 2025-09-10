@@ -18,7 +18,8 @@ This document defines a standardized structure for all spells in the Exceed TTRP
   "apCost": "integer (action points required to cast)",
   "limitCost": {
     "basic": "string|integer (limit cost for basic version)",
-    "advanced": "string|integer (limit cost for advanced version, if different)"
+    "advancedSelf": "string|integer (advanced version cost for self)",
+    "advancedParty": "string|integer (advanced version cost for party)"
   },
   "damage": {
     "formula": "string (damage calculation if applicable)",
@@ -35,7 +36,7 @@ This document defines a standardized structure for all spells in the Exceed TTRP
   "range": "string (self|touch|short|medium|long|sight)",
   "area": "string (single|line|cone|burst|aura)",
   "targeting": "string (self|ally|enemy|object|area)",
-  "school": "string (elemental|mind|body|nature|divine|etc.)",
+  "tags": ["array of spell tags (aoe, mental, projectile, elemental, etc.)"],
   "components": {
     "verbal": "boolean (requires speaking)",
     "somatic": "boolean (requires gestures)",
@@ -46,7 +47,7 @@ This document defines a standardized structure for all spells in the Exceed TTRP
     "primary": "string (main mechanical effect)",
     "secondary": ["array of additional effects"],
     "conditions": ["array of conditions applied"],
-    "saves": "string (resistance/save mechanics)"
+    "defensiveOptions": "string (which defenses can be used: dodge/parry/block/endure)"
   },
   "scaling": {
     "tier": "string (how spell improves with higher tiers)",
@@ -91,8 +92,9 @@ This document defines a standardized structure for all spells in the Exceed TTRP
   "tier": 0,
   "apCost": 2,
   "limitCost": {
-    "basic": "1 (self only)",
-    "advanced": "1 (team-wide)"
+    "basic": 1,
+    "advancedSelf": 0,
+    "advancedParty": 1
   },
   "damage": {
     "formula": null,
@@ -109,7 +111,7 @@ This document defines a standardized structure for all spells in the Exceed TTRP
   "range": "self",
   "area": "aura",
   "targeting": "self/team",
-  "school": "utility",
+  "tags": ["utility", "light"],
   "components": {
     "verbal": true,
     "somatic": true,
@@ -120,7 +122,7 @@ This document defines a standardized structure for all spells in the Exceed TTRP
     "primary": "Bright light 10m radius",
     "secondary": ["Advanced: affects entire team", "Can be cast as temporary 10-minute effect"],
     "conditions": [],
-    "saves": "none"
+    "defensiveOptions": "none"
   },
   "scaling": {
     "tier": "N/A (tier 0)",
@@ -155,8 +157,9 @@ This document defines a standardized structure for all spells in the Exceed TTRP
   "tier": 1,
   "apCost": 2,
   "limitCost": {
-    "basic": "none (instantaneous)",
-    "advanced": "none (instantaneous)"
+    "basic": 0,
+    "advancedSelf": 0,
+    "advancedParty": 0
   },
   "damage": {
     "formula": "Spellcraft * 4d damage",
@@ -173,7 +176,7 @@ This document defines a standardized structure for all spells in the Exceed TTRP
   "range": "short (2m)",
   "area": "single",
   "targeting": "enemy",
-  "school": "elemental",
+  "tags": ["combat", "elemental", "projectile"],
   "components": {
     "verbal": true,
     "somatic": true,
@@ -184,7 +187,7 @@ This document defines a standardized structure for all spells in the Exceed TTRP
     "primary": "Elemental damage on successful hit",
     "secondary": ["Element chosen at casting", "Uses normal attack roll"],
     "conditions": [],
-    "saves": "none"
+    "defensiveOptions": "none"
   },
   "scaling": {
     "tier": "Higher tiers would increase damage",
@@ -227,7 +230,7 @@ This document defines a standardized structure for all spells in the Exceed TTRP
 
 ### Magic System Integration
 - **components**: What is required to cast (verbal, somatic, material, focus)
-- **school**: Magical tradition or element for organization and specialization
+- **tags**: Spell tags for categorization and mechanical effects (aoe, mental, projectile, elemental, etc.)
 - **scaling**: How the spell improves with Spellcraft level and tier progression
 
 ### Learning and Prerequisites
