@@ -10,7 +10,7 @@ This document defines a standardized structure for all perks in the Exceed TTRPG
   "name": "string (display_name)",
   "category": "string (combat|knowledge|wilderness|social|stealth|status|magic)",
   "subcategory": "string (optional - specific domain or skill type)",
-  "tier": "integer (1-5, representing power level)",
+  "tier": "integer (0-5, representing power level)",
   "cpCost": "integer (base cost in character points)",
   "variableCost": "boolean (true if cost varies by level/circumstances)",
   "costFormula": "string (describes variable cost calculation)",
@@ -37,9 +37,9 @@ This document defines a standardized structure for all perks in the Exceed TTRPG
     "special": ["array of special requirements like GM permission"],
     "misc": "string (other requirements like reputation)"
   },
-  "attributes": {
-    "primary": ["array of primary attributes used"],
-    "formula": "string (how attributes combine for checks)"
+  "attributeBonuses": {
+    "bonuses": ["array of attribute bonuses granted"],
+    "formula": "string (how bonuses are applied)"
   },
   "gameplayType": ["array of gameplay archetypes this supports"],
   "shortDescription": "string (brief summary for lists and tooltips)",
@@ -88,9 +88,9 @@ This document defines a standardized structure for all perks in the Exceed TTRPG
     "special": [],
     "misc": null
   },
-  "attributes": {
-    "primary": ["AG", "DX"],
-    "formula": "AG/DX + Martial Domain"
+  "attributeBonuses": {
+    "bonuses": [],
+    "formula": null
   },
   "gameplayType": ["duelist", "defender"],
   "shortDescription": "Counter-attack when enemy fails or you succeed critically on defense",
@@ -135,9 +135,9 @@ This document defines a standardized structure for all perks in the Exceed TTRPG
     "special": [],
     "misc": null
   },
-  "attributes": {
-    "primary": ["DX", "WT"],
-    "formula": "DX/WT + Medicine"
+  "attributeBonuses": {
+    "bonuses": [],
+    "formula": null
   },
   "gameplayType": ["healer", "support"],
   "shortDescription": "Restore HP without supplies once per person per day",
@@ -182,9 +182,9 @@ This document defines a standardized structure for all perks in the Exceed TTRPG
     "special": [],
     "misc": "Must be taken at appropriate skill levels"
   },
-  "attributes": {
-    "primary": ["WT", "CH"],
-    "formula": "Used for professional interactions"
+  "attributeBonuses": {
+    "bonuses": [],
+    "formula": null
   },
   "gameplayType": ["social", "professional"],
   "shortDescription": "Legal medical practice and noble preferential treatment",
@@ -215,7 +215,7 @@ This document defines a standardized structure for all perks in the Exceed TTRPG
 - **name**: Display name shown to players
 - **category**: Primary classification for filtering and organization
 - **subcategory**: Secondary classification for specific domains or skill types
-- **tier**: Power level indicator (1=basic, 5=legendary)
+- **tier**: Power level indicator (0=basic, 5=legendary)
 
 ### Cost Structure
 - **cpCost**: Base character point investment required
@@ -231,7 +231,7 @@ This document defines a standardized structure for all perks in the Exceed TTRPG
 - **misc**: Reputation, published works, or other narrative requirements
 
 ### Mechanical Integration
-- **attributes**: Which attributes are used and how they combine for checks
+- **attributeBonuses**: Permanent bonuses this perk grants to character attributes
 - **gameplayType**: Supported playstyles for character building recommendations
 - **mechanics**: Action economy details for precise implementation
 
@@ -243,7 +243,7 @@ This document defines a standardized structure for all perks in the Exceed TTRPG
 ### From Existing Table Format
 1. **Name** → `name`
 2. **Requirements** → Parse into appropriate `requirements` subcategories
-3. **Attr** → `attributes.primary` array
+3. **Attr** → Parse into `attributeBonuses` if granting bonuses, otherwise may indicate roll formula
 4. **CP Cost** → `cpCost` and `variableCost`/`costFormula` if applicable
 5. **Description** → Use as `shortDescription`, expand with context for `longDescription`
 
