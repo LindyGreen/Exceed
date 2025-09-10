@@ -4,7 +4,7 @@
 **Type:** Basic
 **AP Cost:** 1 hour per 100 m²
 **Attributes:** WT/PR
-**Tags:** utility, area
+**Traits:** #Spell #Manipulation #AOE #Bane #Illusion 
 
 ## Short Description
 Control pest departure from areas with three options

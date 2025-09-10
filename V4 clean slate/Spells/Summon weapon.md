@@ -4,7 +4,7 @@
 **Type:** Basic
 **AP Cost:** 1
 **Attributes:** AG/MG
-**Tags:** conjuration, weapon
+**Traits:** #Spell #Conjuration
 
 ## Short Description
 Summon an ephemeral weapon that seeks blood

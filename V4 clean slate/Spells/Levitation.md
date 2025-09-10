@@ -4,7 +4,7 @@
 **Type:** Basic/Advanced
 **AP Cost:** -
 **Attributes:** AG/MG
-**Tags:** utility, flight
+**Traits:** #Spell #Manipulation
 
 ## Short Description
 Levitate targets to move them through the air

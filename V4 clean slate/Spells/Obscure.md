@@ -4,7 +4,7 @@
 **Type:** Basic/Advanced
 **AP Cost:** 3
 **Attributes:** PR/WT
-**Tags:** utility, stealth
+**Traits:** #Spell #Boon #Illusion
 
 ## Short Description
 Make yourself or team less noticeable from distance

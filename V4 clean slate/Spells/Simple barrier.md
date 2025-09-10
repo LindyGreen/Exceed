@@ -4,7 +4,7 @@
 **Type:** Basic
 **AP Cost:** 4
 **Attributes:** EN/WL
-**Tags:** utility, barrier
+**Traits:** #Spell #Conjuration #Protection
 
 ## Short Description
 Place magical barriers to block or bridge

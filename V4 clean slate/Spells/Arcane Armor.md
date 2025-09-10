@@ -7,11 +7,11 @@
 **Traits:** #Spell #Boon #Protection
 
 ## Short Description
-Magical protection that increases armor
+Create a light magical armor on self.
 
 ## Basic Version
 **Limit Cost:** 1
 **Effect:** +Spellcraft Armor
 
 ## Description
-[Flavor text to be written]
+[Arcane Armor is rarely used in wars, and until higher tiers it , as its less protective then ]

@@ -4,7 +4,7 @@
 **Type:** Basic/Advanced
 **AP Cost:** -
 **Attributes:** WT/AG
-**Tags:** utility, enhancement
+**Traits:** #Spell #Boon
 
 ## Short Description
 Enhance weapons with magic for extra damage

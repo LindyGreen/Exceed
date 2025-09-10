@@ -4,7 +4,7 @@
 **Type:** Basic
 **AP Cost:** 3AP
 **Attributes:** DX/EN
-**Tags:** utility, transformation
+**Traits:** #Spell #Boon #Transformation
 
 ## Short Description
 Transform limbs into tentacles with extended reach

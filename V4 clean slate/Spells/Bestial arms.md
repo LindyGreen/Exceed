@@ -4,7 +4,7 @@
 **Type:** Basic
 **AP Cost:** -
 **Attributes:** AG/DX
-**Tags:** utility, transformation
+**Traits:** #Spell #Boon #Transformation
 
 ## Short Description
 Grow claws and defensive arm covering

@@ -4,7 +4,7 @@
 **Type:** Basic
 **AP Cost:** 5
 **Attributes:** CH/WT
-**Tags:** utility, curse
+**Traits:** #Spell #Bane #Physical
 
 ## Short Description
 Place minor inconvenient curses on enemies

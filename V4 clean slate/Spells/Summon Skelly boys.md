@@ -4,7 +4,7 @@
 **Type:** Advanced
 **AP Cost:** -
 **Attributes:** WT/CH
-**Tags:** conjuration, summoning
+**Traits:** #Spell #Conjuration
 
 ## Short Description
 Summon skeleton minions for combat
