@@ -36,12 +36,7 @@ This document defines a standardized structure for all spells in the Exceed TTRP
   "range": "string (self|touch|short|medium|long|sight)",
   "area": "string (single|line|cone|burst|aura)",
   "targeting": "string (self|ally|enemy|object|area)",
-  "tags": ["array of spell tags (aoe, mental, projectile, elemental, etc.)"],
-  "components": {
-    "verbal": "boolean (requires speaking)",
-    "somatic": "boolean (requires gestures)",
-    "material": "boolean (requires materials)",
-    "focus": "boolean (requires focus item)"
+  "tags": ["array of spell tags (aoe, mental, projectile, elemental, etc.)"]
   },
   "effects": {
     "primary": "string (main mechanical effect)",
@@ -111,12 +106,7 @@ This document defines a standardized structure for all spells in the Exceed TTRP
   "range": "self",
   "area": "aura",
   "targeting": "self/team",
-  "tags": ["utility", "light"],
-  "components": {
-    "verbal": true,
-    "somatic": true,
-    "material": false,
-    "focus": false
+  "tags": ["utility", "light"]
   },
   "effects": {
     "primary": "Bright light 10m radius",
@@ -176,12 +166,7 @@ This document defines a standardized structure for all spells in the Exceed TTRP
   "range": "short (2m)",
   "area": "single",
   "targeting": "enemy",
-  "tags": ["combat", "elemental", "projectile"],
-  "components": {
-    "verbal": true,
-    "somatic": true,
-    "material": false,
-    "focus": false
+  "tags": ["combat", "elemental", "projectile"]
   },
   "effects": {
     "primary": "Elemental damage on successful hit",
@@ -229,7 +214,6 @@ This document defines a standardized structure for all spells in the Exceed TTRP
 - **range/area/targeting**: Spatial mechanics for spell application
 
 ### Magic System Integration
-- **components**: What is required to cast (verbal, somatic, material, focus)
 - **tags**: Spell tags for categorization and mechanical effects (aoe, mental, projectile, elemental, etc.)
 - **scaling**: How the spell improves with Spellcraft level and tier progression
 
