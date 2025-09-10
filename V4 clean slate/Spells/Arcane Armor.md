@@ -14,4 +14,4 @@ Create a light magical armor on self.
 **Effect:** +Spellcraft Armor
 
 ## Description
-[Arcane Armor is rarely used in wars, and until higher tiers it , as its less protective then ]
+[Arcane Armor is rarely used in wars, and until higher tiers it is weaker defense than actual physical armor. Despite that it is quite popular spell to learn. ]
