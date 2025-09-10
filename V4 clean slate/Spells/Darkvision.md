@@ -6,6 +6,9 @@
 **Attributes:** PR
 **Tags:** utility, vision
 
+## Short Description
+Grant darkvision to self or team
+
 ## Basic Version
 **Limit Cost:** 1
 **Effect:** 5m black and white darkvision on self
@@ -15,4 +18,4 @@
 **Effect:** 5m black and white darkvision on self/team
 
 ## Description
-Grant self/team darkvision.
+[Flavor text to be written]

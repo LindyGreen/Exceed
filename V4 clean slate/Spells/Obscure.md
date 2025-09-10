@@ -6,6 +6,9 @@
 **Attributes:** PR/WT
 **Tags:** utility, stealth
 
+## Short Description
+Make yourself or team less noticeable from distance
+
 ## Basic Version
 **Limit Cost:** 3
 **Effect:** All enemies 5m or further you roll contested stealth checks against roll with disadvantage
@@ -15,6 +18,6 @@
 **Effect:** All enemies 5m or further you roll contested stealth checks against roll with disadvantage
 
 ## Description
-Make yourself or your team less noticable, from distance.
+[Flavor text to be written]
 
 **Duration:** unlimited/3 rounds

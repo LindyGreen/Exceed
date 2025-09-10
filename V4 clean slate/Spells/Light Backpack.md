@@ -6,6 +6,9 @@
 **Attributes:** EN/MG
 **Tags:** utility, enhancement
 
+## Short Description
+Reduce the weight you carry
+
 ## Basic Version
 **Limit Cost:** 1
 **Effect:** Reduce the weight you carry by [N - TBD]
@@ -15,6 +18,6 @@
 **Effect:** Reduce the weight you carry by [N - TBD]
 
 ## Description
-Reduce the weight you carry by [N - TBD].
+[Flavor text to be written]
 
 **Duration:** 1 minute

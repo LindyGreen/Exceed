@@ -6,6 +6,9 @@
 **Attributes:** WT/AG
 **Tags:** utility, enhancement
 
+## Short Description
+Enhance weapons with magic for extra damage
+
 ## Basic Version
 **Limit Cost:** 1
 **Effect:** Weapons of you deal +1 damage
@@ -15,6 +18,6 @@
 **Effect:** Weapons of your allies deal +1 damage
 
 ## Description
-Cover the weapons of your allies with your magic, making them deadlier.
+[Flavor text to be written]
 
 **Duration:** -

@@ -6,6 +6,9 @@
 **Attributes:** EN/AG
 **Tags:** utility, movement
 
+## Short Description
+Ignore difficult terrain while traveling
+
 ## Basic Version
 **Limit Cost:** 1
 **Effect:** Mage ignores difficult terrain while traveling
@@ -15,4 +18,4 @@
 **Effect:** Team ignores difficult terrain while traveling
 
 ## Description
-Mage/Team ignores difficult terrain while traveling.
+[Flavor text to be written]

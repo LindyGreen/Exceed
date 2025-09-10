@@ -6,11 +6,14 @@
 **Attributes:** CH/EN
 **Tags:** utility, enhancement
 
+## Short Description
+Increase team movement speed
+
 ## Advanced Version
 **Limit Cost:** 1
 **Effect:** +1 Speed to the team
 
 ## Description
-Your team moves faster.
+[Flavor text to be written]
 
 **Duration:** -

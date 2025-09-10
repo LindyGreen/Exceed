@@ -6,9 +6,12 @@
 **Attributes:** WL/EN
 **Tags:** utility, protection
 
+## Short Description
+Magical protection that increases armor
+
 ## Basic Version
 **Limit Cost:** 1
 **Effect:** +Spellcraft Armor
 
 ## Description
-Magical protection.
+[Flavor text to be written]

@@ -6,6 +6,9 @@
 **Attributes:** EN/DX
 **Tags:** utility, protection
 
+## Short Description
+Negate falling damage for targets
+
 ## Basic Version
 **Limit Cost:** -
 **Effect:** Negate falling damage on 1 target
@@ -15,6 +18,6 @@
 **Effect:** Negate falling damage on multiple targets
 
 ## Description
-Negate falling damage on 1/multiple targets.
+[Flavor text to be written]
 
 **Duration:** 1 minute

@@ -6,11 +6,14 @@
 **Attributes:** WT/DX
 **Tags:** utility, elemental
 
+## Short Description
+Produce or manipulate small amounts of elements
+
 ## Basic Version
 **Limit Cost:** -
-**Effect:** 1d3 damage if used offensively. Doesn't scale.
+**Effect:** 1d3 damage if used offensively. Doesn't scale. Can produce flame, water, acid, move earth/stone, cool drinks.
 
 ## Description
-Produce or disrupt a flame no larger than a torch, create a cup of water or a bit of weak acid, shake a cubic decimeter of earth or 1cm of stone, cool a drink.
+[Flavor text to be written]
 
 **Duration:** Instant

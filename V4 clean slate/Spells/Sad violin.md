@@ -6,11 +6,14 @@
 **Attributes:** CH/DX
 **Tags:** utility, music
 
+## Short Description
+Play ambient musical composition for the scene
+
 ## Basic Version
 **Limit Cost:** -
 **Effect:** Play prerecorded musical composition as ambient music for the scene
 
 ## Description
-Play a prerecorded musical composition setting it as the ambient music for the scene.
+[Flavor text to be written]
 
 **Duration:** 1 minute

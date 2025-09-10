@@ -6,11 +6,14 @@
 **Attributes:** WT/WL
 **Tags:** utility, detection
 
+## Short Description
+Sense magical auras and enchantments
+
 ## Basic Version
 **Limit Cost:** 1
-**Effect:** Sense magical auras and enchantments
+**Effect:** See magic within 10m
 
 ## Description
-Sense magical auras and enchantments. See magic within 10m.
+[Flavor text to be written]
 
 **Duration:** 10 minutes

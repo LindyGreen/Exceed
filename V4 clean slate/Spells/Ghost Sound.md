@@ -6,11 +6,14 @@
 **Attributes:** CH
 **Tags:** utility, illusion
 
+## Short Description
+Create illusory sounds
+
 ## Basic Version
 **Limit Cost:** -
 **Effect:** Audio illusion
 
 ## Description
-Create illusory sounds.
+[Flavor text to be written]
 
 **Duration:** 10 seconds

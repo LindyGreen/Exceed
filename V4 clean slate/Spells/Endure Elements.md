@@ -6,6 +6,9 @@
 **Attributes:** EN/WL
 **Tags:** utility, protection
 
+## Short Description
+Resist environmental extremes
+
 ## Basic Version
 **Limit Cost:** 1
 **Effect:** Ignore minor environmental effects, like rain or dust storm
@@ -15,4 +18,4 @@
 **Effect:** Ignore minor environmental effects, like rain or dust storm
 
 ## Description
-Resist environmental extremes.
+[Flavor text to be written]

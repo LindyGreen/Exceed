@@ -6,11 +6,14 @@
 **Attributes:** WT/DX
 **Tags:** utility, cosmetic
 
+## Short Description
+Minor magical effects for cleaning, flavoring, and coloring
+
 ## Basic Version
 **Limit Cost:** -
-**Effect:** Minor magical effects (clean, flavor, color)
+**Effect:** Cosmetic effects
 
 ## Description
-Minor magical effects (clean, flavor, color). Cosmetic effects.
+[Flavor text to be written]
 
 **Duration:** 1 minute

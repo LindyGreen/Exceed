@@ -6,9 +6,14 @@
 **Attributes:** WL/PR
 **Tags:** utility, telekinetic
 
+## Short Description
+Telekinetic manipulation of small objects
+
 ## Basic Version
 **Limit Cost:** -
-**Effect:** Telekinetic manipulation of small objects
+**Effect:** 2kg max, 10m range, 2 meters per AP, hard to aim to drop things
 
 ## Description
-Telekinetic manipulation of small objects. 2kg max, 10m range, 2 meters per AP, hard to aim to drop things. Duration: 1 minute.
+[Flavor text to be written]
+
+**Duration:** 1 minute

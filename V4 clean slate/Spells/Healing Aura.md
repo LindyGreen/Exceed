@@ -6,11 +6,14 @@
 **Attributes:** WL/CH
 **Tags:** utility, healing
 
+## Short Description
+Heal surface injuries of your team
+
 ## Advanced Version
 **Limit Cost:** 2
 **Effect:** Spellcraft HP of healing per turn for all allies
 
 ## Description
-Heal surface injuries of your team.
+[Flavor text to be written]
 
 **Duration:** -

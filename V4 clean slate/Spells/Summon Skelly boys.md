@@ -6,11 +6,14 @@
 **Attributes:** WT/CH
 **Tags:** conjuration, summoning
 
+## Short Description
+Summon skeleton minions for combat
+
 ## Advanced Version
 **Limit Cost:** VAR
 **Effect:** #TODO Summoning rules. I have the vision, just need to formalize it.
 
 ## Description
-Bring a group of scrawny guys to the fight. Select skelly boys.
+[Flavor text to be written]
 
 **Duration:** -

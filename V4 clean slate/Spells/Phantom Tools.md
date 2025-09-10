@@ -6,11 +6,14 @@
 **Attributes:** DX/WT
 **Tags:** utility, conjuration
 
+## Short Description
+Create phantom tools for a skill you have
+
 ## Basic Version
 **Limit Cost:** -
 **Effect:** Create phantom tools for a skill you have
 
 ## Description
-Create phantom tools for a skill you have.
+[Flavor text to be written]
 
 **Duration:** 1 minute

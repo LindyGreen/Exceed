@@ -6,11 +6,14 @@
 **Attributes:** WL/DX
 **Tags:** utility, healing
 
+## Short Description
+Conduct magical first aid
+
 ## Basic Version
 **Limit Cost:** -
 **Effect:** First aid
 
 ## Description
-Conduct magical First-aid.
+[Flavor text to be written]
 
 **Duration:** Instant

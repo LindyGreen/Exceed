@@ -6,6 +6,9 @@
 **Attributes:** WL/EN
 **Tags:** utility, protection
 
+## Short Description
+Minor protection from one damage type
+
 ## Basic Version
 **Limit Cost:** 1
 **Effect:** -1 damage from chosen type
@@ -15,4 +18,4 @@
 **Effect:** -Spellcraft damage from chosen type
 
 ## Description
-Minor protection from one damage type.
+[Flavor text to be written]

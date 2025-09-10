@@ -6,6 +6,9 @@
 **Attributes:** WT/CH
 **Tags:** utility, animation
 
+## Short Description
+Animate household appliances to do labor
+
 ## Basic Version
 **Limit Cost:** 1
 **Effect:** Animate 1 appliance to do the work for you. It will do the untrained monotonous labor worse than any professional cleaner or a maid, but maids are expensive and you are cheap.
@@ -15,6 +18,6 @@
 **Effect:** Animate multiple appliances to do the work for you. It will do the untrained monotonous labor worse than any professional cleaner or a maid, but maids are expensive and you are cheap.
 
 ## Description
-You are too lazy to use the duster, a broom, a mopper, and even to stir your own cauldron.
+[Flavor text to be written]
 
 **Duration:** -

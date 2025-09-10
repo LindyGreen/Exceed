@@ -6,11 +6,14 @@
 **Attributes:** EN/WL
 **Tags:** utility, restraint
 
+## Short Description
+Bind target with magical chains to restrict movement
+
 ## Basic Version
 **Limit Cost:** -
 **Effect:** Target's speed is reduced to 1, Target can attempt to break the chain, which has d6 HP or do a Break roll (breaking skill/MG) for 2AP
 
 ## Description
-10m, Chains attack (against B/D/P) the target keeping it in place.
+[Flavor text to be written]
 
 **Duration:** 3 rounds

@@ -6,11 +6,14 @@
 **Attributes:** DX/EN
 **Tags:** utility, transformation
 
+## Short Description
+Transform limbs into tentacles with extended reach
+
 ## Basic Version
 **Limit Cost:** -
 **Effect:** Your tentacles have reach 2m, but no fine manipulators
 
 ## Description
-You are a weirdo who can turn his limbs in tentacles. Very useful to remove mundane manacles.
+[Flavor text to be written]
 
 **Duration:** 1 hour, cannot be self dispelled. Because you don't have hands to dispell
