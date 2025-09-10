@@ -10,6 +10,7 @@
 - [ ] **5. Equipment** - Complete weapon traits descriptions and fix formatting
 - [x] **6. Magic System** - Fix incomplete spell descriptions (Phantom Tools, Light Backpack)
 - [ ] 7. Spells - clean up action cost, create a better spell template, make a proper spell list with spells leading to spell pages,
+- [ ] 8. Envior
 
 ## Content Organization Tasks
 

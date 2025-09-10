@@ -11,7 +11,7 @@ Resist environmental extremes
 
 ## Basic Version
 **Limit Cost:** 1
-**Effect:** Ignore minor environmental effects, like rain or dust storm
+**Effect:** Ignore minor environmental effects, like rain or dust storm. #TODO Environmental rules are not yet written
 
 ## Advanced Version
 **Limit Cost:** Self 0 / Party 1
