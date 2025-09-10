@@ -4,7 +4,7 @@
 **Type:** Basic/Advanced
 **AP Cost:** -
 **Attributes:** WT/AG
-**Traits:** #Spell #Boon 
+**Traits:** #Spell #Boon #Equpment 
 
 ## Short Description
 Empower weapons with magic for extra damage
