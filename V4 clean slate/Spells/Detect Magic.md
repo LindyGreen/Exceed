@@ -4,7 +4,7 @@
 **Type:** Basic
 **AP Cost:** 3
 **Attributes:** WT/WL
-**Tags:** utility, detection
+**Traits:** #Spell #Scrying
 
 ## Short Description
 Sense magical auras and enchantments

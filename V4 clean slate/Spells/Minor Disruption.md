@@ -4,7 +4,7 @@
 **Type:** Basic
 **AP Cost:** 5
 **Attributes:** WL/CH
-**Tags:** utility, disruption
+**Traits:** #Spell #Bane
 
 ## Short Description
 Disrupt a duration spell within range

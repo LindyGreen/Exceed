@@ -4,7 +4,7 @@
 **Type:** Basic
 **AP Cost:** 2
 **Attributes:** AG/WT
-**Tags:** combat, elemental
+**Traits:** #Spell #Offensive #Strike
 
 ## Short Description
 Attack a target with chosen elemental damage

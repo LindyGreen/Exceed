@@ -4,7 +4,7 @@
 **Type:** Basic/Advanced
 **AP Cost:** -
 **Attributes:** EN/AG
-**Tags:** utility, movement
+**Traits:** #Spell #Boon
 
 ## Short Description
 Ignore difficult terrain while traveling

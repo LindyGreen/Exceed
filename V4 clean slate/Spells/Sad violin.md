@@ -4,7 +4,7 @@
 **Type:** Basic
 **AP Cost:** R
 **Attributes:** CH/DX
-**Tags:** utility, music
+**Traits:** #Spell #Illusion
 
 ## Short Description
 Play ambient musical composition for the scene

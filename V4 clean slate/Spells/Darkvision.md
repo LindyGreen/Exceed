@@ -4,7 +4,7 @@
 **Type:** Basic/Advanced
 **AP Cost:** -
 **Attributes:** PR
-**Tags:** utility, vision
+**Traits:** #Spell #Boon #Scrying
 
 ## Short Description
 Grant darkvision to self or team

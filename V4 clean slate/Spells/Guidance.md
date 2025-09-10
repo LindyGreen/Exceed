@@ -4,7 +4,7 @@
 **Type:** Basic
 **AP Cost:** 2
 **Attributes:** WL/CH
-**Tags:** utility, enhancement
+**Traits:** #Spell #Boon
 
 ## Short Description
 Bless ally's next action

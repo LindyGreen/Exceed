@@ -4,7 +4,7 @@
 **Type:** Basic
 **AP Cost:** 3
 **Attributes:** DX/WT
-**Tags:** utility, conjuration
+**Traits:** #Spell #Conjuration
 
 ## Short Description
 Create phantom tools for a skill you have

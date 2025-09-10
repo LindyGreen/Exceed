@@ -4,7 +4,7 @@
 **Type:** Basic/Advanced
 **AP Cost:** 3
 **Attributes:** WL/EN
-**Tags:** utility, protection
+**Traits:** #Spell #Boon #Protection
 
 ## Short Description
 Minor protection from one damage type

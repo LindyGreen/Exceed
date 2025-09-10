@@ -4,7 +4,7 @@
 **Type:** Basic
 **AP Cost:** 2
 **Attributes:** WL/PR
-**Tags:** utility, telekinetic
+**Traits:** #Spell #Manipulation
 
 ## Short Description
 Telekinetic manipulation of small objects

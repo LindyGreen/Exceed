@@ -4,7 +4,7 @@
 **Type:** Basic/Advanced
 **AP Cost:** R/1
 **Attributes:** EN/DX
-**Tags:** utility, protection
+**Traits:** #Spell #Boon #Protection
 
 ## Short Description
 Negate falling damage for targets

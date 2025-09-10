@@ -4,7 +4,7 @@
 **Type:** Basic
 **AP Cost:** 5
 **Attributes:** WL/DX
-**Tags:** utility, healing
+**Traits:** #Spell #Healing
 
 ## Short Description
 Conduct magical first aid

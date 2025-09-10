@@ -4,7 +4,7 @@
 **Type:** Basic/Advanced
 **AP Cost:** 2
 **Attributes:** WL/PR
-**Tags:** utility, light
+**Traits:** #Spell #Boon
 
 ## Short Description
 Create torch-level illumination around yourself or party

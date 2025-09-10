@@ -4,7 +4,7 @@
 **Type:** Basic/Advanced
 **AP Cost:** 3
 **Attributes:** EN/WL
-**Tags:** utility, protection
+**Traits:** #Spell #Boon #Protection
 
 ## Short Description
 Resist environmental extremes

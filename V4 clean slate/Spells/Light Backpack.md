@@ -4,7 +4,7 @@
 **Type:** Basic/Advanced
 **AP Cost:** -
 **Attributes:** EN/MG
-**Tags:** utility, enhancement
+**Traits:** #Spell #Boon #Manipulation 
 
 ## Short Description
 Reduce the weight you carry

@@ -4,7 +4,7 @@
 **Type:** Basic
 **AP Cost:** 2
 **Attributes:** CH/PR
-**Tags:** utility, communication
+**Traits:** #Spell #Illusion
 
 ## Short Description
 Create a telepathic communication

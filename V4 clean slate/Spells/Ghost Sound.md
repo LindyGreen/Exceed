@@ -4,7 +4,7 @@
 **Type:** Basic
 **AP Cost:** 2
 **Attributes:** CH
-**Tags:** utility, illusion
+**Traits:** #Spell #Illusion
 
 ## Short Description
 Create illusory sounds

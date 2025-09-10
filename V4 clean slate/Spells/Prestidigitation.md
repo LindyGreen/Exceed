@@ -4,7 +4,7 @@
 **Type:** Basic
 **AP Cost:** 2
 **Attributes:** WT/DX
-**Tags:** utility, cosmetic
+**Traits:** #Spell #Manipulation
 
 ## Short Description
 Minor magical effects for cleaning, flavoring, and coloring

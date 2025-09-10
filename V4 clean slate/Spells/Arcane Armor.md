@@ -4,7 +4,7 @@
 **Type:** Basic
 **AP Cost:** -
 **Attributes:** WL/EN
-**Tags:** utility, protection
+**Traits:** #Spell #Boon #Protection
 
 ## Short Description
 Magical protection that increases armor

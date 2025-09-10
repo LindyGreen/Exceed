@@ -4,7 +4,7 @@
 **Type:** Basic
 **AP Cost:** 3
 **Attributes:** WT/DX
-**Tags:** utility, elemental
+**Traits:** #Spell #Manipulation #Offensive #Projectile
 
 ## Short Description
 Produce or manipulate small amounts of elements

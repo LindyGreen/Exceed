@@ -4,7 +4,7 @@
 **Type:** Basic
 **AP Cost:** 2
 **Attributes:** CH/MG
-**Tags:** utility, enhancement
+**Traits:** #Spell #Boon #Illusion
 
 ## Short Description
 Amplify your voice significantly

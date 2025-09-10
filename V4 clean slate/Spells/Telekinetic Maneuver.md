@@ -4,7 +4,7 @@
 **Type:** Basic
 **AP Cost:** 3
 **Attributes:** MG/WL
-**Tags:** utility, telekinetic
+**Traits:** #Spell #Manipulation #Offensive #Strike
 
 ## Short Description
 Push, pull, or trip targets telekinetically
