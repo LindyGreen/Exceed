@@ -2,13 +2,23 @@
 
 This document defines a standardized structure for all perks in the Exceed TTRPG system, designed for easy export to digital applications.
 
+## Category Structure
+
+The template uses 4 main categories based on the classic 3 pillars + magic:
+- **Combat** - Universal combat, martial domains
+- **Exploration** - Wilderness navigation, stealth, criminal activities, lockpicking  
+- **Social** - Knowledge skills, status perks, social interactions, street wisdom
+- **Magic** - Arcane abilities, spell-related perks
+
+This grouping aligns with actual gameplay pillars where knowledge and status perks naturally fit under social contexts.
+
 ## Template Schema
 
 ```json
 {
   "id": "string (unique_identifier)",
   "name": "string (display_name)",
-  "category": "string (combat|knowledge|wilderness|social|stealth|status|magic)",
+  "category": "string (combat|exploration|social|magic)",
   "subcategory": "string (optional - specific domain or skill type)",
   "tier": "integer (0-5, representing power level)",
   "cpCost": "integer (base cost in character points)",
@@ -119,7 +129,7 @@ This document defines a standardized structure for all perks in the Exceed TTRPG
 {
   "id": "first_aid",
   "name": "First Aid",
-  "category": "knowledge",
+  "category": "social",
   "subcategory": "medicine",
   "tier": 1,
   "cpCost": 5,
@@ -166,7 +176,7 @@ This document defines a standardized structure for all perks in the Exceed TTRPG
 {
   "id": "licensed_healer",
   "name": "Licensed Healer",
-  "category": "status",
+  "category": "social",
   "subcategory": "professional",
   "tier": 1,
   "cpCost": 5,
@@ -250,8 +260,11 @@ This document defines a standardized structure for all perks in the Exceed TTRPG
 ### Category Mapping
 - Universal Combat → `category: "combat", subcategory: "universal"`
 - One-Handed perks → `category: "combat", subcategory: "one_handed"`
-- Medicine perks → `category: "knowledge", subcategory: "medicine"`
-- Street Wisdom → `category: "social", subcategory: "criminal"`
+- Medicine perks → `category: "social", subcategory: "medicine"`
+- Street Wisdom → `category: "exploration", subcategory: "criminal"`
+- Wilderness perks → `category: "exploration", subcategory: "wilderness"`
+- Stealth perks → `category: "exploration", subcategory: "stealth"`
+- Status perks → `category: "social", subcategory: "status"`
 
 ### Special Considerations
 - **GM Requirements**: Add to `requirements.special` array
