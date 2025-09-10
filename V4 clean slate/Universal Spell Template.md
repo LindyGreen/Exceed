@@ -10,21 +10,28 @@ This document defines a standardized structure for all spells in the Exceed TTRP
   "name": "string (display_name)",
   "shortDescription": "string (brief summary for lists and tooltips)",
   "longDescription": "string (complete mechanical and narrative description)",
-  "attributes": {
-    "primary": "string (primary attribute used)",
-    "secondary": "string (secondary attribute used)",
-    "formula": "string (how attributes combine for spellcraft)"
+  "attributeContribution": {
+    "primary": "string (primary attribute this spell contributes to)",
+    "secondary": "string (secondary attribute this spell contributes to)"
   },
   "tier": "integer (0-5, representing spell power level)",
   "apCost": "integer (action points required to cast)",
-  "limit": "integer (limit points consumed when cast)",
+  "limitCost": {
+    "basic": "string|integer (limit cost for basic version)",
+    "advanced": "string|integer (limit cost for advanced version, if different)"
+  },
   "damage": {
     "formula": "string (damage calculation if applicable)",
     "type": "string (damage type: physical, mental, elemental, etc.)",
     "scaling": "string (how damage scales with tier/attributes)"
   },
   "duration": "string (instant|concentration|turn|scene|permanent)",
-  "complexity": "string (basic|advanced)",
+  "versions": {
+    "hasBasic": "boolean (true if basic version exists)",
+    "hasAdvanced": "boolean (true if advanced version exists)",
+    "basicCost": "integer (CP cost for basic version)",
+    "advancedCost": "integer (CP cost for advanced version)"
+  },
   "range": "string (self|touch|short|medium|long|sight)",
   "area": "string (single|line|cone|burst|aura)",
   "targeting": "string (self|ally|enemy|object|area)",
@@ -70,32 +77,39 @@ This document defines a standardized structure for all spells in the Exceed TTRP
 
 ## Example Spells
 
-### Basic Damage Spell
+### Tier 0 Utility Spell (Basic/Advanced Versions)
 ```json
 {
-  "id": "force_bolt",
-  "name": "Force Bolt",
-  "shortDescription": "Launch a bolt of pure magical force",
-  "longDescription": "You gather magical energy and launch it as a concentrated bolt of force that strikes with unerring accuracy. The bolt manifests as a shimmering projectile of raw magical energy.",
-  "attributes": {
+  "id": "light",
+  "name": "Light",
+  "shortDescription": "Create torch-level illumination around yourself",
+  "longDescription": "Create torch-level illumination around yourself. Advanced version can affect the entire team without consuming limit points.",
+  "attributeContribution": {
     "primary": "Will",
-    "secondary": "Perception", 
-    "formula": "Will/Perception + Spellcraft"
+    "secondary": null
   },
-  "tier": 1,
-  "apCost": 3,
-  "limit": 1,
+  "tier": 0,
+  "apCost": 2,
+  "limitCost": {
+    "basic": "1 (self only)",
+    "advanced": "1 (team-wide)"
+  },
   "damage": {
-    "formula": "1d6 + Will modifier",
-    "type": "force",
-    "scaling": "+1d6 per tier above 1st"
+    "formula": null,
+    "type": null,
+    "scaling": null
   },
-  "duration": "instant",
-  "complexity": "basic",
-  "range": "medium",
-  "area": "single",
-  "targeting": "enemy",
-  "school": "force",
+  "duration": "persistent (or 10 minutes if cast as temporary spell)",
+  "versions": {
+    "hasBasic": true,
+    "hasAdvanced": true,
+    "basicCost": 1,
+    "advancedCost": 3
+  },
+  "range": "self",
+  "area": "aura",
+  "targeting": "self/team",
+  "school": "utility",
   "components": {
     "verbal": true,
     "somatic": true,
@@ -103,92 +117,90 @@ This document defines a standardized structure for all spells in the Exceed TTRP
     "focus": false
   },
   "effects": {
-    "primary": "Deals force damage with automatic hit",
-    "secondary": [],
+    "primary": "Bright light 10m radius",
+    "secondary": ["Advanced: affects entire team", "Can be cast as temporary 10-minute effect"],
     "conditions": [],
     "saves": "none"
   },
   "scaling": {
-    "tier": "Damage increases by 1d6 per tier",
-    "attribute": "Damage bonus from Will modifier",
-    "limit": "Spend +1 limit for +1d6 damage"
+    "tier": "N/A (tier 0)",
+    "attribute": "None",
+    "limit": "Advanced version more efficient for teams"
   },
-  "restrictions": ["Requires line of sight to target"],
+  "restrictions": [],
   "prerequisites": {
     "spells": [],
-    "attributes": [
-      {"name": "Will", "level": 2}
-    ],
+    "attributes": [],
     "skills": [
-      {"name": "Spellcraft", "level": 1}
+      {"name": "Spellcraft", "level": 0}
     ],
-    "special": []
+    "special": ["Must have Mage perk"]
   },
-  "notes": "Classic starter damage spell, reliable and straightforward",
+  "notes": "Basic utility spell, demonstrates Basic/Advanced version mechanics",
   "status": "complete"
 }
 ```
 
-### Advanced Utility Spell
+### Tier 1 Combat Spell
 ```json
 {
-  "id": "teleportation_circle",
-  "name": "Teleportation Circle",
-  "shortDescription": "Create a portal linking two distant locations",
-  "longDescription": "You inscribe a complex magical circle that opens a dimensional gateway, allowing instantaneous travel between two points. The circle requires precise geometric patterns and significant magical energy to maintain stability.",
-  "attributes": {
-    "primary": "Will",
-    "secondary": "Intelligence",
-    "formula": "Will/Intelligence + Spellcraft"
+  "id": "elemental_strike",
+  "name": "Elemental Strike",
+  "shortDescription": "Attack a target within 2m with Fire, Ice, Bludgeoning, Acid or Piercing",
+  "longDescription": "Attack a target within 2m, with Fire, Ice, Bludgeoning, Acid or Piercing. Choose the element when casting.",
+  "attributeContribution": {
+    "primary": "Agility",
+    "secondary": "Wit"
   },
-  "tier": 4,
-  "apCost": 8,
-  "limit": 4,
+  "tier": 1,
+  "apCost": 2,
+  "limitCost": {
+    "basic": "none (instantaneous)",
+    "advanced": "none (instantaneous)"
+  },
   "damage": {
-    "formula": null,
-    "type": null,
-    "scaling": null
+    "formula": "Spellcraft * 4d damage",
+    "type": "chosen element (fire/ice/bludgeoning/acid/piercing)",
+    "scaling": "Scales with Spellcraft level"
   },
-  "duration": "concentration",
-  "complexity": "advanced",
-  "range": "touch",
-  "area": "portal",
-  "targeting": "location",
-  "school": "spatial",
+  "duration": "instant",
+  "versions": {
+    "hasBasic": true,
+    "hasAdvanced": false,
+    "basicCost": 3,
+    "advancedCost": null
+  },
+  "range": "short (2m)",
+  "area": "single",
+  "targeting": "enemy",
+  "school": "elemental",
   "components": {
     "verbal": true,
     "somatic": true,
-    "material": true,
-    "focus": true
+    "material": false,
+    "focus": false
   },
   "effects": {
-    "primary": "Creates bidirectional portal between two known locations",
-    "secondary": ["Portal can transport multiple creatures", "Requires 10 minutes to inscribe"],
+    "primary": "Elemental damage on successful hit",
+    "secondary": ["Element chosen at casting", "Uses normal attack roll"],
     "conditions": [],
     "saves": "none"
   },
   "scaling": {
-    "tier": "Range increases, casting time decreases",
-    "attribute": "Portal stability and duration improve",
-    "limit": "Spend +2 limit to make portal permanent until dispelled"
+    "tier": "Higher tiers would increase damage",
+    "attribute": "Damage scales with Spellcraft level",
+    "limit": "N/A (instantaneous effect)"
   },
-  "restrictions": [
-    "Must have visited destination before",
-    "Requires expensive material components",
-    "Cannot cross planar boundaries"
-  ],
+  "restrictions": ["Must be within 2m of target"],
   "prerequisites": {
-    "spells": ["dimensional_step", "arcane_sight"],
-    "attributes": [
-      {"name": "Will", "level": 4},
-      {"name": "Intelligence", "level": 3}
-    ],
+    "spells": [],
+    "attributes": [],
     "skills": [
-      {"name": "Spellcraft", "level": 4}
+      {"name": "Spellcraft", "level": 1}
     ],
     "special": ["Must have Mage perk"]
   },
-  "notes": "High-level transportation magic requiring significant investment",
+  "notes": "Basic combat spell, demonstrates damage scaling mechanics",
   "status": "complete"
 }
 ```
@@ -202,24 +214,24 @@ This document defines a standardized structure for all spells in the Exceed TTRP
 - **longDescription**: Complete description combining mechanical effects with narrative flavor
 
 ### Casting Mechanics
-- **attributes**: Which attributes are used for spellcraft rolls and how they combine
+- **attributeContribution**: Which attributes this spell contributes to when learned
 - **tier**: Power level (0=cantrip, 5=legendary magic)
 - **apCost**: Action points required to cast the spell
-- **limit**: Limit points consumed (core magic system resource)
+- **limitCost**: Limit points consumed for persistent effects (instantaneous spells cost no limit)
 
 ### Effects and Targeting
 - **damage**: Damage formula, type, and scaling for combat spells
 - **duration**: How long the spell's effects persist
-- **complexity**: Whether this is a basic or advanced spell for learning requirements
+- **versions**: Basic and Advanced versions with different CP costs and effects
 - **range/area/targeting**: Spatial mechanics for spell application
 
 ### Magic System Integration
 - **components**: What is required to cast (verbal, somatic, material, focus)
 - **school**: Magical tradition or element for organization and specialization
-- **scaling**: How the spell improves with higher tiers, attributes, or limit investment
+- **scaling**: How the spell improves with Spellcraft level and tier progression
 
 ### Learning and Prerequisites
 - **prerequisites**: Requirements to learn the spell (other spells, attributes, skills, special conditions)
 - **restrictions**: Limitations on when or how the spell can be cast
 
-This template captures the complexity of the Exceed magic system while remaining structured for digital implementation.
+This template captures the complexity of the Exceed Limit-based magic system, including Basic/Advanced spell versions, while remaining structured for digital implementation. Note that all spells are cast using Wit + Spellcraft regardless of the spell type.
