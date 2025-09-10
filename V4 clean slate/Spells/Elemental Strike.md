@@ -14,6 +14,6 @@ Attack a target with chosen elemental damage
 **Effect:** Spellcraft * 4d damage of chosen element on a hit
 
 ## Description
-[Flavor text to be written]
+[The most versatile offensive spell out there. People enlarge it, make ]
 
 **Duration:** -
