@@ -129,7 +129,7 @@ This grouping aligns with actual gameplay pillars where knowledge and status per
 {
   "id": "first_aid",
   "name": "First Aid",
-  "category": "social",
+  "category": "exploration",
   "subcategory": "medicine",
   "tier": 1,
   "cpCost": 5,
