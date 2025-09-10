@@ -8,7 +8,7 @@
 
 ## Basic Version
 **Limit Cost:** 1
-**Effect:** Magical protection
+**Effect:** +Spellcraft Armor
 
 ## Description
-Magical protection. +Spellcraft Armor.
+Magical protection.

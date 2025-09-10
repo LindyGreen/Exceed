@@ -3,7 +3,7 @@
 **Tier:** 0
 **Type:** Basic/Advanced
 **AP Cost:** 2
-**Attributes:** WL/2PR
+**Attributes:** WL/PR
 **Tags:** utility, light
 
 ## Basic Version

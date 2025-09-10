@@ -1,0 +1,20 @@
+# Obscure
+
+**Tier:** 1
+**Type:** Basic/Advanced
+**AP Cost:** 3
+**Attributes:** PR/WT
+**Tags:** utility, stealth
+
+## Basic Version
+**Limit Cost:** 3
+**Effect:** All enemies 5m or further you roll contested stealth checks against roll with disadvantage
+
+## Advanced Version
+**Limit Cost:** Self 1 / Party 3
+**Effect:** All enemies 5m or further you roll contested stealth checks against roll with disadvantage
+
+## Description
+Make yourself or your team less noticable, from distance.
+
+**Duration:** unlimited/3 rounds
