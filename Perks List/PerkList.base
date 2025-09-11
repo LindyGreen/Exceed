@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("V4 clean slate/Perks List")
+    order:
+      - file.name
+      - file.tags
